@@ -1,0 +1,1 @@
+[Cura 15.04 Profile from Prusa](http://shop.prusa3d.com/forum/original-prusa-i3-mk2-f23/cura-print-settings-t999.html) saved here as [Original_Prusa_i3_MK2_0_15_PLA_NORMAL.ini](slicer\ profiles/Original_Prusa_i3_MK2_0_15_PLA_NORMAL.ini)
