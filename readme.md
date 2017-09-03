@@ -13,9 +13,9 @@ Glue stick on the bed.
 
 **Original License**: [Creative Commons - Attribution - No Derivatives](http://creativecommons.org/licenses/by-nd/3.0/)
 
-**Model**: [Wii-mote Holder](2017/09/Wii-mote Holder/wiimote_holder_x4.stl)
+**Model**: [Wii-mote Holder](2017/09/Wii-mote%20Holder/wiimote_holder_x4.stl)
 
-**GCode**: [wiimote_holder_x4_0.35mm.gcode](2017/09/Wii-mote Holder/wiimote_holder_x4_0.35mm.gcode)
+**GCode**: [wiimote_holder_x4_0.35mm.gcode](2017/09/Wii-mote%20Holder/wiimote_holder_x4_0.35mm.gcode)
 
 **Material**: Hatchbox Yellow PLA 1.75mm
 
