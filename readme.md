@@ -13,9 +13,9 @@ Glue stick on the bed.
 
 **Original License**: [Creative Commons - Attribution - No Derivatives](http://creativecommons.org/licenses/by-nd/3.0/)
 
-**Model**: [Wii-mote Holder](2017/02/Wii-mote Holder/wiimote_holder_x4.stl)
+**Model**: [Wii-mote Holder](2017/09/Wii-mote Holder/wiimote_holder_x4.stl)
 
-**GCode**: [wiimote_holder_x4_0.35mm.gcode](2017/02/Wii-mote Holder/wiimote_holder_x4_0.35mm.gcode)
+**GCode**: [wiimote_holder_x4_0.35mm.gcode](2017/09/Wii-mote Holder/wiimote_holder_x4_0.35mm.gcode)
 
 **Material**: Hatchbox Yellow PLA 1.75mm
 
@@ -42,9 +42,9 @@ Mountable holder for four Wii-motes. Aborted at 22 hours and 22% printed.
 
 **Original License**: [Creative Commons - Attribution - No Derivatives](http://creativecommons.org/licenses/by-nd/3.0/)
 
-**Model**: [Wii-mote Holder](2017/02/Wii-mote Holder/wiimote_holder_x4.stl)
+**Model**: [Wii-mote Holder](2017/09/Wii-mote Holder/wiimote_holder_x4.stl)
 
-**GCode**: [wiimote_holder_x4_10p-innfill_0.10mm.gcode](2017/02/Wii-mote Holder/wiimote_holder_x4_10p-innfill_0.10mm.gcode)
+**GCode**: [wiimote_holder_x4_10p-innfill_0.10mm.gcode](2017/09/Wii-mote Holder/wiimote_holder_x4_10p-innfill_0.10mm.gcode)
 
 **Material**: Yellow PLA
 
@@ -87,9 +87,9 @@ Pikachu pawn from a Pokemon themed chess set.
 
 **Original License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-**Model**: [Pawn Pikachu](2017/02/Pawn Pikachu/Pawn_Pikachu.stl)
+**Model**: [Pawn Pikachu](2017/09/Pawn Pikachu/Pawn_Pikachu.stl)
 
-**GCode**: [Pawn_Pikachu_5perc-infill_0.10mm.gcode](2017/02/Pawn Pikachu/Pawn_Pikachu_5perc-infill_0.10mm.gcode)
+**GCode**: [Pawn_Pikachu_5perc-infill_0.10mm.gcode](2017/09/Pawn Pikachu/Pawn_Pikachu_5perc-infill_0.10mm.gcode)
 
 **Material**: Yellow PLA
 
