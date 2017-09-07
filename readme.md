@@ -1,21 +1,7 @@
 
 # Current
 
-## MakerBot HeadPhone stand
-
-This print seems to be a rite of passage for a lot of 3d printers. Our print is scaled to 85% of
-original size, and rotated 90 degrees to fit the print volume of the Prusa i3 mk2
-
-First attempt failed after 2nd layer - all kinds of frizzing and mis-adhesion. Looks like the filament
-spool had unwound an extra loop, and had tightened around the spool holder, causing too much tension in
-the line leading to the extruder.
-
-
-
-0.35mm Layers (fast print)
-5% infill - cubic
-no supports
-Black 1.75mm Prusa PETG
+! check MakerBot Headphone Stand readme
 
 ## Jewelry Test - Oriental Earrings
 
