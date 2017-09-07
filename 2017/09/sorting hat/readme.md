@@ -11,6 +11,7 @@ at 10cm to a side, which would take too long to print. So we started small and s
 https://www.instagram.com/p/BYovxW2gz7q/?taken-by=dwyerdevices
 
 
+**Blog Post**: [Sorting a Sorting Hat](http://www.dwyerdevices.com/2017/09/05/sorting-a-sorting-hat/)
 
 ### Print 1
 

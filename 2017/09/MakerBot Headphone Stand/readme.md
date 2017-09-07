@@ -24,6 +24,7 @@ the line leading to the extruder. The second attempt was a success - a quick, li
 durability head phone stand.
 
 
+**Blog Post**: -
 
 **Source**: [Makerbot Headphone Stand](https://www.thingiverse.com/thing:2050885)
 

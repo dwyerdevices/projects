@@ -6,6 +6,7 @@ https://www.instagram.com/p/BYgtn3hgJL6/?taken-by=dwyerdevices
 
 I like these boxes because they're large enough to hold decent sized pieces, but small enough to tuck away on the work bench and not get in the way. This version of the stackable box was slightly modified to make it very clear that the contained pieces are to be kept...
 
+**Blog Post**: [Keep Me](http://www.dwyerdevices.com/2017/09/07/keep-me/)
 
 **Source**: [Stackable Boxes](https://www.thingiverse.com/thing:647425)
 
