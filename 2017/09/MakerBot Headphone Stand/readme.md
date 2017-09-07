@@ -1,6 +1,7 @@
 ## MakerBot HeadPhone stand
 
 ! Get a picture of the stand in use.
+! add picture set to insta
 ! Add gcode files to directory
 
 The MakerBot Head Phone stand seems to be a rite of passage for a lot of 3d printers. My first
