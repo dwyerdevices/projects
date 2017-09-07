@@ -124,37 +124,6 @@ More clips
 # Printed
 
 
-## Keep Tray
-
-Quick print - a box for bits and pieces easily mistaken for cast-offs or trimmings from other prints. Helpful for 
-holding filament clips and other frequently used tools.
-
-**Source**: [Stackable Boxes](https://www.thingiverse.com/thing:647425)
-
-**Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-
-**Original Model**: [stack_box.stl](https://www.thingiverse.com/download:1041629)
-
-**Modified Model**: [Keep Box.stl](https://github.com/dwyerdevices/prints/blob/master/2017/09/Keep%20Box/Keep%20Box.stl)
-
-**GCode**: [Keep Box_0.10mm.gcode](https://github.com/dwyerdevices/prints/blob/master/2017/09/Keep%20Box/Keep%20Box_0.10mm.gcode)
-
-**Material**: Hatchbox Yellow PLA 1.75mm
-
-**Print Date**: 2017/09/01
-
-**Print Time**: Untimed
-
-**Slicer**: Slic3r PE 1.36.2
-
-**Slice Settings**:
-
- - 0.10mm Layers
- - 20% infill - Cubic
- - No supports
-
-**Printer**: Prusa i3 mk2
-
 ## Filament spool clips
 
 Incredibly useful for keeping spools of filament from unwinding, and very quick to print, making them a fantastic
