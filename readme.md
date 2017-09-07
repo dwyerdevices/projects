@@ -55,17 +55,6 @@ No structures
 
 **Print Time**: 27 minutes
 
-## Pikachu Reprint
-
-Reprinting the Pikachu from [Pikachu, I print you!](http://www.dwyerdevices.com/2017/09/03/14/)
-
-**Print Date**: 2017/09/04
-
-**Print Time**: 3 hours, 8 minutes
-
-**Material**: Hatchbox Red PLA 1.75mm
-
-**Slicing**: No change
 
 
 ## Journal - Header Stencil - Trial 1
