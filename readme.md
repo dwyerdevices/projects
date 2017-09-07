@@ -5,6 +5,8 @@
 
 ## Jewelry Test - Oriental Earrings
 
+https://www.instagram.com/p/BYrUVawg1w3/?taken-by=dwyerdevices
+
 ### First tests - vertical earrings
 
 First print didn't take - lost adhesion before the third layer even printed. Trying a second time, no modifications.
@@ -79,6 +81,8 @@ Print Date: 2017/09/04
 
 Stackable tray https://www.thingiverse.com/thing:647425/#files
 
+https://www.instagram.com/p/BYrSpUcAkmY/?taken-by=dwyerdevices
+
 0.10mm layers
 1.75mm White Prusa PLA
 20% infill cubic
@@ -87,6 +91,8 @@ Print Time: 3 hours, 33 minutes
 2017/09/Stacking Box/stacking_box_tray (0.10mm)
 
 ## Stacking Box - Single - Fast Print
+
+https://www.instagram.com/p/BYrT36ugUnD/?taken-by=dwyerdevices
 
 0.35mm Layers (Fast Print)
 1.75mm White Prusa PLA
@@ -111,6 +117,9 @@ More clips
 
 
 ## Filament spool clips
+
+https://www.instagram.com/p/BYY1deZgMhv/?taken-by=dwyerdevices
+
 
 Incredibly useful for keeping spools of filament from unwinding, and very quick to print, making them a fantastic
 test print for new filament. Very easy to print out multiples.
@@ -146,7 +155,19 @@ test print for new filament. Very easy to print out multiples.
 
 ## Tops
 
+https://www.instagram.com/p/BYZW7XaASTE/?taken-by=dwyerdevices
+
+https://www.instagram.com/p/BYYurhJAedu/?taken-by=dwyerdevices
+
 ## Phone Stand
+
+https://www.instagram.com/p/BYgjvb3gsxk/?taken-by=dwyerdevices
+
+Yellow PLA 1.75mm
+0.10mm layers
+untimed 
+Print Date: 2017/08/31
+
 
 # Blogged
 

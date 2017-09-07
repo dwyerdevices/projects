@@ -6,12 +6,16 @@
 The MakerBot Head Phone stand seems to be a rite of passage for a lot of 3d printers. My first
 few attempts at printing the stand failed. For one attempt I didn't check that the print would
 fit the print volume of the Prusa i3 mk2 - it didn't. The second attempt delaminated half way through
-and ended up a rats nest of wated filament.
+and ended up a rats nest of wated filament:
+
+https://www.instagram.com/p/BYYuPjCgiPh/?taken-by=dwyerdevices
 
 This print is scaled to 85% of original size, and rotated 90 degrees to fit the print volume of the Prusa. It's
 also set for 5% infill in an attempt to speed up the print time. The early attempts at the stand took double
 digit hours (20+ for one attempt) - a high % infill made for an incredibly strong stand (the upright of the stand
-didn't crush under 150+ lbs ), but an incredibly long print time.
+didn't crush under 150+ lbs ), but an incredibly long print time:
+
+https://www.instagram.com/p/BYYTYXcg2OU/?taken-by=dwyerdevices
 
 The first attempt this time failed after the 2nd layer - all kinds of frizzing and mis-adhesion. It looks like the filament
 spool had unwound an extra loop, and had tightened around the spool holder, causing too much tension in
