@@ -19,9 +19,11 @@ didn't crush under 150+ lbs ), but an incredibly long print time:
 https://www.instagram.com/p/BYYTYXcg2OU/?taken-by=dwyerdevices
 
 The first attempt this time failed after the 2nd layer - all kinds of frizzing and mis-adhesion. It looks like the filament
-spool had unwound an extra loop, and had tightened around the spool holder, causing too much tension in
+spool had unwound an extra loop and had tightened around the spool holder, causing too much tension in
 the line leading to the extruder. The second attempt was a success - a quick, light weight, and somewhat light
 durability head phone stand.
+
+https://www.instagram.com/p/BYyafctg1Em/?taken-by=dwyerdevices
 
 
 **Blog Post**: -
