@@ -1,12 +1,22 @@
 ## Filament spool clips
 
+
+If you're switching between filaments, you need something to keep the spool from unwinding. This
+model set is incredibly useful: a super simple, super quick filament clip with variations for a
+bunch of different spool shapes and sizes. With a quick modification prior to slicing, it's also 
+very easy to print out multiples. 
+
 https://www.instagram.com/p/BYY1deZgMhv/?taken-by=dwyerdevices
 
+This model is fast enough and small enough that I end up using it to test new filaments or print
+settings, prior to running larger and longer prints. A model like this should be included in the
+SD Card that ships with the Prusa i3.
 
-Incredibly useful for keeping spools of filament from unwinding, and very quick to print, making them a fantastic
-test print for new filament. Very easy to print out multiples.
+The low profile of the clip works well when stacking and storing spools. I wedge a bunch of 
+spools together when I store them in an air-tight container, and I have yet to accidentally dislodge
+a clip.
 
-**Blog Post**: -
+**Blog Post**: [Unwinding?](http://www.dwyerdevices.com/2017/09/08/unwinding/)
 
 **Source**: [1.75mm Filament Clips](https://www.thingiverse.com/thing:42528)
 
