@@ -1,7 +1,5 @@
 # Awaiting Blog Posts
 
-! update and post MakerBot Headphone Stand
- - need finished picture
 ! update and post Stack Box (lower quality) 
  - need gcode
  - need readme

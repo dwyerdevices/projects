@@ -26,7 +26,7 @@ durability head phone stand.
 https://www.instagram.com/p/BYyafctg1Em/?taken-by=dwyerdevices
 
 
-**Blog Post**: -
+**Blog Post**: [No More Headphones on the Desk](http://www.dwyerdevices.com/2017/09/08/no-more-headphones-on-the-desk/)
 
 **Source**: [Makerbot Headphone Stand](https://www.thingiverse.com/thing:2050885)
 
@@ -34,7 +34,7 @@ https://www.instagram.com/p/BYyafctg1Em/?taken-by=dwyerdevices
 
 **Model**: [MakerBot_HeadPhone_Stand.STL](https://www.thingiverse.com/download:3218230)
 
-**GCode**: -
+**GCode**: [MakerBot_Headphone_Stand_0.35mm.gcode](https://github.com/dwyerdevices/prints/blob/master/2017/09/MakerBot%20Headphone%20Stand/MakerBot_Headphone_Stand_0.35mm.gcode)
 
 **Material**: Black 1.75mm Prusa PETG
 
