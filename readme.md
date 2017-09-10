@@ -4,17 +4,22 @@
  - need gcode
  - need readme
  - need directory
+ 
 ! update and post Filament Clips
+
 ! jewelry test
  - need gcode
  - need readme
  - need directory
+ 
 ! stack box tray
  - need readme
+ 
 ! tops
  - need directory
  - need gcode
  - need readme
+ 
 ! phone stand
 
 # Current
@@ -24,19 +29,30 @@
 ! start moon print
 ! start list in repo of print ideas
 
-## CCG Box
+## Cleaning the PEI Bed
 
-0.20mm
-No supports
-1.75mm Translucent Green PETG (cnzhehan.com)
+Tried: Isopropyl Wipes
+Result: for a small bit of glue it might work, but for a larger surface, this just doesn't help
+
+Tried: Nail polish remover
+Result: Turns the glue back to a sticky surface, but doesn't remove it
+
+Tried: Damp paper towl on headed bed (h/t: Mark Fuller https://www.youtube.com/watch?v=Azjci3GOAYQ)
+Result: It took a few cycles, but this worked better than anything yet.
 
 
-### Deck Box #1
+## Dexter's Moon
 
-After needing a full recalibration (that's a fun error message), and spending 20 minutes Live Adjusting the Z axis during test
-prints, I could finally attempt the first of the eight prints for the CCG Deck box. It took 3 attempts, and various layer adhesion
-problems, before I remembered that PETG was my nemesis, and I had to use glue stick on the print bed. With glue applied, the first
-section of the box was well under way.
+Draft - 0.35mm layers
+Natural ABS 1.75mm
+1mm Brim
+0% infill
+Build supports
+Hollow Shell
+
+Slicer: Slic3r
+
+Screen shots of Prusa Control
 
 
 
@@ -47,6 +63,15 @@ More clips
 **jewelry**
 
 **letter form test**
+
+**better spool holder**
+
+ a one-size-fits-all holder with insertable rod?
+ 
+**Clip Case for CCG**
+
+Slide over case with two inserts that act as cotter pins
+
 
 # Printed
 
