@@ -50,6 +50,9 @@ Natural ABS 1.75mm
 Build supports
 Hollow Shell
 
+Normal size: 9cm radius
+Scaled size: 50% - 5cm radius
+
 Slicer: Slic3r
 
 Screen shots of Prusa Control
