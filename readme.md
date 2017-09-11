@@ -4,8 +4,7 @@
  - need gcode
  - need readme
  - need directory
- 
-! update and post Filament Clips
+
 
 ! jewelry test
  - need gcode
@@ -26,8 +25,31 @@
 
 ! create a font test for stencil post
 
-! start moon print
 ! start list in repo of print ideas
+
+
+## Daft Trio
+
+### RAM Helmet
+Model: https://www.thingiverse.com/thing:97959
+File: https://www.thingiverse.com/download:212286
+scale: 100%
+
+### Guy-Manuel Helmet
+Model: https://www.thingiverse.com/thing:95504
+File: https://www.thingiverse.com/download:208391
+scale: 166%
+
+### Thomas Helmet
+Model: https://www.thingiverse.com/thing:94603
+File: https://www.thingiverse.com/download:206991
+scale: 166%
+
+material: Cosmic Blue glow in the dark PLA 1.75mm
+layers: 0.20mm Normal
+infill: 20%
+generate supports
+supports on build plate only
 
 ## That's one big pile of ABS
 
@@ -35,17 +57,8 @@ An print of "all_the_filaments" failed spectacularly, leaving a big ball of ABS 
 the best way to find the printer. I set the hot-end to pre-heat for ABS, and was able to cleanly pull the ball
 off at about 120 degrees.
 
+https://www.instagram.com/p/BY6UNwlAUyO/?taken-by=dwyerdevices
 
-## Cleaning the PEI Bed
-
-Tried: Isopropyl Wipes
-Result: for a small bit of glue it might work, but for a larger surface, this just doesn't help
-
-Tried: Nail polish remover
-Result: Turns the glue back to a sticky surface, but doesn't remove it
-
-Tried: Damp paper towl on headed bed (h/t: Mark Fuller https://www.youtube.com/watch?v=Azjci3GOAYQ)
-Result: It took a few cycles, but this worked better than anything yet.
 
 
 ## Dexter's Moon
@@ -59,18 +72,13 @@ Hollow Shell
 
 Normal size: 9cm radius
 Scaled size: 50% - 5cm radius
-
+print time: 3 hours 3 minutes
+print date: 2017/09/10
 Slicer: Slic3r
 
 Screen shots of Prusa Control
 
-
-## All The Clips
-
-0.15mm Optimal Layers
-Natural ABS 1.75mm
-20% infill
-no supports
+https://www.instagram.com/p/BY4XoEyAAeR/?taken-by=dwyerdevices
 
 
 # Next Up
@@ -106,5 +114,3 @@ Yellow PLA 1.75mm
 untimed 
 Print Date: 2017/08/31
 
-
-# Blogged
