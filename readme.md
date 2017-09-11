@@ -29,6 +29,13 @@
 ! start moon print
 ! start list in repo of print ideas
 
+## That's one big pile of ABS
+
+An print of "all_the_filaments" failed spectacularly, leaving a big ball of ABS wrapped around the hot end. Not
+the best way to find the printer. I set the hot-end to pre-heat for ABS, and was able to cleanly pull the ball
+off at about 120 degrees.
+
+
 ## Cleaning the PEI Bed
 
 Tried: Isopropyl Wipes
