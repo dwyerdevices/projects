@@ -55,10 +55,15 @@ Slicer: Slic3r
 Screen shots of Prusa Control
 
 
+## All The Clips
+
+0.15mm Optimal Layers
+Natural ABS 1.75mm
+20% infill
+no supports
+
 
 # Next Up
-
-More clips
 
 **jewelry**
 
@@ -72,6 +77,7 @@ More clips
 
 Slide over case with two inserts that act as cotter pins
 
+**Odometer style counter for measuring total printed filament**
 
 # Printed
 
