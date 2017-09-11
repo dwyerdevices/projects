@@ -99,11 +99,15 @@ Slide over case with two inserts that act as cotter pins
 
 # Printed
 
+
 ## Tops
 
-https://www.instagram.com/p/BYZW7XaASTE/?taken-by=dwyerdevices
+both: https://www.instagram.com/p/BYZW7XaASTE/?taken-by=dwyerdevices
 
-https://www.instagram.com/p/BYYurhJAedu/?taken-by=dwyerdevices
+Gray: https://www.instagram.com/p/BYYurhJAedu/?taken-by=dwyerdevices
+
+
+
 
 ## Phone Stand
 
