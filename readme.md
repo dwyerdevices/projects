@@ -60,6 +60,10 @@ off at about 120 degrees.
 https://www.instagram.com/p/BY6UNwlAUyO/?taken-by=dwyerdevices
 
 
+## Idle Time - Feature or Bug? 
+
+Idle time during a paused print counts towards the overall print time. Weird.
+
 
 ## Dexter's Moon
 
