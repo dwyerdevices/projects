@@ -27,16 +27,6 @@
 ! start list in repo of print ideas
 
 
-
-## That's one big pile of ABS
-
-A print of "all_the_filaments" failed spectacularly, leaving a big ball of ABS wrapped around the hot end. Not
-the best way to find the printer. I set the hot-end to pre-heat for ABS, and was able to cleanly pull the ball
-off at about 120 degrees.
-
-https://www.instagram.com/p/BY6UNwlAUyO/?taken-by=dwyerdevices
-
-
 ## Idle Time - Feature or Bug? 
 
 Idle time during a paused print counts towards the overall print time. Weird.
@@ -52,7 +42,7 @@ SUpports
 Support only on build plate
 Glue on print bed
 
-gcode: 
+gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/poke-set/poke-set.gcode
 
 Charmander fire snapped off with light play. Bottom faces of all of them are messy.
 
@@ -73,6 +63,7 @@ I do like this turquoise filament - really consistent solid color.
 model: https://www.thingiverse.com/thing:2541654
 file: https://www.thingiverse.com/download:4121845
 maker: me
+gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/name%20plate/Dwyer%20Devices-2.gcode
 
 ## Polyhedra
 
@@ -87,6 +78,7 @@ Generate Supports
 Hatchbox red 1.75mm PLA
 Print Date: 2017/09/14
 PRint Time: 7 hours 58 minutes
+gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/polyhedra/truncated_icodecahedron.gcode
 
 That was a non-trivial amount of cleanup (40 minutes)
 
@@ -116,6 +108,7 @@ No Supports
 20% infill
 print date: 2017/09/14
 print time: 46 minutes
+gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/Modeling%20Ruler/Modeling%20Ruler%20-%20Simple-v1.0.gcode
 
 https://www.instagram.com/p/BZMv4qVAZLc/?taken-by=dwyerdevices
 
