@@ -84,33 +84,6 @@ That was a non-trivial amount of cleanup (40 minutes)
 
 https://www.instagram.com/p/BZKDp_tgcRy/?taken-by=dwyerdevices
 
-## Modeling Ruler v1.0
-
-Seems like a very quick print - 10cm isn't big :)
-
-Faults: 
- - text wasn't tall enough, didn't get printed. 
- - 5mm notches are hard to see in low light
- - right angle and curve notch-ins aren't all that useful
- 
-Pros:
- - Sizing insets for 1, 2, 5, 20mm work really well
- - Quarter circle insets are helpful
- - Right angle of the largest quarter circle made a fantastic square edge
- - light and easy to wedge into (and keep in) a drawing pad, almost like a bookmark
- - clean edges made for good drafting quality
- 
-0.10mm layers
-Maker: me
-Model: https://www.thingiverse.com/download:4121797
-Thing: https://www.thingiverse.com/thing:2541632
-No Supports
-20% infill
-print date: 2017/09/14
-print time: 46 minutes
-gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/Modeling%20Ruler/Modeling%20Ruler%20-%20Simple-v1.0.gcode
-
-https://www.instagram.com/p/BZMv4qVAZLc/?taken-by=dwyerdevices
 
 # Next Up
 
