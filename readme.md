@@ -29,7 +29,8 @@
 
 ## Idle Time - Feature or Bug? 
 
-Idle time during a paused print counts towards the overall print time. Weird.
+Idle time during a paused print counts towards the overall print time. Weird. Or it counts to the wall clock time, but the
+overall print time is correct. Interesting.
 
 ## Poke-set
 
@@ -85,8 +86,29 @@ That was a non-trivial amount of cleanup (40 minutes)
 https://www.instagram.com/p/BZKDp_tgcRy/?taken-by=dwyerdevices
 
 
+## Ruined Walls
+
+Let's build a dungeon.
+
+**Series**: OpenForge tiles
+
+0.35mm Fast Print layers
+10% infill
+No Supports
+Print 2 at once
+PLA 1.75mm
+
+Print Date: 2017/09/19
+Print Time: ?
+Est Print Time: 1 hour 58 minutes (PrusaControl)
+
+Model: https://www.thingiverse.com/download:863775
+Thing: https://www.thingiverse.com/thing:526706
+Maker: https://www.thingiverse.com/devonjones
+
 # Next Up
 
+**stellated polyhedra**
  
 **jewelry**
 
