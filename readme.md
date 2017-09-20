@@ -32,21 +32,6 @@
 Idle time during a paused print counts towards the overall print time. Weird. Or it counts to the wall clock time, but the
 overall print time is correct. Interesting.
 
-## Poke-set
-
-https://www.instagram.com/p/BZBxlW1A351/?taken-by=dwyerdevices
-
-0.35mm layers (Fast Print)
-White PLA
-10% infill
-SUpports
-Support only on build plate
-Glue on print bed
-
-gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/poke-set/poke-set.gcode
-
-Charmander fire snapped off with light play. Bottom faces of all of them are messy.
-
 ## Name plate
 
 0.10mm layers
