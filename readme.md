@@ -98,9 +98,26 @@ Thing: https://www.thingiverse.com/thing:251178
 Maker: https://www.thingiverse.com/devonjones
 
 
+## Moana Locket
+
+Thing: [Moana - Heart of TeFiti](https://www.thingiverse.com/thing:2371655)
+Maker: [McKrats](https://www.thingiverse.com/McKrats)
+License: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+Model: [Moana_HoTF.stl](https://www.thingiverse.com/download:3788981)
+
+Print Date: 2017/09/20
+Print Time: ?
+Est Print Time: 2 hours 23 minutes (PrusaControl)
+Est Filament Length: 5.8 meters
+ 
+0.10mm layers
+Prusa Gray PLA 1.75mm
+30% Infill
+no supports
+
 # Next Up
 
-**moana locket for W**
+
 
 
 **settlers interlocking tiles/board**
