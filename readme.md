@@ -32,27 +32,6 @@
 Idle time during a paused print counts towards the overall print time. Weird. Or it counts to the wall clock time, but the
 overall print time is correct. Interesting.
 
-## Name plate
-
-0.10mm layers
-no supports
-1.75mm Turquoise PLA
-Print Date: 2017/09/18
-Print time: ?
-20% cubic infill
-
-Should have printed with an attached brim, as multiple points around the edge are pulling away
-from the print bed.
-
-I do like this turquoise filament - really consistent solid color.
-
-https://www.instagram.com/p/BZNEyPoAlkA/?taken-by=dwyerdevices
-
-model: https://www.thingiverse.com/thing:2541654
-file: https://www.thingiverse.com/download:4121845
-maker: me
-gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/name%20plate/Dwyer%20Devices-2.gcode
-
 ## Polyhedra
 
 Customizer: https://www.thingiverse.com/apps/customizer/run?thing_id=233540
@@ -121,6 +100,28 @@ Maker: https://www.thingiverse.com/devonjones
 
 # Next Up
 
+**moana locket for W**
+
+
+**settlers interlocking tiles/board**
+
+
+
+**Ruler v2:**
+- through hole ticks
+- no bump outs
+ - more gap measures
+- numeric through holes
+- lengthen to 15cm
+- dotted/dashed line through holes
+
+**Curves and Angles ruler**
+
+**Printing small features bit:**
+- layers as multiples of min feature size
+- dynamic layer sizing
+- text and curves and segments
+
 **stellated polyhedra**
  
 **jewelry**
@@ -136,13 +137,3 @@ Maker: https://www.thingiverse.com/devonjones
 Slide over case with two inserts that act as cotter pins
 
 **Odometer style counter for measuring total printed filament**
-
-# Printed
-
-
-## Tops
-
-both: https://www.instagram.com/p/BYZW7XaASTE/?taken-by=dwyerdevices
-
-Gray: https://www.instagram.com/p/BYYurhJAedu/?taken-by=dwyerdevices
-
