@@ -61,6 +61,8 @@ from the print bed.
 
 I do like this turquoise filament - really consistent solid color.
 
+https://www.instagram.com/p/BZNEyPoAlkA/?taken-by=dwyerdevices
+
 model: https://www.thingiverse.com/thing:2541654
 file: https://www.thingiverse.com/download:4121845
 maker: me
@@ -90,21 +92,47 @@ https://www.instagram.com/p/BZKDp_tgcRy/?taken-by=dwyerdevices
 
 Let's build a dungeon.
 
+Zero surface prep, and a really quick print. Hole through the wall ended up with a few dangling
+threads of filament. Easy to get off the bed as well.
+
+https://www.instagram.com/p/BZPhwkSAsoI/?taken-by=dwyerdevices
+
 **Series**: OpenForge tiles
 
 0.35mm Fast Print layers
-10% infill
+10% infill cubic
 No Supports
 Print 2 at once
-PLA 1.75mm
+Prusa Gray PLA 1.75mm
 
 Print Date: 2017/09/19
-Print Time: ?
+Print Time: 2 hours
 Est Print Time: 1 hour 58 minutes (PrusaControl)
 
 Model: https://www.thingiverse.com/download:863775
 Thing: https://www.thingiverse.com/thing:526706
 Maker: https://www.thingiverse.com/devonjones
+
+## Curved Wall
+
+**Series**: OpenForge tiles - Curved Walls
+
+https://www.instagram.com/p/BZPhdZbA933/?taken-by=dwyerdevices
+
+0.35mm Fast Print layers
+10% infill cubic
+No Supports
+Single print
+Prusa Gray PLA 1.75mm
+
+Print Date: 2017/09/19
+Print Time: ?
+Est Print TIme: 1 hour 29 minutes (PrusaControl)
+
+Model: https://www.thingiverse.com/download:766650
+Thing: https://www.thingiverse.com/thing:251178
+Maker: https://www.thingiverse.com/devonjones
+
 
 # Next Up
 
