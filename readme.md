@@ -32,31 +32,20 @@
 Idle time during a paused print counts towards the overall print time. Weird. Or it counts to the wall clock time, but the
 overall print time is correct. Interesting.
 
-## Polyhedra
-
-Customizer: https://www.thingiverse.com/apps/customizer/run?thing_id=233540
-
-Maker: [pdragy](https://www.thingiverse.com/pdragy)
-Model: [Customizable Convex Polyhedra](https://www.thingiverse.com/thing:233540)
-
-Customized Model: [Truncated Icosidodecahedron](https://www.thingiverse.com/thing:2533901)
-0.35mm layers (Fast Print)
-Generate Supports
-Hatchbox red 1.75mm PLA
-Print Date: 2017/09/14
-PRint Time: 7 hours 58 minutes
-gcode: https://github.com/dwyerdevices/prints/blob/master/2017/09/polyhedra/truncated_icodecahedron.gcode
-
-That was a non-trivial amount of cleanup (40 minutes)
-
-https://www.instagram.com/p/BZKDp_tgcRy/?taken-by=dwyerdevices
-
 
 ## OpenForge - Sewers
 
-Thing: [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
-Models: [All](https://www.thingiverse.com/thing:922445/zip)
+Thing: 
+
+ - [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
+
+ 
+Models: 
+
+ - [All](https://www.thingiverse.com/thing:922445/zip)
+ 
 Maker: https://www.thingiverse.com/devonjones
+
 
 **Series**: OpenForge tiles
 
@@ -80,6 +69,16 @@ Print Date: 2017/09/20
 Print Time: ?
 Est Print Time: 3 hours 3 minutes (PrusaControl)
 Est Filament: 5.8 m (PrusaControl)
+
+## Print Two - Sewer Tunnel
+
+Models:
+
+ - sewer_wall_2x1.stl x4
+ - sewer_sluice_straight.stl x2
+ - sewer_pipe_wall_1x2.stl
+ - sewer_sluice_end.stl
+
 
 ## Ruined Walls
 
@@ -130,6 +129,8 @@ Maker: https://www.thingiverse.com/devonjones
 ## Moana Locket
 
 Printing dense infill because this is going to take some abuse from a 5 year old.
+
+https://www.instagram.com/p/BZSI45Sgp-z/?taken-by=dwyerdevices
 
 Thing: [Moana - Heart of TeFiti](https://www.thingiverse.com/thing:2371655)
 Maker: [McKrats](https://www.thingiverse.com/McKrats)
