@@ -126,34 +126,10 @@ Thing: https://www.thingiverse.com/thing:251178
 Maker: https://www.thingiverse.com/devonjones
 
 
-## Moana Locket
-
-Printing dense infill because this is going to take some abuse from a 5 year old.
-
-https://www.instagram.com/p/BZSI45Sgp-z/?taken-by=dwyerdevices
-
-Thing: [Moana - Heart of TeFiti](https://www.thingiverse.com/thing:2371655)
-Maker: [McKrats](https://www.thingiverse.com/McKrats)
-License: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-Model: [Moana_HoTF.stl](https://www.thingiverse.com/download:3788981)
-
-Print Date: 2017/09/20
-Print Time: 2 hours 46 minutes
-Est Print Time: 2 hours 23 minutes (PrusaControl)
-Est Filament Length: 5.8 meters
- 
-0.10mm layers
-Prusa Gray PLA 1.75mm
-30% Infill
-no supports
-
 # Next Up
 
 
-
-
 **settlers interlocking tiles/board**
-
 
 
 **Ruler v2:**
@@ -170,6 +146,12 @@ no supports
 - layers as multiples of min feature size
 - dynamic layer sizing
 - text and curves and segments
+
+**software engineering stencile**
+
+**network design stencil**
+
+**cloud computing stencil**
 
 **stellated polyhedra**
  

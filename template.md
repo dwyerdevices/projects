@@ -21,7 +21,11 @@ https://www.instagram.com/p/BYrSpUcAkmY/?taken-by=dwyerdevices
 
 **Print Date**: 2017/09/04
 
-**Print Time**: 3 hours 33 minutes
+**Print Time**: ?
+
+**Estimated Print Time**: ?
+
+**Estimated Filament**: ? meters
 
 **Slicer**: Slic3r PE 1.36.2
 
