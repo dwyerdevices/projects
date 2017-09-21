@@ -52,6 +52,35 @@ That was a non-trivial amount of cleanup (40 minutes)
 https://www.instagram.com/p/BZKDp_tgcRy/?taken-by=dwyerdevices
 
 
+## OpenForge - Sewers
+
+Thing: [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
+Models: [All](https://www.thingiverse.com/thing:922445/zip)
+Maker: https://www.thingiverse.com/devonjones
+
+**Series**: OpenForge tiles
+
+**All**:
+0.35mm Fast Print
+10% infill cubic
+no supports
+Prusa Gray PLA 1.75mm
+
+### Print One - Corner
+
+Models: 
+
+ - sewer_corner_convex.stl
+ - sewer_wall_1x1.stl x2
+ - sewer_sluice_curved.stl
+ - sewer_sluice_straight.stl x2
+
+GCode: sewer_corner_01.gcode
+Print Date: 2017/09/20
+Print Time: ?
+Est Print Time: 3 hours 3 minutes (PrusaControl)
+Est Filament: 5.8 m (PrusaControl)
+
 ## Ruined Walls
 
 Let's build a dungeon.
@@ -100,13 +129,15 @@ Maker: https://www.thingiverse.com/devonjones
 
 ## Moana Locket
 
+Printing dense infill because this is going to take some abuse from a 5 year old.
+
 Thing: [Moana - Heart of TeFiti](https://www.thingiverse.com/thing:2371655)
 Maker: [McKrats](https://www.thingiverse.com/McKrats)
 License: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
 Model: [Moana_HoTF.stl](https://www.thingiverse.com/download:3788981)
 
 Print Date: 2017/09/20
-Print Time: ?
+Print Time: 2 hours 46 minutes
 Est Print Time: 2 hours 23 minutes (PrusaControl)
 Est Filament Length: 5.8 meters
  
