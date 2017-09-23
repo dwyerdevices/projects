@@ -1,3 +1,5 @@
+All of the STL and GCODE files in this repo are track with [git-lfs](https://git-lfs.github.com).
+
 # Awaiting Blog Posts
 
 ! update and post Stack Box (lower quality) 

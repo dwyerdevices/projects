@@ -23,11 +23,11 @@ https://www.instagram.com/p/BYrSpUcAkmY/?taken-by=dwyerdevices
 
 **Print Time**: ?
 
-**Estimated Print Time**: ? (PrusaControl ...)
+**Estimated Print Time**: ? (PrusaControl 0.9.3_390_beta)
 
-**Estimated Filament**: ? meters (PrusaControl ...)
+**Estimated Filament**: ? meters (PrusaControl  0.9.3_390_beta)
 
-**Slicer**: Slic3r PE 1.36.2
+**Slicer**: Slic3r PE 1.37.1
 
 **Slice Settings**:
 
