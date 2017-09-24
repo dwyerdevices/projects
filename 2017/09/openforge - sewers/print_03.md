@@ -1,95 +1,68 @@
-## OpenForge - Sewer Dungeon
+## Sewer Dungeon - Print Three
 
 We're building a dungeon. This is a project spanning lots of different prints, until
 we generate all of the tiles we need for the dungeon we have in mind. The prints
 are spread across:
 
- - Print One - [Sewer Corners]()
- - Print Two - [Sewer Tunnel]()
- - Print Three - [Corners and Ladders]()
+ - Print One - [Sewer Corners](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-one/)
+ - Print Two - [Sewer Tunnel](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-two/)
+ - Print Three - [Corners and Ladders](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-three/)
+ - Print Four - [Deep Pool]()
+ - Print Five - [Deep Sluice]()
+ - Print Six - [Barred Sewer]()
 
-
-## OpenForge - Sewers
-
-Thing: 
-
- - [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
-
- 
-Models: 
-
- - [All](https://www.thingiverse.com/thing:922445/zip)
- 
-Maker: https://www.thingiverse.com/devonjones
-
-
-Updated Slic3r and PrusaControl after print #3
-
-**Series**: OpenForge tiles
-
-**All**:
-0.35mm Fast Print
-10% infill cubic
-no supports
-Prusa Gray PLA 1.75mm
 
 ### Print Three - Corners and Ladders
 
 I missed a corner in Print Two, and haven't yet done any detail pieces other than the
-wall with a pipe, so now is the chance. The 1x1 tiles have terrific adhesion to the
-print bed; so much so that this print (or, rather, extracting this print from the
+wall with a pipe, so now is the chance to get both printed. There are a handful of 1x1 square
+detail pieces in the Sewer tile set, like ladders and corners that join the concave sewer walls.
+
+The 1x1 detail tiles have terrific adhesion to the print bed; so much so that this print (or, rather, extracting this print from the
 printer) resulted in breaking a print trying to remove it from the print bed (first time
-for me, but certainly not the last).
+for me, but certainly not the last). Ignoring the broken piece, a nice set of tiles:
 
 https://www.instagram.com/p/BZYiaf2gjSI/?taken-by=dwyerdevices
 
-Models:
+
+
+
+**Series**: OpenForge Tiles
+
+**Blog Post**: -
+
+**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
+
+**Source**: [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
+
+**Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+
+**Model Set**: [OpenForge Sewers - All](https://www.thingiverse.com/thing:922445/zip)
+
+**Models**: 
 
  - sewer_ladder_1x1.stl x3
  - sewer_corner_convex.stl x3
  - sewer_corner_concave.stl x3
 
-GCode: sewer_singles_01.gcode
-Print Date: 2017/09/22
-Print Time: 4 hours 41 minutes
-Est Print Time: 4 hours 5 minutes (PrusaControl)
-Est Filament: 29.2 meters (PrusaControl)
-
-## Template
-
-post body
-
-https://www.instagram.com/p/BYrSpUcAkmY/?taken-by=dwyerdevices
-
-
-**Blog Post**: -
-
-**Maker**: [who](link)
-
-**Source**: [Stackable Box V4](https://www.thingiverse.com/thing:647425)
-
-**Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-
-**Model**: [stack_box_tray.stl](https://www.thingiverse.com/download:1100477)
-
 **GCode**: -
 
-**Material**: Prusa White PLA 1.75mm
+**Material**: Prusa Gray PLA 1.75mm
 
-**Print Date**: 2017/09/04
+**Print Date**: 2017/09/22
 
-**Print Time**: ?
+**Print Time**: 4 hours 41 minutes
 
-**Estimated Print Time**: ? (PrusaControl)
+**Estimated Print Time**: 4 hours 5 minutes (PrusaControl)
 
-**Estimated Filament**: ? meters (PrusaControl)
+**Estimated Filament**: 29.2 meters (PrusaControl)
 
 **Slicer**: Slic3r PE 1.36.2
 
 **Slice Settings**:
 
- - 0.10mm Layers
- - 20% infill, cubic
- - No Supports
+ - 0.35mm Fast Print
+ - 10% infill cubic
+ - no supports
 
 **Printer**: Prusa i3 mk2
