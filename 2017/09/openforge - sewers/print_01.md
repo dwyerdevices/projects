@@ -5,7 +5,7 @@ we generate all of the tiles we need for the dungeon we have in mind. The prints
 are spread across:
 
  - Print One - [Sewer Corners](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-one/)
- - Print Two - [Sewer Tunnel]()
+ - Print Two - [Sewer Tunnel](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-two/)
  - Print Three - [Corners and Ladders]()
  - Print Four - [Deep Pool]()
  - Print Five - [Deep Sluice]()
@@ -31,7 +31,7 @@ we get a collection of tiles from each print.
 
 **Series**: OpenForge Tiles
 
-**Blog Post**: -
+**Blog Post**: [Sewer Dungeon - Print One](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-one/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
