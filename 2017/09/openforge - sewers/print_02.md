@@ -1,37 +1,15 @@
-## OpenForge - Sewer Dungeon
+## Sewer Dungeon - Print Two
 
 We're building a dungeon. This is a project spanning lots of different prints, until
 we generate all of the tiles we need for the dungeon we have in mind. The prints
 are spread across:
 
- - Print One - [Sewer Corners]()
+ - Print One - [Sewer Corners](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-one/)
  - Print Two - [Sewer Tunnel]()
  - Print Three - [Corners and Ladders]()
-
-
-## OpenForge - Sewers
-
-Thing: 
-
- - [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
-
- 
-Models: 
-
- - [All](https://www.thingiverse.com/thing:922445/zip)
- 
-Maker: https://www.thingiverse.com/devonjones
-
-
-Updated Slic3r and PrusaControl after print #3
-
-**Series**: OpenForge tiles
-
-**All**:
-0.35mm Fast Print
-10% infill cubic
-no supports
-Prusa Gray PLA 1.75mm
+ - Print Four - [Deep Pool]()
+ - Print Five - [Deep Sluice]()
+ - Print Six - [Barred Sewer]()
 
 
 ### Print Two - Sewer Tunnel
@@ -56,6 +34,27 @@ Print Date: 2017/09/22
 Print Time: 8 hours 53 minutes
 Est Print Time: 8 hours 16 minutes (PrusaControl)
 Est Filament: 64.5 meters (PrusaControl)
+
+**Series**: OpenForge tiles
+
+**All**:
+0.35mm Fast Print
+10% infill cubic
+no supports
+Prusa Gray PLA 1.75mm
+
+
+Thing: 
+
+ - [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
+
+ 
+Models: 
+
+ - [All](https://www.thingiverse.com/thing:922445/zip)
+ 
+Maker: https://www.thingiverse.com/devonjones
+
 
 
 ## Template
