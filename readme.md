@@ -129,6 +129,19 @@ Est Filament: 29.2 meters (PrusaControl)
 
 ### Print Four - Deep Pool
 
+These turned out really well, and really quickly. Because, of course I did, I neglected
+to print the center tile for the deep pool. I'll need to add that to a later batch, likely of more
+deep pool tiles to make a larger area. The edges of the pool, and the upper face of the curved
+corners, are built to mesh well with basic floor pieces, which I haven't printed
+many of yet - soon to come.
+
+
+
+For this set of tiles I added a 2mm brim to see if it made any difference
+in the adhesion of the tiles, and to see if it possibly solved the problem
+of "peeled away" corners I've seen on other tiles. Worked perfectly, and added
+only a few minutes of cleanup post-print. The brims peel away cleanly and quickly
+once a corner of the brim has been pulled away from the printed model.
 
 Models:
 
@@ -141,11 +154,71 @@ Print Date: 2017/09/23
 Print Time: ?
 Est Print Time: 3 hours 45 minutes (PrusaControl)
 Est Filament: 27.2 meters (PrusaControl)
+Brim size: 2mm
  
-### Print Five - Bridge
+ 
+### Print Five - Deep Sluice and Deep Pool
+
+**Model Set**: 
+ 
+ - [Sewer Deep Sluice](https://www.thingiverse.com/thing:988413)
+ - [Open Forge Sewer Deep Pool](https://www.thingiverse.com/thing:979839)
+ 
+**Models**:
+
+ - sewer_deep_sluice_straight_2x2.stl x3
+ - sewer_deep_sluice_tee_2x2.stl x1
+ - sewer_deep_sluice_curved_2x2.stl x2
+ - sewer_deep_sluice_deadend_2x2.stl x2
+ - sewer_deep_pool_cross_e_2x2.stl x1
+
+GCode: sewer_deep_sluice_01.gcode
+Print Date: 2017/09/23
+Print Time: 6 hours 37 minutes
+Est Print Time: 6 hours 37 minutes (PrusaControl 0.9.3_390_beta)
+Est Filament: 45.7 meters (PrusaControl 0.9.3_390_beta)
+Brim Size: 2mm
+
+### Print Six - Barred Sewer
+
+Whooops. Printed the bars_top-3x.stl first, which is too short to span a 2x wide sluice tile. Need to
+use the 4x instead.
+
+**Model Set**: [OpenForge Barred Sewer](https://www.thingiverse.com/thing:947965)
+
+**Models**:
+
+ - sewer_wall_2x1_a.stl
+ - sewer_wall_2x1_b.stl
+ - sewer_sluice_straight_barred.stl
+ - bars_top-4x.stl
+
+GCode: sewer_barred_01.gcode
+Print Date: 2017/09/24
+Print Time: ?
+Est Print Time: 2 hours 38 minutes (PrusaControl 0.9.3_390_beta)
+Est Filament: 19 meters (PrusaControl 0.9.3_390_beta)
+Brim Size: 2mm
 
 
 
+## Bestiary - Red Dragon
+
+Resized and rotated in TinkerCad, converted to STL. Scaled down to 56mm.
+
+Thing: [ice dragon (repaired)](https://www.thingiverse.com/thing:620234/#files)
+Model: https://www.thingiverse.com/download:997950
+Print Date: 2017/09/24
+Print Time: ?
+Est Print Time: 3 hours 33 minutes (PrusaControl 0.9.3_390_beta)
+Est Filament: 9.2 meters (PrusaControl 0.9.3_390_beta)
+Slicer: PrusaControl 0.9.3_390_beta
+Filament: Hatchbox Red 1.75mm PLA
+
+0.35mm layers
+20% infill
+Supports Everywhere
+Print Brim
 
 
 # Next Up
