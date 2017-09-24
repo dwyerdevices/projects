@@ -1,26 +1,3 @@
-All of the STL and GCODE files in this repo are track with [git-lfs](https://git-lfs.github.com).
-
-# Awaiting Blog Posts
-
-! update and post Stack Box (lower quality) 
- - need gcode
- - need readme
- - need directory
-
-
-! jewelry test
- - need gcode
- - need readme
- - need directory
- 
-! stack box tray
- - need readme
- 
-! tops
- - need directory
- - need gcode
- - need readme
-
 
 # Current
 
@@ -29,11 +6,10 @@ All of the STL and GCODE files in this repo are track with [git-lfs](https://git
 ! start list in repo of print ideas
 
 
-## Idle Time - Feature or Bug? 
+## Update GCODE links in all posts
 
-Idle time during a paused print counts towards the overall print time. Weird. Or it counts to the wall clock time, but the
-overall print time is correct. Interesting.
-
+We had a major fuck-up with all the LFS files and cleaning the repo history, and long story short,
+all of the repo links are broken, and now need to point to https://github.com/dwyerdevices/projects
 
 ## OpenForge - Sewers
 

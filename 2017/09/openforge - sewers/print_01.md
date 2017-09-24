@@ -7,6 +7,9 @@ are spread across:
  - Print One - [Sewer Corners]()
  - Print Two - [Sewer Tunnel]()
  - Print Three - [Corners and Ladders]()
+ - Print Four - [Deep Pool]()
+ - Print Five - [Deep Sluice]()
+ - Print Six - [Barred Sewer]()
 
 
 ### Print One - Corner
