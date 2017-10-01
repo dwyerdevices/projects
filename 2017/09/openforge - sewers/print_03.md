@@ -7,10 +7,10 @@ are spread across:
  - Print One - [Sewer Corners](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-one/)
  - Print Two - [Sewer Tunnel](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-two/)
  - Print Three - [Corners and Ladders](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-three/)
- - Print Four - [Deep Pool]()
- - Print Five - [Deep Sluice]()
- - Print Six - [Barred Sewer]()
-
+ - Print Four - [Deep Pool](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-4/)
+ - Print Five - [Deep Sluice and Deep Pool](http://www.dwyerdevices.com/2017/09/29/sewer-dungeon-print-five/)
+ - Print Six - [Barred Sewer](http://www.dwyerdevices.com/2017/09/29/sewer-dungeon-print-six/)
+ - Print Seven - [ABS Flooring](http://www.dwyerdevices.com/2017/09/29/sewer-dungeon-print-seven/)
 
 ### Print Three - Corners and Ladders
 
@@ -29,7 +29,7 @@ https://www.instagram.com/p/BZYiaf2gjSI/?taken-by=dwyerdevices
 
 **Series**: OpenForge Tiles
 
-**Blog Post**: -
+**Blog Post**: [Sewer Dungeon - Print 3](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-three/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
