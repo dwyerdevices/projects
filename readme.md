@@ -11,6 +11,9 @@
 We had a major fuck-up with all the LFS files and cleaning the repo history, and long story short,
 all of the repo links are broken, and now need to point to https://github.com/dwyerdevices/projects
 
+Wait - we have gcode on the SDCard!
+
+
 ## OpenForge - Sewers
 
 Thing: 
@@ -146,8 +149,32 @@ Include supports on build plate only
 ### Print Twelve - So Much Sluice
 
 With rough drawings of the dungeon on paper, it's time to start printing up
-various pieces in large quantities. This print is a batch of sluice curves
-and straight pieces, 4 per print.
+various pieces in large quantities. This print is batches of sluice curves,
+straight pieces, deep pools, and other tiles I've already trialed and started
+to arrange into our dungeon. 
+
+https://www.instagram.com/p/BZucq7FAF6G/?taken-by=dwyerdevices
+
+For each batch, I'm printing 4 copies of a model per print. I've found that I
+can fit up to 12 2x2 dungeon tiles onto the print bed, but that has a high print
+failure rate, with filament near the edge of the bed having poor adhesion. I could
+probably push this up to 6 copies per print without negatively affecting the
+print error rate, but 4 copies per print puts each batch at right around 2-3 hours
+per print, which makes it easier to fit multiple prints into the day.
+
+https://www.instagram.com/p/BZuc4SlgHB5/?taken-by=dwyerdevices
+
+I've laid out the entire dungeon on paper in roughly the configuration I want, and
+have partially built out tiles for selected areas to gauge which pieces I need
+more of. 
+
+
+
+Most of the low profile tiles are quick to print, but the details pieces, like the
+bridges, and the taller pieces, like walls, take a long time to print. I think I've
+decided that I won't be walling in the entire dungeon. Strategic places will get
+walled in as needed during play, like when line of sight and cover become an
+issue. Otherwise, the printing of walls and corner fill alone could take weeks.
 
 **Things**: 
 
@@ -166,7 +193,7 @@ GCodes:
  - sewer_sluice_curved_x4.gcode
  - sewer_sluice_straight_x4.gcode
  - sewer_deep_pool_straight_2x2_x4.gcode
- - sewer_deep_sluice_curved_2x2_x4.gcode
+ - sewer_deep_sluice_curved_2x2_x4.gcode **x2**
  
 Print Date: 2017/09/30 - 2017/10/01
 Print Time: 
@@ -208,8 +235,6 @@ Stone 1x3 4
 ## Bestiary - Goblins
 
 https://www.youmagine.com/designs/goblins
-
-
 
 
 
