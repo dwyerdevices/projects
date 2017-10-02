@@ -174,6 +174,7 @@ Print Time:
  - curved: 2 hours 35 minutes
  - straight: 2 hours 26 minutes
  - deep sluice straight: 2 hours 20 minutes
+ - deep sluice curved: 2 hours 28 minutes
  
 Est Print Time: 
 
@@ -209,74 +210,7 @@ Stone 1x3 4
 https://www.youmagine.com/designs/goblins
 
 
-## Bestiary - Crocodiles
 
-The upcoming adventure through the sewers requires a creature(s) lurking in the deep, murky pools
-into which the sluices empty. How about crocodiles?
-
-<<>>
-
-This is my first print from [YouMagine](https://www.youmagine.com), but given how many creatures
-I've already found there, I doubt my last.
-
-
-
-**Source**: https://www.youmagine.com/designs/crocodiles-for-your-tabletop-game
-
-**Model**: [crocodile.stl](https://www.youmagine.com/documents/39660/download)
-
-**Maker**: [Harrison Braere](https://www.youmagine.com/mz4250)
-
-**License**: [Creative Commons 3.0 - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
-
-**Material**: Inland Green ABS 1.75mm
-
-**GCode**: Crocodile_x2.stl
-
-**Print Time**: 50 minutes
-
-**Est Print Time**: 41 minutes
-
-**Est Filament**: 6.6 meters
-
-0.35mm layers
-supports on build plate only
-4mm brim
-10% infill
-
-Slicer: Slic3r
-
-## Bestiary - Goblin Dog
-
-I'm going to use Hyenas as a proxy for Goblin Dogs in this adventure. The Hatchbox Copper ABS loaded a bit
-strangely; lots of popping, and the extruded filament almost looks aerated.
-
-There was a ton of clean up for these, and being delicate, two of them didn't make it. The base of the support
-plate under the Hyena at the base of the figurine still has a few layers of support material on it, which I'm
-not going to clean up, otherwise I'd probably lose most of the rest of the figurines.
-
-**Source**: https://www.youmagine.com/designs/hyena-and-giant-hyena
-
-**Model**: [hyena](https://www.youmagine.com/documents/39993/download)
-
-**Maker**: [Harrison Braere](https://www.youmagine.com/mz4250)
-
-**License**: [Creative Commons 3.0 - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
-
-**Material**: Hatchbox Copper ABS 1.75mm
-
-**GCode**: Hyena_x6.gcode
-
-**Print Time**:
-
-**Est Print Time**: 59 minutes
-
-**Est Filament**: 6.2 meters
-
-Supports
-4mm brim
-10% infill
-0.35mm layers
 
 
 # Next Up
