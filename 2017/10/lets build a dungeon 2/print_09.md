@@ -1,3 +1,4 @@
+
 ## OpenForge - Sewer Dungeon
 
 We're building a dungeon. This is a project spanning lots of different prints, until
@@ -14,59 +15,59 @@ are spread across:
  - Print Eight - [Circular Room Part 1](http://www.dwyerdevices.com/2017/10/02/sewer-dungeon-print-eight/)
  - Print Nine - [Circular Room Part 2](http://www.dwyerdevices.com/2017/10/03/sewer-dungeon-print-nine/)
  - Print Ten - [Circular Room Part 3]()
+
+
+### Print Nine - Circular Room Part 2
+
+Now I need to fill out the curves so we have regular tiles on the outside of our circular
+room, a door into the room, and a little more space inside the room. This print will cover
+the exterior corners and the straight walls.
+
+https://www.instagram.com/p/BZoFSBzAHca/?taken-by=dwyerdevices
+
  
-### Print Six - Barred Sewer
-
-Having a completely open and easy to explore dungeon in the sewer seems like a missed opportunity - so
-I'm adding to the mystery (and explorable area) with a barred off section of the sewer. Not sure yet
-if the bars will be in place, bent, or broken:
-
-https://www.instagram.com/p/BZeIyo6gic0/?taken-by=dwyerdevices
-
-There are four individual pieces to print for this model, and which to print depends on how wide the
-barred opening will be. I chose an opening with a 2 block wide sluice between the sides of the sewer,
-but printed the bars_top-3x.stl the first time around by mistake, which is too short to span a 2x wide 
-sluice tile. The proper 4x wide topper for the bars got added to a later print.
+The outer concave curve of the floor for the curved walls is a seperate piece, so the curved
+walls can be included as stand-alone outer walls, or included on the interior of a dungeon. The
+two pieces of the curved wall fit together snugly, but tend to shift around a lot when jostled.
 
 
 **Series**: OpenForge Tiles
 
-**Blog Post**: -
+**Blog Post**: [Sewer Dungeon - Print Eight](http://www.dwyerdevices.com/2017/10/02/sewer-dungeon-print-eight/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
-**Source**: [OpenForge Barred Sewer](https://www.thingiverse.com/thing:947965)
+**Model Sets**:
+ 
+ - [OpenForge Stone Dungeon Curved Walls](https://www.thingiverse.com/thing:251178)
+ - [OpenForge Stone Dungeon Walls](https://www.thingiverse.com/thing:178621)
 
 **Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
 
-**Model Set**: [OpenForge Barred Sewer - All](https://www.thingiverse.com/thing:947965/zip)
-
 **Models**:
 
- - sewer_wall_2x1_a.stl
- - sewer_wall_2x1_b.stl
- - sewer_sluice_straight_barred.stl
- - bars_top-4x.stl
+ - [stone_curved_half_floor_3x3.stl](https://www.thingiverse.com/download:459283) **x4**
+ - [wall_2x1.stl](https://www.thingiverse.com/download:364117) **x3**
 
-**GCode**: sewer_barred_01.gcode
+**GCode**: -
 
-**Material**: Prusa Gray PLA 1.75mm
+**Material**: Inland Gray ABS 1.75mm
 
-**Print Date**: 2017/09/24
+**Print Date**: 2017/09/28
 
-**Print Time**: 2 hours 41 minutes
+**Print Time**: 3 hours 49 minutes
 
-**Estimated Print Time**: 2 hours 38 minutes (PrusaControl 0.9.3_390_beta)
+**Estimated Print Time**: 3 hours 11 minutes (PrusaControl 0.9.3_390_beta)
 
-**Estimated Filament**: 19 meters meters (PrusaControl  0.9.3_390_beta)
+**Estimated Filament**: 30.2 meters (PrusaControl  0.9.3_390_beta)
 
-**Slicer**: Slic3r PE 1.37.1
+**Slicer**: Slic3r
 
 **Slice Settings**:
 
- - 0.35mm Fast Print
- - 10% infill cubic
- - no supports
- - Brim Size: 2mm
+ - 2mm brim
+ - 0.35mm layers
+ - 10% infill
+ - No Supports
 
 **Printer**: Prusa i3 mk2

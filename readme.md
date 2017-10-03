@@ -40,66 +40,13 @@ Prusa Gray PLA 1.75mm
 
 
 
-
-
-### Print Eight - Circular Room Part 1
-
-A circular room inset in a larger dungeon is going to play a part in this upcoming adventure. This
-print covers the curved walls of the room, while a series of future prints will add in the outside
-tiles to square out our floor against the curved wall, as well as a door, some straight walls, and
-a few filler floor tiles.
-
-**Model Set**: [OpenForge Stone Dungeon Curved Walls](https://www.thingiverse.com/thing:251178)
-**Model**: stone_curved_3x3.stl x4
-
-GCode:
-Print Date: 2017/09/28
-Print Time: ?
-Est Print Time: 6 hours 24 minutes
-Est Filament: 68.3 meters
-Brim Size: 2mm
-Slicer: Slic3r
-
-Material: Inland Gray ABS 1.75mm
-
-0.35mm layers
-10% infill
-no supports
-
-
-### Print Nine - Circular Room Part 2
-
-Now we need to fill out the curves so we have regular tiles on the outside of our circular
-room, a door into the room, and a little more space inside the room. This print will cover
-the exterior corners and the walls.
-
-Model Sets:
- 
- - [OpenForge Stone Dungeon Curved Walls](https://www.thingiverse.com/thing:251178)
- - [OpenForge Stone Dungeon Tiles](https://www.thingiverse.com/thing:171315)
- 
-Models:
-
- - stone_curved_half_floor_3x3.stl x4
- - wall_2x1.stl x3
- 
-GCode: curved_room_02.gcode
-Print Date: 2017/09/28
-Print Time: 3 hours 49 minutes
-Est Print Time: 3 hours 11 minutes
-Est Filament: 30.2 meters
-Brim Size: 2mm
-Slicer: Slic3r
-
-Material: Inland Gray ABS 1.75mm
-
-0.35mm layers
-10% infill
-no supports 
  
 ### Print Ten - Circular Room Part 3
 
 Finishing off the structure of the circular room, we have a door and some floor space.
+ 
+https://www.instagram.com/p/BZol-NdAzkZ/?taken-by=dwyerdevices
+ 
  
 **Model Set**: [OpenForge Stone Arch Doorway](https://www.thingiverse.com/thing:594735)
 
@@ -188,20 +135,30 @@ issue. Otherwise, the printing of walls and corner fill alone could take weeks.
  - [sewer_sluice_straight.stl](https://www.thingiverse.com/download:1457423)
  - [sewer_deep_sluice_straight_2x2.stl](https://www.thingiverse.com/download:1560094)
  - [sewer_deep_sluice_curved_2x2.stl](https://www.thingiverse.com/download:1560096)
+ - [sewer_deep_pool_cross_e_2x2.stl]
+ - [sewer_deep_pool_curved_2x2.stl]
+ - [sewer_deep_pool_tee_a_2x2.stl]
 
 GCodes: 
  - sewer_sluice_curved_x4.gcode
  - sewer_sluice_straight_x4.gcode
  - sewer_deep_pool_straight_2x2_x4.gcode
  - sewer_deep_sluice_curved_2x2_x4.gcode **x2**
+ - sewer_deep_pool_cross_e_2x2_x4.gcode **x2**
+ - sewer_deep_pool_curved_2x2_x4.gcode
+ - sewer_deep_pool_tee_a_2x2_x4.gcode
  
-Print Date: 2017/09/30 - 2017/10/01
+Print Date: 2017/09/30 - 2017/10/02
+
 Print Time: 
  
  - curved: 2 hours 35 minutes
  - straight: 2 hours 26 minutes
  - deep sluice straight: 2 hours 20 minutes
  - deep sluice curved: 2 hours 28 minutes
+ - deep pool: 1 hour 27 minutes
+ - deep pool curved: 2 hours 27 minutes
+ - deep pool tee a: 1 hours 51 minutes
  
 Est Print Time: 
 
@@ -209,13 +166,19 @@ Est Print Time:
  - straight: 1 hour 56 minutes
  - deep sluice straight: 1 hour 54 minutes
  - deep sluice curved: 2 hours 4 minutes
-  
+ - deep pool: 1 hour 16 minutes
+ - deep pool curved: 2 hours
+ - deep pool tee a: 1 hours 36 minutes
+ 
 Est Filament: 
 
  - curved: 19 meters
  - straight: 18.2 meters
  - deep sluice straight: 16.5 meters
  - deep sluice curved: 17.7 meters
+ - deep pool: 10.2 meters
+ - deep pool curved: 17.4 meters
+ - deep pool tee a: 13.4 meters
   
 Brim Size: 2mm
 Material: Inland Gray ABS 1.75mm

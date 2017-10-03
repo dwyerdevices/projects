@@ -1,4 +1,5 @@
-## Sewer Dungeon - Print Three
+
+## OpenForge - Sewer Dungeon
 
 We're building a dungeon. This is a project spanning lots of different prints, until
 we generate all of the tiles we need for the dungeon we have in mind. The prints
@@ -15,57 +16,49 @@ are spread across:
  - Print Nine - [Circular Room Part 2](http://www.dwyerdevices.com/2017/10/03/sewer-dungeon-print-nine/)
  - Print Ten - [Circular Room Part 3]()
 
-### Print Three - Corners and Ladders
+### Print Eight - Circular Room Part 1
 
-I missed a corner in Print Two, and haven't yet done any detail pieces other than the
-wall with a pipe, so now is the chance to get both printed. There are a handful of 1x1 square
-detail pieces in the Sewer tile set, like ladders and corners that join the concave sewer walls.
+A circular room inset in a larger dungeon is going to play a part in this upcoming adventure. This
+print covers the curved walls of the room, while a series of future prints will add in the outside
+tiles to square out our floor against the curved wall, as well as a door, some straight walls, and
+a few filler floor tiles.
 
-The 1x1 detail tiles have terrific adhesion to the print bed; so much so that this print (or, rather, extracting this print from the
-printer) resulted in breaking a print trying to remove it from the print bed (first time
-for me, but certainly not the last). Ignoring the broken piece, a nice set of tiles:
+https://www.instagram.com/p/BZoFHfSAAgo/?taken-by=dwyerdevices
 
-https://www.instagram.com/p/BZYiaf2gjSI/?taken-by=dwyerdevices
-
-
+The curves are 3x3, eventually making the room feel fairly large.
 
 
 **Series**: OpenForge Tiles
 
-**Blog Post**: [Sewer Dungeon - Print 3](http://www.dwyerdevices.com/2017/09/24/sewer-dungeon-print-three/)
+**Blog Post**: [Sewer Dungeon - Print Eight](http://www.dwyerdevices.com/2017/10/02/sewer-dungeon-print-eight/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
-**Source**: [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
+**Source**: [OpenForge Stone Dungeon Curved Walls](https://www.thingiverse.com/thing:251178)
 
 **Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
 
-**Model Set**: [OpenForge Sewers - All](https://www.thingiverse.com/thing:922445/zip)
-
-**Models**: 
-
- - sewer_ladder_1x1.stl x3
- - sewer_corner_convex.stl x3
- - sewer_corner_concave.stl x3
+**Model**: [stone_curved_3x3.stl](https://www.thingiverse.com/download:766651) **x4**
 
 **GCode**: -
 
-**Material**: Prusa Gray PLA 1.75mm
+**Material**: Inland Gray ABS 1.75mm
 
-**Print Date**: 2017/09/22
+**Print Date**: 2017/09/28
 
-**Print Time**: 4 hours 41 minutes
+**Print Time**: 7 hours 37 minutes
 
-**Estimated Print Time**: 4 hours 5 minutes (PrusaControl)
+**Estimated Print Time**: 6 hours 24 minutes (PrusaControl 0.9.3_390_beta)
 
-**Estimated Filament**: 29.2 meters (PrusaControl)
+**Estimated Filament**: 68.3 meters (PrusaControl  0.9.3_390_beta)
 
-**Slicer**: Slic3r PE 1.36.2
+**Slicer**: Slic3r
 
 **Slice Settings**:
 
- - 0.35mm Fast Print
- - 10% infill cubic
- - no supports
+ - 2mm brim
+ - 0.35mm layers
+ - 10% infill
+ - No Supports
 
 **Printer**: Prusa i3 mk2
