@@ -14,7 +14,7 @@ are spread across:
  - Print Seven - [ABS Flooring](http://www.dwyerdevices.com/2017/09/29/sewer-dungeon-print-seven/)
  - Print Eight - [Circular Room Part 1](http://www.dwyerdevices.com/2017/10/02/sewer-dungeon-print-eight/)
  - Print Nine - [Circular Room Part 2](http://www.dwyerdevices.com/2017/10/03/sewer-dungeon-print-nine/)
- - Print Ten - [Circular Room Part 3]()
+ - Print Ten - [Circular Room Part 3](http://www.dwyerdevices.com/2017/10/05/sewer-dungeon-print-ten/)
 
 ### Print Eight - Circular Room Part 1
 
