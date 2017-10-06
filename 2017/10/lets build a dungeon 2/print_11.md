@@ -1,3 +1,4 @@
+
 ## OpenForge - Sewer Dungeon
 
 We're building a dungeon. This is a project spanning lots of different prints, until
@@ -16,20 +17,22 @@ are spread across:
  - Print Ten - [Circular Room Part 3](http://www.dwyerdevices.com/2017/10/05/sewer-dungeon-print-ten/)
  - Print Eleven - [Bridges](http://www.dwyerdevices.com/2017/10/06/sewer-dungeon-print-eleven/)
 
-### Print Seven - ABS Flooring
+### Print Eleven - Bridges
 
-A simple 2x2 floor piece, done in Gray ABS. This is a test piece, as I finished up a spool of
-Gray PLA, and am moving on to a series of Gray ABS spools as replacements for the dungeon
-prints. These simple stone floors will provide the some of the ground for the non-sewer segments of this
-dungeon:
+No one _wants_ to walk through sluices, much less (possibly) bottomless pools
+in the sewers, right? Wouldn't it be nice if there were a way across the deep
+streams and pools? Well, it looks like someone built bridges in this old sewer system, I wonder
+why? And why do the bridges look newer, with different stone, than the old sewers? Who puts new
+bridges in an old sewer?
 
+https://www.instagram.com/p/BZrHAjlgFrb/?taken-by=dwyerdevices
 
-https://www.instagram.com/p/BZkDPDbAWK5/?taken-by=dwyerdevices
+The three bridges are the largest single print for the entire dungeon, clocking in at a bit above
+12 hours. Despite generous brims and glue, the outer edges of the bridge still pulled away from
+the print bed. Not a big deal for these tiles, but a problem to solve none-the-less.
 
-
-I like the density and the feel of the ABS for this tile. The color match isn't perfect (this is
-a gray filament, the previous tiles were printed with a more silver filament), but the tiles
-will still work really well.
+Supports were a necessity for the shallow slope of the underside of the bridge, but were very
+easy to remove.
 
 
 **Series**: OpenForge Tiles
@@ -38,31 +41,31 @@ will still work really well.
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
-**Source**: [OpenForge Sewer Floor](https://www.thingiverse.com/thing:926862)
+**Source**: [Stone Bridge](https://www.thingiverse.com/thing:1379233)
 
 **Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
 
-**Model**: [sewer_floor_2x2.stl](https://www.thingiverse.com/download:1464343)
+**Model**: [bridge.stl](https://www.thingiverse.com/download:2143215) **x3**
 
-**GCode**: sewer_floor_2x2_PRUSA ABS_DRAFT.gcode
+**GCode**: -
 
 **Material**: Inland Gray ABS 1.75mm
 
-**Print Date**: 2017/09/27
+**Print Date**: 2017/09/29
 
-**Print Time**: 37 minutes
+**Print Time**: 12 hours 19 minutes
 
-**Estimated Print Time**: 34 minutes (PrusaControl 0.9.3_390_beta)
+**Estimated Print Time**: 9 hours 42 minutes (PrusaControl 0.9.3_390_beta)
 
-**Estimated Filament**: 5.3 meters (PrusaControl  0.9.3_390_beta)
+**Estimated Filament**: 92.6 meters (PrusaControl  0.9.3_390_beta)
 
-**Slicer**: PrusaControl
+**Slicer**: Slic3r
 
 **Slice Settings**:
 
- - Brim Size: Include Brim
+ - 4mm brim
  - 0.35mm layers
  - 10% infill
- - No Supports
+ - Supports on build plate only
 
 **Printer**: Prusa i3 mk2

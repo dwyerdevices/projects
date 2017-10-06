@@ -39,29 +39,6 @@ no supports
 Prusa Gray PLA 1.75mm / Inland Gray ABS 1.75mm
 
 
-### Print Eleven - Bridges
-
-No one _wants_ to walk through sluices, much less (possibly) bottomless pools
-in the sewers, right? Someone built bridges in this old sewer system, I wonder
-why?
-
-**Thing**: [Stone Bridge](https://www.thingiverse.com/thing:1379233)
-**Model**: [bridge.stl](https://www.thingiverse.com/download:2143215) **x3**
-
-GCode: bridges.gcode
-Print Date: 2017/09/29
-Print Time: 12 hours 19 minutes
-Est Print Time: 9 hours 42 minutes
-Est Filament: 92.6 meters
-Brim Size: 4mm
-Slicer: Slic3r
-
-Material: INland Gray ABS 1.75mm
-
-0.35mm layers
-10% infill
-Include supports on build plate only
-
 ### Print Twelve - So Much Sluice
 
 With rough drawings of the dungeon on paper, it's time to start printing up
@@ -97,6 +74,18 @@ By printing out 4-8 of most of the tile variants I'm using, I'll very likely end
 up with extra tiles not used in the final layout, which is fine. It'll take slightly
 longer over all to print, but makes managing all of the printing much, much easier.
 
+
+When I sliced the convex curve tiles, I tried out a different fill pattern for the
+top and bottom layers, namely - the Hilbert Curve fill pattern. The default fill, which
+uses diagonal lines, creates a fairly smooth and regular surface. At the layer quality
+these tiles were printed at, the Hilbert Curve fill creates a noisy and somewhat incomplete
+surface. Small gaps between the space filling curve are evident.
+
+While slicing the 1x3 floor tiles, I tried out the Octogram Spiral fill pattern
+for the top and bottom layers. The pattern isn't visible on the top of the tiles, 
+but is definitely visible on the bottom. At this print resolution, the octagram spiral
+pattern may have better coverage, with fewer gaps, on the bottom of tiles.
+
 **Things**: 
 
  - [OpenForge Sewer - Curved Sluice](https://www.thingiverse.com/thing:928340)
@@ -117,9 +106,10 @@ longer over all to print, but makes managing all of the printing much, much easi
  - [sewer_deep_pool_tee_c_2x2.stl]
  - [sewer_pipe_wall_1x2.stl]
  - [sewer_pipe.stl]
+ - [sewer_deep_pool_curve_convex.stl]
+ - [sewer_floor_1x3.stl]
  
  - Sewer Stone 2x2 x6
- - Stone 1x3 4
  
 
 GCodes: 
@@ -134,8 +124,10 @@ GCodes:
  - sewer_deep_pool_tee_b_2x2_x4.gcode
  - sewer_deep_pool_tee_c_2x2_x4.gcode
  - sewer_pipe_wall_1x1_x4.gcode
+ - sewer_deep_pool_curve_convex_x4.gcode
+ - sewer_floor_1x3_x4.gcode
  
-Print Date: 2017/09/30 - 2017/10/04
+Print Date: 2017/09/30 - 2017/10/05
 
 Print Time: 
  
@@ -149,7 +141,9 @@ Print Time:
  - deep pool cross b: 1 hour 38 minutes
  - deep pool tee b: 2 hours 1 minute
  - deep pool tee c: 1 hour 58 minutes
- - sewer pipe wall 1x2 (with pipes):
+ - sewer pipe wall 1x2 (with pipes): 2 hours 39 minutes
+ - sewer deep pool convex curve: 3 hours 7 minutes
+ - 1x3 sewer floor: 2 hours 16 minutes
  
 Est Print Time: 
 
@@ -164,6 +158,8 @@ Est Print Time:
  - deep pool tee b: 1 hour 40 minutes
  - deep pool tee c: 1 hour 39 minutes
  - sewer pipe wall 1x2 (with pipes): 2 hours
+ - sewer deep pool convex curve: 2 hours 16 minutes
+ - 1x3 sewer floor: 1 hour 54 minutes
   
 Est Filament: 
 
@@ -178,6 +174,8 @@ Est Filament:
  - deep pool tee b: 13.7 meters
  - deep pool tee c: 13.7 meters
  - sewer pipe wall 1x2 (with pipes): 16.5 meters
+ - sewer deep pool convex curve: 20.5 meters
+ - 1x3 sewer floor: 17 meters
  
 Brim Size: 2mm
 Material: Inland Gray ABS 1.75mm
@@ -228,11 +226,45 @@ no supports
 combine infill every 3 layers
 
 
+### Print ? - Alls the Walls
+
+Batch printing walls.
+
+Interesting to note: when generating the estimates for print time and filament, PrusaControl wouldn't load
+the full STL or generated GCODE I built in Slic3r - it just locked up the entire computer, nearly causing
+a full hard boot. For the estimates, I used the base wall tile, and scaled up by a factor of 12.
+
+**Model**: sewer_wall_2x2.stl x12
+**Print Date**: ?
+**Print Time**: ?
+**Estimated Print Time**: 10 hours 48 mintues
+**Estimated Filament**: 85.2 meters
+
+Inland Gray ABS 1.75mm
+0.35mm layers
+10% infill 3d honeycomb
+no supports
+4mm brim
+hilbert curve top/bottom fill
 
 ## Bestiary - Goblins
 
 https://www.youmagine.com/designs/goblins
 
+## Ada Lovelace Token
+
+**Model**: -
+**Print Date**: 2017/10/06
+**Material**: Inland Gray ABS 1.75mm
+**Print Time**:
+**Estimated Print Time**: 7 minutes
+**Estimated Filament**: 27.6 cm
+**Slicer**: PrusaControl
+
+0.1mm layers
+10% infill
+no supports
+include brim
 
 
 # Next Up
