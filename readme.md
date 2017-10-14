@@ -161,26 +161,7 @@ https://www.youmagine.com/designs/goblins
 
 
 
-## 1k print token
 
-A token to celebrate 1km of printed filament.
-
-**Model**: ?
-**GCode**: [1k token.stl]()
-**Maker**: Original
-**Print Date**: 2017/10/09
-**Material**: Inland Turquoise PLA 1.75mm
-**Print Time**: ?
-**Estimated Print Time** 1 hour 47 minutes
-**Estimated Filament**: 3.4 meters
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - 0.10mm layers
- - 50% infill
- - no supports
- - 4mm brim
- - octagram spiral top/bottom layer fill
 
 ## Totem and Ida
 
