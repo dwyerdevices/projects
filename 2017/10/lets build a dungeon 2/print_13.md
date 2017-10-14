@@ -1,4 +1,3 @@
-
 ## OpenForge - Sewer Dungeon
 
 We're building a dungeon. This is a project spanning lots of different prints, until
@@ -18,23 +17,32 @@ are spread across:
  - Print Eleven - [Bridges](http://www.dwyerdevices.com/2017/10/06/sewer-dungeon-print-eleven/)
  - Print Twelve - [So Much Sluice](http://www.dwyerdevices.com/2017/10/08/sewer-dungeon-print-twelve/)
  - Print Thirteen - [Magic Portal](http://www.dwyerdevices.com/2017/10/14/sewer-dungeon-print-thirteen/)
+ 
+### Print Thirteen - Magic Portal
 
-### Print Eleven - Bridges
+This dungeon has a larger purpose; a magical portal at the end of the dungeon hints
+at a bigger dungeon complex, and story, yet to unfold. This model is an excellent
+self contained magic circle that will fit into the existing dungeon layout without
+much trouble.
 
-No one _wants_ to walk through sluices, much less (possibly) bottomless pools
-in the sewers, right? Wouldn't it be nice if there were a way across the deep
-streams and pools? Well, it looks like someone built bridges in this old sewer system, I wonder
-why? And why do the bridges look newer, with different stone, than the old sewers? Who puts new
-bridges in an old sewer?
+I'm trying a few new print settings for this print. First off, I'm using the 3D honey
+comb fill, which should create a stronger infill with less material than other infill
+patterns. In an effort to reduce print time even further, I'm testing out Slic3r's feature
+for doing thicker infill layers. In this mode the perimeter layers are printed at the
+configured layer size (in this case 0.35mm), but the infill layers are printed thicker,
+and only laid down every 3 layers.
 
-https://www.instagram.com/p/BZrHAjlgFrb/?taken-by=dwyerdevices
+https://www.instagram.com/p/BZ134dWgjut/?taken-by=dwyerdevices
 
-The three bridges are the largest single print for the entire dungeon, clocking in at a bit above
-12 hours. Despite generous brims and glue, the outer edges of the bridge still pulled away from
-the print bed. Not a big deal for these tiles, but a problem to solve none-the-less.
+The combined infill parameters had me a bit wary after the print first started. With a
+basic layer quality of 0.35mm, and combined fill every 3 layers, the infill height would
+seem to be 1.05mm, which is more than double the extruder size. I've kept a close eye
+on the print, and so far everything seems to be working, but the honeycomb infill does
+have visible vertical gaps between each layer.
 
-Supports were a necessity for the shallow slope of the underside of the bridge, but were very
-easy to remove.
+This is also the first print where I've needed to swap in a new filament spool mid
+print. The switch was easy, but waiting for the right moment, wasting as little filament
+from the old spool, was time consuming.
 
 
 **Series**: OpenForge Tiles
@@ -43,31 +51,32 @@ easy to remove.
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
-**Source**: [Stone Bridge](https://www.thingiverse.com/thing:1379233)
+**Source**: [OpenForge Magic Circle Tiles](https://www.thingiverse.com/thing:242715)
 
 **Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
 
-**Model**: [bridge.stl](https://www.thingiverse.com/download:2143215) **x3**
+**Model**: [walled_magic_circle_1.stl](https://www.thingiverse.com/download:445910)
 
 **GCode**: -
 
 **Material**: Inland Gray ABS 1.75mm
 
-**Print Date**: 2017/09/29
+**Print Dates**: 2017/10/04
 
-**Print Time**: 12 hours 19 minutes
+**Print Time**: 4 hours 1 minutes
 
-**Estimated Print Time**: 9 hours 42 minutes (PrusaControl 0.9.3_390_beta)
+**Estimated Print Time**: 3 hours 57 minutes
 
-**Estimated Filament**: 92.6 meters (PrusaControl  0.9.3_390_beta)
+**Estimated Filament**: 41.7 meters
 
 **Slicer**: Slic3r
 
 **Slice Settings**:
 
- - 4mm brim
  - 0.35mm layers
- - 10% infill
- - Supports on build plate only
+ - 10% infill 3d honeycomb
+ - no supports
+ - 4mm brim
+ - combine infill every 3 layers
 
 **Printer**: Prusa i3 mk2

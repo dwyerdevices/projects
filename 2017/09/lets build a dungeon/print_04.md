@@ -15,6 +15,8 @@ are spread across:
  - Print Nine - [Circular Room Part 2](http://www.dwyerdevices.com/2017/10/03/sewer-dungeon-print-nine/)
  - Print Ten - [Circular Room Part 3](http://www.dwyerdevices.com/2017/10/05/sewer-dungeon-print-ten/)
  - Print Eleven - [Bridges](http://www.dwyerdevices.com/2017/10/06/sewer-dungeon-print-eleven/)
+ - Print Twelve - [So Much Sluice](http://www.dwyerdevices.com/2017/10/08/sewer-dungeon-print-twelve/)
+ - Print Thirteen - [Magic Portal](http://www.dwyerdevices.com/2017/10/14/sewer-dungeon-print-thirteen/)
  
 ### Print Four - Deep Pool
 

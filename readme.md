@@ -39,192 +39,100 @@ no supports
 Prusa Gray PLA 1.75mm / Inland Gray ABS 1.75mm
 
 
-### Print Twelve - So Much Sluice
-
-With rough drawings of the dungeon on paper, it's time to start printing up
-various pieces in large quantities. This print is batches of sluice curves,
-straight pieces, deep pools, and other tiles I've already trialed and started
-to arrange into our dungeon. 
-
-https://www.instagram.com/p/BZucq7FAF6G/?taken-by=dwyerdevices
-
-For each batch, I'm printing 4 copies of a model per print. I've found that I
-can fit up to 12 2x2 dungeon tiles onto the print bed, but that has a high print
-failure rate, with filament near the edge of the bed having poor adhesion. I could
-probably push this up to 6 copies per print without negatively affecting the
-print error rate, but 4 copies per print puts each batch at right around 2-3 hours
-per print, which makes it easier to fit multiple prints into the day.
-
-https://www.instagram.com/p/BZuc4SlgHB5/?taken-by=dwyerdevices
-
-I've laid out the entire dungeon on paper in roughly the configuration I want, and
-have partially built out tiles for selected areas to gauge which pieces I need
-more of. 
-
-https://www.instagram.com/p/BZzL9q-Anrc/?taken-by=dwyerdevices
-
-Most of the low profile tiles are quick to print, but the details pieces, like the
-bridges, and the taller pieces, like walls, take a long time to print. I think I've
-decided that I won't be walling in the entire dungeon. Strategic places will get
-walled in as needed during play, like when line of sight and cover become an
-issue. Otherwise, the printing of walls and corner fill alone could take weeks.
 
 
-By printing out 4-8 of most of the tile variants I'm using, I'll very likely end
-up with extra tiles not used in the final layout, which is fine. It'll take slightly
-longer over all to print, but makes managing all of the printing much, much easier.
+### Print 14 - Undermountain Portal Gate
 
+Where does the magical portal go? To a small cavern, with four portals surrounding an
+altar chisled from stone. Welcome to the Undermountain.
 
-When I sliced the convex curve tiles, I tried out a different fill pattern for the
-top and bottom layers, namely - the Hilbert Curve fill pattern. The default fill, which
-uses diagonal lines, creates a fairly smooth and regular surface. At the layer quality
-these tiles were printed at, the Hilbert Curve fill creates a noisy and somewhat incomplete
-surface. Small gaps between the space filling curve are evident.
-
-While slicing the 1x3 floor tiles, I tried out the Octogram Spiral fill pattern
-for the top and bottom layers. The pattern isn't visible on the top of the tiles, 
-but is definitely visible on the bottom. At this print resolution, the octagram spiral
-pattern may have better coverage, with fewer gaps, on the bottom of tiles.
-
-**Things**: 
-
- - [OpenForge Sewer - Curved Sluice](https://www.thingiverse.com/thing:928340)
- - [OpenForge Sewer - Straight Sluice](https://www.thingiverse.com/thing:922447)
- - [OpenForge Sewer - Deep Sluice](https://www.thingiverse.com/thing:988413)
- 
+**Sources**: 
+**Maker**:
 **Models**: 
 
- - [sewer_sluice_curved.stl](https://www.thingiverse.com/download:1466408)
- - [sewer_sluice_straight.stl](https://www.thingiverse.com/download:1457423)
- - [sewer_deep_sluice_straight_2x2.stl](https://www.thingiverse.com/download:1560094)
- - [sewer_deep_sluice_curved_2x2.stl](https://www.thingiverse.com/download:1560096)
- - [sewer_deep_pool_cross_e_2x2.stl]
- - [sewer_deep_pool_curved_2x2.stl]
- - [sewer_deep_pool_tee_a_2x2.stl]
- - [sewer_deep_pool_cross_b_2x2.stl]
- - [sewer_deep_pool_tee_b_2x2.stl]
- - [sewer_deep_pool_tee_c_2x2.stl]
- - [sewer_pipe_wall_1x2.stl]
- - [sewer_pipe.stl]
- - [sewer_deep_pool_curve_convex.stl]
- - [sewer_floor_1x3.stl]
+ - slottsmollan_obelisk_2x2.stl x2
+ - shrine_base_plinth.stl
  
- - Sewer Stone 2x2 x6
- 
+**Material**: Inland Gray ABS 1.75mm
+**Print Date**: 2017/10/10
+**Print Time**: 
 
-GCodes: 
- - sewer_sluice_curved_x4.gcode
- - sewer_sluice_straight_x4.gcode
- - sewer_deep_sluice_straight_2x2_x4.gcode **x2**
- - sewer_deep_sluice_curved_2x2_x4.gcode **x2**
- - sewer_deep_pool_cross_e_2x2_x4.gcode **x2**
- - sewer_deep_pool_curved_2x2_x4.gcode
- - sewer_deep_pool_tee_a_2x2_x4.gcode **x2**
- - sewer_deep_pool_cross_b_2x2_x4.gcode
- - sewer_deep_pool_tee_b_2x2_x4.gcode
- - sewer_deep_pool_tee_c_2x2_x4.gcode
- - sewer_pipe_wall_1x1_x4.gcode
- - sewer_deep_pool_curve_convex_x4.gcode
- - sewer_floor_1x3_x4.gcode
+ - slottsmollan_obelisk_2x2.stl: 1 hour 14 minutes
+ - shrine_base_plinth.stl: 1 hour 7 minutes
+ - shrine_roof.stl: 46 minutes
  
-Print Date: 2017/09/30 - 2017/10/05
+**Estimated Print Time**: 
 
-Print Time: 
+ - slottsmollan_obelisk_2x2.stl: 53 minutes
+ - shrine_base_plinth.stl: 48 minutes
+ - shrine_roof.stl: 23 minutes
  
- - curved: 2 hours 35 minutes
- - straight: 2 hours 26 minutes
- - deep sluice straight: 2 hours 20 minutes
- - deep sluice curved: 2 hours 28 minutes
- - deep pool: 1 hour 27 minutes
- - deep pool curved: 2 hours 27 minutes
- - deep pool tee a: 1 hours 51 minutes
- - deep pool cross b: 1 hour 38 minutes
- - deep pool tee b: 2 hours 1 minute
- - deep pool tee c: 1 hour 58 minutes
- - sewer pipe wall 1x2 (with pipes): 2 hours 39 minutes
- - sewer deep pool convex curve: 3 hours 7 minutes
- - 1x3 sewer floor: 2 hours 16 minutes
- 
-Est Print Time: 
+**Estimated Filament**: 
 
- - curved: 2 hours 4 minutes
- - straight: 1 hour 56 minutes
- - deep sluice straight: 1 hour 54 minutes
- - deep sluice curved: 2 hours 4 minutes
- - deep pool: 1 hour 16 minutes
- - deep pool curved: 2 hours
- - deep pool tee a: 1 hour 36 minutes
- - deep pool cross b: 1 hour 25 minutes
- - deep pool tee b: 1 hour 40 minutes
- - deep pool tee c: 1 hour 39 minutes
- - sewer pipe wall 1x2 (with pipes): 2 hours
- - sewer deep pool convex curve: 2 hours 16 minutes
- - 1x3 sewer floor: 1 hour 54 minutes
-  
-Est Filament: 
-
- - curved: 19 meters
- - straight: 18.2 meters
- - deep sluice straight: 16.5 meters
- - deep sluice curved: 17.7 meters
- - deep pool: 10.2 meters
- - deep pool curved: 17.4 meters
- - deep pool tee a: 13.4 meters
- - deep pool cross b: 10.9 meters
- - deep pool tee b: 13.7 meters
- - deep pool tee c: 13.7 meters
- - sewer pipe wall 1x2 (with pipes): 16.5 meters
- - sewer deep pool convex curve: 20.5 meters
- - 1x3 sewer floor: 17 meters
- 
-Brim Size: 2mm
-Material: Inland Gray ABS 1.75mm
-Slicer: Slic3r
+ - slottsmollan_obelisk_2x2.stl: 9.2 meters
+ - shrine_base_plinth.stl: 5.7 meters
+ - shrine_roof.stl: 4.2 meters
 
 0.35mm layers
-10% infill
+10% infill cubic
 no supports
+10mm brim
 
-### Print Thirteen - Magical Portal
 
-This dungeon has a larger purpose; a magical portal at the end of the dungeon hints
-at a bigger dungeon complex, and story, yet to unfold. This model is an excellent
-self contained magic circle that will fit into the existing dungeon layout without
-much trouble.
+### Lego Angles
 
-I'm trying a few new print settings for this print. First off, I'm using the 3D honey
-comb fill, which should create a stronger infill with less material than other infill
-patterns. In an effort to reduce print time even further, I'm testing out Slic3r's feature
-for doing thicker infill layers. In this mode the perimeter layers are printed at the
-configured layer size (in this case 0.35mm), but the infill layers are printed thicker,
-and only laid down every 3 layers.
+Lego plates built into angles for forming regular polygons.
 
-https://www.instagram.com/p/BZ134dWgjut/?taken-by=dwyerdevices
+5-sided polygon (Pentagon): 108° inner angle.
 
-The combined infill parameters had me a bit wary after the print first started. With a
-basic layer quality of 0.35mm, and combined fill every 3 layers, the infill height would
-seem to be 1.05mm, which is more than double the extruder size. I've kept a close eye
-on the print, and so far everything seems to be working, but the honeycomb infill does
-have visible vertical gaps between each layer.
+https://www.instagram.com/p/BaH-atDnDuL/?taken-by=dwyerdevices
 
-This is also the first print where I've needed to swap in a new filament spool mid
-print.
 
-**Source**: [OpenForge Magic Circle Tiles](https://www.thingiverse.com/thing:242715)
-**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
-**Model**: [walled_magic_circle_1.stl](https://www.thingiverse.com/download:445910)
-**Material**: Inland Gray ABS
-**Print Date**: 2017/10/04
-**Print Time**: 4 hours 1 minute
-**Estimated Print Time**: 3 hours 57 minutes
-**Estimated Filament**: 41.7 meters
+ - hexagon
 
-0.35mm layers
-10% infill 3d honeycomb
-no supports
-4mm brim
-combine infill every 3 layers
+The first batch of pentagon angles didn't fit terribly well with standard legos. Too loose when
+connected to the base of a Lego, too tight and unable to snap in when placed on top of a standard
+Lego. It's possible the nub holes and through-hole on the plate were an issue, so I printed a few
+test pieces of different heights and features to see what worked best.
 
+Follow up with radial groups (3 way, 4 way, 5 way, etc)
+
+**Sources**
+
+ - [Customizable LEGO-Compatible Brick](https://www.thingiverse.com/thing:615256)
+ - [Customized Lego Compatible 2x2 Plate](https://www.thingiverse.com/thing:2579304)
+
+**Original License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+
+**Models**:
+
+ - [lego_pentagon_108_angle.stl]()
+ 
+**Material**: Inland Gray ABS 1.75mm
+
+**Print Date**: 2017/10/11 - 
+
+**Print Quantity**:
+
+ - 108°: 5
+
+**Print Time**:
+
+ - 108°: 2 hours 15 minutes
+
+**Estimated Print Time**:
+
+ - 108°: 1 hour 55 minutes
+ 
+**Estimated Filament**: -
+
+ - 108°: 3.73 meters
+
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 30% infill cubic
+ - 5mm brim
 
 ### Print ? - Alls the Walls
 
@@ -253,10 +161,13 @@ https://www.youmagine.com/designs/goblins
 
 ## Ada Lovelace Token
 
+
+### Test One
+
 **Model**: -
 **Print Date**: 2017/10/06
 **Material**: Inland Gray ABS 1.75mm
-**Print Time**:
+**Print Time**: 9 minutes
 **Estimated Print Time**: 7 minutes
 **Estimated Filament**: 27.6 cm
 **Slicer**: PrusaControl
@@ -267,9 +178,169 @@ no supports
 include brim
 
 
+Letter is too small, needs a generally better layout
+
+### Test Two
+
+**Print Date**: 2017/10/08
+**Material**: Inland Gray ABS 1.75mm
+**Print Time**: 23 minutes
+**Estimated Print Time**: 14 minutes
+**Filament**: 57.7 cm
+**Slicer**: PrusaControl
+
+0.15mm layers
+10% infill
+No supports
+include brim
+
+Much better look and feel. Very clean, solid lines and fill. Letters stand out nicely. Need to increase
+the size of the gears on the bottom of token so they print as nicely as the larger gears at the top
+of the token. At default scale the token measures 34mm x 17mm, leaving us space to scale up the token
+and still fit within the spaces on the game board.
+
+### Test Two
+
+Gear size increased.
+
+**Print Date**: 2017/10/08
+**Material**: Inland Gray ABS 1.75mm
+**Print Time**: 22 minutes
+**Estimated Print Time**: 15 minutes
+**Filament**: 59.7 cm
+**Slicer**: PrusaControl
+
+0.15mm layers
+10% infill
+No supports
+include brim
+
+
+
+### Print a bunch of them
+
+**Materials**:
+
+ - Hatchbox copper ABS - done
+ - Inland gold ABS - done
+ - Inland orange ABS - done
+ - Prusa white PLA - done
+ - Inland silver PLA -
+ - Inland gray ABS - done
+
+I've had gray ABS spooled on the printer for the better part of a week, so having dialed in optimal settings and technique for
+that, the token I printed in gray came out nice and clean. The copper and gold ABS are a bit of a pain to print - not terribly 
+good adhesion to the print bed, and a bit stringy once printed. It took 4 or 5 tries to get the gold print correct; even with
+glue on the bed, the gold filament wants to bubble and pucker. 
+
+
+#### ABS
+
+**Print Date**: 2017/10/08
+**Material**: various ABS 1.75mm
+**Print Time**: 19 - 22 minutes
+**Estimated Print Time**: 15 minutes
+**Filament**: 59.7 cm
+**Slicer**: PrusaControl
+
+0.15mm layers
+10% infill
+No supports
+include brim
+
+#### PLA
+
+**Print Date**: 2017/10/08
+**Material**: various PLA 1.75mm
+**Print Time**: 19 - 22 minutes
+**Estimated Print Time**: 17 minutes
+**Filament**: 59.8 cm
+**Slicer**: PrusaControl
+
+0.15mm layers
+10% infill
+No supports
+include brim
+
+
+## 1k print token
+
+A token to celebrate 1km of printed filament.
+
+**Model**: ?
+**GCode**: [1k token.stl]()
+**Maker**: Original
+**Print Date**: 2017/10/09
+**Material**: Inland Turquoise PLA 1.75mm
+**Print Time**: ?
+**Estimated Print Time** 1 hour 47 minutes
+**Estimated Filament**: 3.4 meters
+**Slicer**: Slic3r
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 50% infill
+ - no supports
+ - 4mm brim
+ - octagram spiral top/bottom layer fill
+
+## Totem and Ida
+
+A totem and Ida from Monument Valley.
+
+I've combined models that are the same color into single prints
+
+**Source**: [Totem a Friend Monument Valley plus Ida](https://www.thingiverse.com/thing:2050376)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Models**: [All Models](https://www.thingiverse.com/thing:2050376/zip)
+**Maker**: [AliG3D](https://www.thingiverse.com/AliG3D)
+**Print Date**: 2017/10/13
+**Scaling**: 50% Original
+**Materials**:
+
+ - Hatchbox Yellow PLA 1.75mm
+ - Inland Turguoise PLA 1.75mm
+ 
+**Print Time**:
+
+ - yellows: 7 hours 58 minutes
+ - blues: 45 minutes
+ - black:
+ - orange:
+ - white: 11 minutes
+ 
+**Estimated Print Time**:
+
+ - yellows: 7 hours 51 minutes
+ - blues: 42 minutes
+ - black: 5 minutes
+ - orange: 3 minutes
+ - white: 11 minutes
+ 
+**Estimated Filament**:
+
+ - yellows: 36.1 meters
+ - blues: 2.2 meters
+ - black: 26.8 centimeters
+ - orange: 17.6 centimeters
+ - white: 56.8 centimeters
+
+**Slicer**: Slic3r
+**Slicer Settings**:
+
+ - 50% scale
+ - 0.20mm layers
+ - 20% infill cubic
+ - Surface fill - Hilbert Curve
+ - 10mm brim
+ 
+
 
 # Next Up
 
+**Sundered Spire** - broken obelisk
+
+**Glowing Obelisk**
 
 **settlers interlocking tiles/board**
 
@@ -300,6 +371,10 @@ include brim
 **jewelry**
 
 **letter form test**
+
+
+
+**generic tudor house plan tiles**
 
 **better spool holder**
 
