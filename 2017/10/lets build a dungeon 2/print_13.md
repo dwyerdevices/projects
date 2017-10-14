@@ -47,7 +47,7 @@ from the old spool, was time consuming.
 
 **Series**: OpenForge Tiles
 
-**Blog Post**: -
+**Blog Post**: [Sewer Dungeon - Print Thirteen](http://www.dwyerdevices.com/2017/10/14/sewer-dungeon-print-thirteen/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 
