@@ -102,6 +102,16 @@ comes from the Terrain Community Shape Generator. Both the obelisk and the gener
 complex surfaces. Because of this, joining solid and negative space objects in TinkerCad took 10-15 seconds
 before the composite models looked correct.
 
+When I opened up the _base_ model in Slic3r, it couldn't properly render the preview of the model; two of the
+faces were missing, showing through to the hollow center of the model. After comparing the size of generated
+GCODE files with similar settings between Slic3r and PrusaControl, I guessed that Slic3r was also improperly
+slicing the model. I'll gowith PrusaControl for slicing these. 
+
+Huh. Sliced in either PrusaControl or Slic3r, the entire middle of the model is missing from GCODE. The printer
+finishes the first centimeter of the print, then jumps up 5 centimeters vertically and tries to continue. Let's
+see if we can fix things in [MeshMixer](http://meshmixer.com).
+
+
 **Original Sources**:
 
  - [OpenForge smooth tile floor](https://www.thingiverse.com/thing:234325)
