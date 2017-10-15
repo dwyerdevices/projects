@@ -47,6 +47,10 @@ Where does the magical portal go? To a small cavern, with four portals surroundi
 altar chisled from stone. Welcome to the Undermountain.
 
 **Sources**: 
+
+ - [Slottsmollan Obelisk](https://www.thingiverse.com/thing:1490817)
+ 
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
 **Maker**:
 **Models**: 
 
@@ -78,6 +82,66 @@ altar chisled from stone. Welcome to the Undermountain.
 no supports
 10mm brim
 
+
+### Print 15 - The Sundered Spire
+
+The magic portal from the sewer dungeon leads to a similar looking portal in the Undermountain, the
+lair of an ancient dragon, shut away beneath a dwarven stronghold. The altar at the center of the portal
+room has four paths, each leading to a magic portal to another location. One of these paths has collapsed,
+leaving a blocked passageway. At the entrance to each passage is a magical obelisk, this obelisk holds the
+power and enchantments that activate each of the portals. The obelisk in front of the collapsed passageway
+tells a tale of a great confrontation - the obelisk is sundered into two pieces, the magic dissapated, and,
+we assume, the portal permanently deactivated.
+
+I used the [Slottsmollan Obelisk](https://www.thingiverse.com/thing:1490817) from [devonjones](https://www.thingiverse.com/devonjones)
+for the basic magic obelisks. For the Sundered Spire I broke the original model into pieces, and mounted them
+on smooth stone tiles.
+
+I used TinkerCad To break apart the obelisk, and add the rough texture of shattered stone. The rough texture
+comes from the Terrain Community Shape Generator. Both the obelisk and the generated terrain I used are fairly
+complex surfaces. Because of this, joining solid and negative space objects in TinkerCad took 10-15 seconds
+before the composite models looked correct.
+
+**Original Sources**:
+
+ - [OpenForge smooth tile floor](https://www.thingiverse.com/thing:234325)
+ - [Slottsmollan Obelisk](https://www.thingiverse.com/thing:1490817)
+
+**Original Source License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+
+**Original Maker**: [devonjones](https://www.thingiverse.com/devonjones)
+
+**Models**:
+
+ - [Sundered_Spire_base.stl](https://github.com/dwyerdevices/projects/blob/master/2017/10/sundered%20spire/Sundered_Spire_base.stl)
+ - [Sundered_Spire_fallen.stl](https://github.com/dwyerdevices/projects/blob/master/2017/10/sundered%20spire/Sundered_Spire_fallen.stl)
+
+**Print Time**
+
+ - base:
+ - fallen:
+
+**Estimated Print Time**
+
+ - base: 33 minutes
+ - fallen: 55 minutes
+
+**Estimated Filament**:
+
+ - base: 5.6 meters
+ - fallen: 9.2 meters
+
+**Source**:
+
+**Slicer**: Prusa Control
+
+**Slicer Settings**:
+
+ - 0.35mm layers
+ - include brim
+ - Sparse - 10% infill
 
 ### Lego Angles
 
