@@ -109,7 +109,9 @@ slicing the model. I'll gowith PrusaControl for slicing these.
 
 Huh. Sliced in either PrusaControl or Slic3r, the entire middle of the model is missing from GCODE. The printer
 finishes the first centimeter of the print, then jumps up 5 centimeters vertically and tries to continue. Let's
-see if we can fix things in [MeshMixer](http://meshmixer.com).
+see if we can fix things in [MeshMixer](http://meshmixer.com). Opening the STL file in MeshMixer, and selecting
+**Edit** - **Make Solid** and then exporting seems to have done the trick.
+
 
 
 **Original Sources**:
