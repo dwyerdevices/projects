@@ -16,6 +16,12 @@ Wait - we have gcode on the SDCard!
 
 ## OpenForge - Sewers
 
+
+Sewer Dungeon during play:
+
+https://www.instagram.com/p/BaR_lN0AI3k/?taken-by=dwyerdevices
+
+
 Thing: 
 
  - [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
@@ -41,10 +47,20 @@ Prusa Gray PLA 1.75mm / Inland Gray ABS 1.75mm
 
 
 
-### Print 14 - Undermountain Portal Gate
+## Undermountain Dungeon
+
+### Print 1 - Undermountain Portal Gate
 
 Where does the magical portal go? To a small cavern, with four portals surrounding an
 altar chisled from stone. Welcome to the Undermountain.
+
+Portal:
+
+https://www.instagram.com/p/BaT_TdfAYWT/?taken-by=dwyerdevices
+
+Altar:
+
+https://www.instagram.com/p/BaMBYzLA3Zg/?taken-by=dwyerdevices
 
 **Sources**: 
 
@@ -83,7 +99,7 @@ no supports
 10mm brim
 
 
-### Print 15 - The Sundered Spire
+### Print 2 - The Sundered Spire
 
 The magic portal from the sewer dungeon leads to a similar looking portal in the Undermountain, the
 lair of an ancient dragon, shut away beneath a dwarven stronghold. The altar at the center of the portal
@@ -92,6 +108,8 @@ leaving a blocked passageway. At the entrance to each passage is a magical obeli
 power and enchantments that activate each of the portals. The obelisk in front of the collapsed passageway
 tells a tale of a great confrontation - the obelisk is sundered into two pieces, the magic dissapated, and,
 we assume, the portal permanently deactivated.
+
+https://www.instagram.com/p/BaUzKGaA6IN/?taken-by=dwyerdevices
 
 I used the [Slottsmollan Obelisk](https://www.thingiverse.com/thing:1490817) from [devonjones](https://www.thingiverse.com/devonjones)
 for the basic magic obelisks. For the Sundered Spire I broke the original model into pieces, and mounted them
@@ -132,8 +150,8 @@ see if we can fix things in [MeshMixer](http://meshmixer.com). Opening the STL f
 
 **Print Time**
 
- - base:
- - fallen:
+ - base: 35 minutes
+ - fallen: 58 minutes
 
 **Estimated Print Time**
 
@@ -161,6 +179,7 @@ Lego plates built into angles for forming regular polygons.
 
 5-sided polygon (Pentagon): 108° inner angle.
 
+https://www.instagram.com/p/BaH-atDnDuL/?taken-by=dwyerdevices
 https://www.instagram.com/p/BaH-atDnDuL/?taken-by=dwyerdevices
 
 
@@ -243,6 +262,12 @@ https://www.youmagine.com/designs/goblins
 
 A totem and Ida from Monument Valley.
 
+Totem Blocks: https://www.instagram.com/p/BaNIXsZgOfI/?taken-by=dwyerdevices
+
+Totem Pieces pre-cleanup: https://www.instagram.com/p/BaPRlrJg7cy/?taken-by=dwyerdevices
+
+Cleaned up Totem pieces:https://www.instagram.com/p/BaPn6Y4AnA3/?taken-by=dwyerdevices
+
 I've combined models that are the same color into single prints
 
 **Source**: [Totem a Friend Monument Valley plus Ida](https://www.thingiverse.com/thing:2050376)
@@ -290,10 +315,8 @@ I've combined models that are the same color into single prints
  - 10mm brim
  
 
-
 # Next Up
 
-**Sundered Spire** - broken obelisk
 
 **Glowing Obelisk**
 
