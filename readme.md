@@ -14,89 +14,58 @@ all of the repo links are broken, and now need to point to https://github.com/dw
 Wait - we have gcode on the SDCard!
 
 
-## OpenForge - Sewers
+
+## Another Vase
+
+https://www.instagram.com/p/BaXeJgLAVWp/?taken-by=dwyerdevices
 
 
-Sewer Dungeon during play:
+**Maker**: [eggnot](https://www.thingiverse.com/eggnot)
 
-https://www.instagram.com/p/BaR_lN0AI3k/?taken-by=dwyerdevices
+**Source**: [Curved Honeycomb Vase](https://www.thingiverse.com/thing:2376777)
+
+**Original License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+
+**Model**: [sotvl1.stl](https://www.thingiverse.com/download:3798609)
+
+**GCode**: -
+**Material**: Inland Turquoise PLA 1.75mm
+**Print Date**: 2017/10/17
+**Print Time**: 6 hours 48 minutes
+**Estimated Print Time**: 4 hours 30 minutes
+**Estimated Filament**: 16 meters
+**Slicer**: Slic3r
+**Slicer Settings**:
+
+ - 75% scale
+ - 5 perimeters
+ - no top horizontal solid layers
+ - 10 bottom horizontal solid layers
+ - 0% infill
+ - 10mm brim
+ - 0.20mm layers
 
 
-Thing: 
+## Bracelet
 
- - [OpenForge Sewers](https://www.thingiverse.com/thing:922445)
-
+**Source**: [Double Voronoi Bracelet](https://www.thingiverse.com/thing:1403094)
+**License**: [Creative Commons - Attribution - Non-commercial - No Derivatives](http://creativecommons.org/licenses/by-nc-nd/3.0/)
+**Maker**: [Protonik](https://www.thingiverse.com/Protonik)
+**Model**: [dv3_protonik.stl](https://www.thingiverse.com/download:2179260)
+**Material**: Inland Turquoise PLA 1.75mm
+**Print Date**: 2017/10/18
+**Print Time**: 
+**Estimated Print Time**: 7 hours 29 minutes
+**Estimated Filament**: 16.1 meters
+**Slicer**: Slic3r
+**Slicer Settings**:
  
-Models: 
-
- - [All](https://www.thingiverse.com/thing:922445/zip)
- 
-Maker: https://www.thingiverse.com/devonjones
-
-
-Updated Slic3r and PrusaControl after print #3
-
-**Series**: OpenForge tiles
-
-**All**:
-0.35mm Fast Print
-10% infill cubic
-no supports
-Prusa Gray PLA 1.75mm / Inland Gray ABS 1.75mm
-
-
-
+ - 0.20mm layers
+ - 10mm brim
+ - supports on build plate only
+ - 30% infill - cubic
 
 ## Undermountain Dungeon
-
-### Print 1 - Undermountain Portal Gate
-
-Where does the magical portal go? To a small cavern, with four portals surrounding an
-altar chisled from stone. Welcome to the Undermountain.
-
-Portal:
-
-https://www.instagram.com/p/BaT_TdfAYWT/?taken-by=dwyerdevices
-
-Altar:
-
-https://www.instagram.com/p/BaMBYzLA3Zg/?taken-by=dwyerdevices
-
-**Sources**: 
-
- - [Slottsmollan Obelisk](https://www.thingiverse.com/thing:1490817)
- 
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Maker**:
-**Models**: 
-
- - slottsmollan_obelisk_2x2.stl x2
- - shrine_base_plinth.stl
- 
-**Material**: Inland Gray ABS 1.75mm
-**Print Date**: 2017/10/10
-**Print Time**: 
-
- - slottsmollan_obelisk_2x2.stl: 1 hour 14 minutes
- - shrine_base_plinth.stl: 1 hour 7 minutes
- - shrine_roof.stl: 46 minutes
- 
-**Estimated Print Time**: 
-
- - slottsmollan_obelisk_2x2.stl: 53 minutes
- - shrine_base_plinth.stl: 48 minutes
- - shrine_roof.stl: 23 minutes
- 
-**Estimated Filament**: 
-
- - slottsmollan_obelisk_2x2.stl: 9.2 meters
- - shrine_base_plinth.stl: 5.7 meters
- - shrine_roof.stl: 4.2 meters
-
-0.35mm layers
-10% infill cubic
-no supports
-10mm brim
 
 
 ### Print 2 - The Sundered Spire
@@ -199,9 +168,6 @@ hilbert curve top/bottom fill
 ## Bestiary - Goblins
 
 https://www.youmagine.com/designs/goblins
-
-
-
 
 
 ## Totem and Ida
