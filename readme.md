@@ -14,38 +14,6 @@ all of the repo links are broken, and now need to point to https://github.com/dw
 Wait - we have gcode on the SDCard!
 
 
-
-## Another Vase
-
-https://www.instagram.com/p/BaXeJgLAVWp/?taken-by=dwyerdevices
-
-
-**Maker**: [eggnot](https://www.thingiverse.com/eggnot)
-
-**Source**: [Curved Honeycomb Vase](https://www.thingiverse.com/thing:2376777)
-
-**Original License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-
-**Model**: [sotvl1.stl](https://www.thingiverse.com/download:3798609)
-
-**GCode**: -
-**Material**: Inland Turquoise PLA 1.75mm
-**Print Date**: 2017/10/17
-**Print Time**: 6 hours 48 minutes
-**Estimated Print Time**: 4 hours 30 minutes
-**Estimated Filament**: 16 meters
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - 75% scale
- - 5 perimeters
- - no top horizontal solid layers
- - 10 bottom horizontal solid layers
- - 0% infill
- - 10mm brim
- - 0.20mm layers
-
-
 ## Bracelet
 
 **Source**: [Double Voronoi Bracelet](https://www.thingiverse.com/thing:1403094)
@@ -217,6 +185,7 @@ I've combined models that are the same color into single prints
  - orange: 17.6 centimeters
  - white: 56.8 centimeters
 
+**Post-print Cleanup Time**: 2-3 hours
 **Slicer**: Slic3r
 **Slicer Settings**:
 
