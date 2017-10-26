@@ -39,12 +39,6 @@ hotend set itself for 0°.
  - 30% infill - cubic
 
 
-## Print Fail - Trapped TPE
-
-TPE bundle sticking out: https://www.instagram.com/p/Bamt60pgCCf/?taken-by=dwyerdevices
-
-Open extruder: https://www.instagram.com/p/BamxM6WAACu/?taken-by=dwyerdevices
-
 
 ## Blade of Marmora
 
@@ -58,6 +52,8 @@ the finished blade. Eventually we'll build a version with embedded batter and el
 to make the gem stone glow, but for now a non-glowing translucent blue gemstone will need to do.
 
 https://www.instagram.com/p/BappyHjg4cc/?taken-by=dwyerdevices
+
+https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
 
 ### Sanding
 
@@ -74,7 +70,7 @@ https://www.instagram.com/p/BappyHjg4cc/?taken-by=dwyerdevices
  - Blade Body: Inland Silver PLA 1.75mm
  - Blade Guard x2: Inland Silver PLA 1.75mm
  - Blade Tip: Inland Silver PLA 1.75mm
- - Gem x2: Translucent Blue
+ - Gem x2: Gizmodorks Translucent Blue PLA 1.75mm
  - Hilt Head: Prusa Black PETG 1.75mm
  - Hilt Pommel part 1: Prusa Black PETG 1.75mm
  - Hilt Pommel part 2: Prusa Black PETG 1.75mm
@@ -86,33 +82,30 @@ https://www.instagram.com/p/BappyHjg4cc/?taken-by=dwyerdevices
  - Blade Body: 3 hours 24 minutes
  - Blade Guard x2: 
  - Blade Tip: 1 hour 47 minutes
- - Gem x2: 
- - Hilt Head: 
- - Hilt Pommel part 1: 
- - Hilt Pommel part 2: 
- - Hilt Shaft: Black
+ - Gem (with cut out) x2: 
+ - Hilt Head: 1 hour
+ - Hilt Pommel part 1 & 2: 1 hour 49 minutes
+ - Hilt Shaft: 2 hours 37 minutes
 
 **Estimated Print Time**:
 
  - Blade Body: 3 hours 12 minutes
  - Blade Guard x2: 2 hours 59 minutes
  - Blade Tip: 1 hour 39 minutes
- - Gem x2: 
- - Hilt Head: 
- - Hilt Pommel part 1: 
- - Hilt Pommel part 2: 
- - Hilt Shaft: 
+ - Gem (with cut out) x2: 45 minutes
+ - Hilt Head: 48 minutes
+ - Hilt Pommel part 1 & 2: 1 hour 29 minutes
+ - Hilt Shaft: 2 hours 43 minutes
 
 **Estimated Filament**:
 
  - Blade Body: 5 meters
  - Blade Guard x2: 9.4 meters
  - Blade Tip: 2.2 meters
- - Gem x2: 
- - Hilt Head: 
- - Hilt Pommel part 1: 
- - Hilt Pommel part 2: 
- - Hilt Shaft: 
+ - Gem (with cut out) x2: 1.3 meters
+ - Hilt Head: 1.4 meters
+ - Hilt Pommel part 1 & 2: 4.6 meters
+ - Hilt Shaft: 4.9 meters
 
 **Slicer**: Slic3r
 **Slicer Settings**:
@@ -123,9 +116,11 @@ https://www.instagram.com/p/BappyHjg4cc/?taken-by=dwyerdevices
  - No Supports
   - Blade Body
   - Blade Tip
+  - Hilt Shaft
  - Supports
   - Blad Guard x2
- 
+  - Hilt Head
+  - Pommel 1 & 2
 
 
 
