@@ -13,6 +13,57 @@ all of the repo links are broken, and now need to point to https://github.com/dw
 
 Wait - we have gcode on the SDCard!
 
+## Glue Tests
+
+Of course I first printed 9 of each tile, and I really need 12. Sigh. 
+
+**Print Date**: 2017/10/26
+**Material**:
+
+ - Prusa Black PETG 1.75mm
+ - Inland Silver PLA 1.75mm
+ - Orange Inland ABS 1.75mm
+ 
+**Print Time**:
+
+ - Load Tiles ABS:
+ - Load Tiles PLA: 2 hours 3 minutes
+ - Load Tiles PET: 1 hour 59 minutes
+ - Shear Tiles ABS:
+ - Shear Tiles PLA: 1 hour 42 minutes
+ - Shear Tiles PET: 1 hour 44 minutes
+ 
+**Estimated Print Time**:
+
+ - Load Tiles ABS: 1 hour 25 minutes
+ - Load Tiles PLA: 1 hour 52 minutes
+ - Load Tiles PET: 1 hour 29 minutes
+ - Shear Tiles ABS: 1 hour 25 minutes
+ - Shear Tiles PLA: 1 hour 40 minutes
+ - Shear Tiles PET: 1 hour 25 minutes
+
+**Estimated Filament**:
+
+ - Load Tiles ABS: 11.7 meters
+ - Load Tiles PLA: 11 meters
+ - Load Tiles PET: 11.5 meters
+ - Shear Tiles ABS: 12.8 meters
+ - Shear Tiles PLA: 11.9 meters
+ - Shear Tiles PET: 12.8 meters
+
+**Slicer**: Slic3r
+**Slicer Settings**:
+
+ - Load Tiles
+  - 0.35mm layers
+  - 10mm brim
+  - 20% infill
+  - Supports everywhere
+ - Shear Tiles
+  - 0.35mm layers
+  - 10mm brim
+  - 20% infill
+  - No supports
 
 ## Bracelet
 
@@ -80,9 +131,9 @@ https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
 **Print Time**:
 
  - Blade Body: 3 hours 24 minutes
- - Blade Guard x2: 
+ - Blade Guard x2: 3 hours 15 minutes
  - Blade Tip: 1 hour 47 minutes
- - Gem (with cut out) x2: 
+ - Gem (with and without cut out) x2: 2 hours
  - Hilt Head: 1 hour
  - Hilt Pommel part 1 & 2: 1 hour 49 minutes
  - Hilt Shaft: 2 hours 37 minutes
@@ -92,7 +143,7 @@ https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
  - Blade Body: 3 hours 12 minutes
  - Blade Guard x2: 2 hours 59 minutes
  - Blade Tip: 1 hour 39 minutes
- - Gem (with cut out) x2: 45 minutes
+ - Gem (with and without cut out) x2: 1 hour 13 minutes
  - Hilt Head: 48 minutes
  - Hilt Pommel part 1 & 2: 1 hour 29 minutes
  - Hilt Shaft: 2 hours 43 minutes
@@ -102,7 +153,7 @@ https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
  - Blade Body: 5 meters
  - Blade Guard x2: 9.4 meters
  - Blade Tip: 2.2 meters
- - Gem (with cut out) x2: 1.3 meters
+ - Gem (with and without cut out) x2: 2.6 meters
  - Hilt Head: 1.4 meters
  - Hilt Pommel part 1 & 2: 4.6 meters
  - Hilt Shaft: 4.9 meters
@@ -121,6 +172,7 @@ https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
   - Blad Guard x2
   - Hilt Head
   - Pommel 1 & 2
+  - Gem
 
 
 
@@ -298,63 +350,46 @@ Specified print temp: 210-230℃
  - 10mm brim
  - Octagram Spiral surface fill
  
-## Totem and Ida
+ 
+## Full Scale Totem
 
-A totem and Ida from Monument Valley.
+Going full scale, but at draft quality, as just about everything is rectilinear.
 
-Totem Blocks: https://www.instagram.com/p/BaNIXsZgOfI/?taken-by=dwyerdevices
-
-Totem Pieces pre-cleanup: https://www.instagram.com/p/BaPRlrJg7cy/?taken-by=dwyerdevices
-
-Cleaned up Totem pieces:https://www.instagram.com/p/BaPn6Y4AnA3/?taken-by=dwyerdevices
-
-I've combined models that are the same color into single prints
 
 **Source**: [Totem a Friend Monument Valley plus Ida](https://www.thingiverse.com/thing:2050376)
 **License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
 **Models**: [All Models](https://www.thingiverse.com/thing:2050376/zip)
 **Maker**: [AliG3D](https://www.thingiverse.com/AliG3D)
-**Print Date**: 2017/10/13
-**Scaling**: 50% Original
+**Print Date**: 2017/10/30 - 
+**Scaling**: 100% Original
 **Materials**:
 
  - Hatchbox Yellow PLA 1.75mm
  - Inland Turguoise PLA 1.75mm
- 
+
 **Print Time**:
 
- - yellows: 7 hours 58 minutes
- - blues: 45 minutes
- - black:
- - orange:
- - white: 11 minutes
+ - Yellow #1: 5 hours 1 minute
+ - Yellow #2: 
  
 **Estimated Print Time**:
 
- - yellows: 7 hours 51 minutes
- - blues: 42 minutes
- - black: 5 minutes
- - orange: 3 minutes
- - white: 11 minutes
- 
+ - Yellow #1: 5 hours 4 minutes
+ - Yellow #2: 5 hours 43 minutes
+
 **Estimated Filament**:
 
- - yellows: 36.1 meters
- - blues: 2.2 meters
- - black: 26.8 centimeters
- - orange: 17.6 centimeters
- - white: 56.8 centimeters
+ - Yellow #1: 56.6 meters
+ - Yellow #2: 56.9 meters
 
-**Post-print Cleanup Time**: 2-3 hours
-**Slicer**: Slic3r
 **Slicer Settings**:
 
- - 50% scale
- - 0.20mm layers
- - 20% infill cubic
- - Surface fill - Hilbert Curve
- - 10mm brim
- 
+ - 0.35mm layers
+ - 20% infill
+ - Supports on build plate
+ - Include brim
+
+
 
 # Next Up
 
