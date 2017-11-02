@@ -95,6 +95,8 @@ hotend set itself for 0°.
 
 Eventually we'll print out a version that has a glowing gem stone.
 
+https://www.instagram.com/p/Ba4rRNuAG-2/?taken-by=dwyerdevices
+
 ### Printing
 
 I'm going to pick materials for the various components of this model that elimintates
@@ -108,10 +110,15 @@ https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
 
 ### Sanding
 
+https://www.instagram.com/p/Ba10Ab-gDSP/?taken-by=dwyerdevices
+
 ### Constructing
+
+https://www.instagram.com/p/Ba2CNGZgIcB/?taken-by=dwyerdevices
 
 ### Finishing
 
+https://www.instagram.com/p/Ba36RyogAIc/?taken-by=dwyerdevices
 
 **Source**: http://billythebrick.storenvy.com/products/18957625-voltron-prop-keith-galra-dagger-for-cosplay-stl-files-for-3d-printing
 **Maker**: [Billy the Brick](http://billythebrick.storenvy.com/)
@@ -350,10 +357,28 @@ Specified print temp: 210-230℃
  - 10mm brim
  - Octagram Spiral surface fill
  
+## NinjaFlex Test
+
+Printing a generic cylinder with NinjaFlex
+
+**Material**: NinjaFlex Grass 1.75mm
+**Print Date**: 2017/11/02
+**Print TIme**: -
+**Estimated Print Time**: 42 minutes
+**Estimated Filament**: 1.5 meters
+**Slicer**: PrusaControl
+**Slicer Settings**:
  
+ - Material Setting: Flex - Shore A85
+ - 0.2mm layers
+ - 15% infill
+ - include brim
+
 ## Full Scale Totem
 
 Going full scale, but at draft quality, as just about everything is rectilinear.
+
+One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
 
 
 **Source**: [Totem a Friend Monument Valley plus Ida](https://www.thingiverse.com/thing:2050376)
@@ -365,22 +390,45 @@ Going full scale, but at draft quality, as just about everything is rectilinear.
 **Materials**:
 
  - Hatchbox Yellow PLA 1.75mm
- - Inland Turguoise PLA 1.75mm
+ - Inland Turquoise PLA 1.75mm
+ - Prusa Black PETG 1.75mm
+ - White
+ - Orange
 
 **Print Time**:
 
  - Yellow #1: 5 hours 1 minute
- - Yellow #2: 
+ - Yellow #2: 5 hours 47 minutes
+ - Yellow #3: 
+ - Yellow #4:
+ - Blue #2:
+ - Blue #3:
+ - Blue #4:
+ - Black:
  
 **Estimated Print Time**:
 
  - Yellow #1: 5 hours 4 minutes
  - Yellow #2: 5 hours 43 minutes
+ - Yellow #3: 5 hours 43 minutes
+ - Yellow #4: 5 hours 18 minutes
+ - Blue #2: 28 minutes
+ - Blue #3: 54 minutes
+ - Blue #4: 31 minutes
+ - Black: 11 minutes
 
 **Estimated Filament**:
 
  - Yellow #1: 56.6 meters
  - Yellow #2: 56.9 meters
+ - Yellow #3: 56 meters
+ - Yellow #4: 54.3 meters
+ - Blue #2: 3 meters
+ - Blue #3: 5.5 meters
+ - Blue #4: 3.2 meters
+ - Black: 1.5 meters
+
+**Slicer**: PrusaControl
 
 **Slicer Settings**:
 
