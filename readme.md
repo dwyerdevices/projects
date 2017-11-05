@@ -13,57 +13,7 @@ all of the repo links are broken, and now need to point to https://github.com/dw
 
 Wait - we have gcode on the SDCard!
 
-## Glue Tests
 
-Of course I first printed 9 of each tile, and I really need 12. Sigh. 
-
-**Print Date**: 2017/10/26
-**Material**:
-
- - Prusa Black PETG 1.75mm
- - Inland Silver PLA 1.75mm
- - Orange Inland ABS 1.75mm
- 
-**Print Time**:
-
- - Load Tiles ABS:
- - Load Tiles PLA: 2 hours 3 minutes
- - Load Tiles PET: 1 hour 59 minutes
- - Shear Tiles ABS:
- - Shear Tiles PLA: 1 hour 42 minutes
- - Shear Tiles PET: 1 hour 44 minutes
- 
-**Estimated Print Time**:
-
- - Load Tiles ABS: 1 hour 25 minutes
- - Load Tiles PLA: 1 hour 52 minutes
- - Load Tiles PET: 1 hour 29 minutes
- - Shear Tiles ABS: 1 hour 25 minutes
- - Shear Tiles PLA: 1 hour 40 minutes
- - Shear Tiles PET: 1 hour 25 minutes
-
-**Estimated Filament**:
-
- - Load Tiles ABS: 11.7 meters
- - Load Tiles PLA: 11 meters
- - Load Tiles PET: 11.5 meters
- - Shear Tiles ABS: 12.8 meters
- - Shear Tiles PLA: 11.9 meters
- - Shear Tiles PET: 12.8 meters
-
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - Load Tiles
-  - 0.35mm layers
-  - 10mm brim
-  - 20% infill
-  - Supports everywhere
- - Shear Tiles
-  - 0.35mm layers
-  - 10mm brim
-  - 20% infill
-  - No supports
 
 ## Bracelet
 
@@ -203,7 +153,7 @@ Lit with LED: https://www.instagram.com/p/BafIa_MAoVz/?taken-by=dwyerdevices
 
  - Body: 7 hours 28 minutes
  - Lid: 1 hour 23 minutes
- - Stem:
+ - Stem: 20 minutes
 
 **Estimated Print Time**:
 
@@ -277,9 +227,114 @@ evils that were foretold to conquer the Undermountain.
 ## Undermountain Dungeon
 
 
-### Print ?
+### Print 4 - Cascading Pool
 
+**Sources**:
+ 
+ - [OpenForge - Smooth Edges](https://www.thingiverse.com/thing:234363)
+ - [OpenForge - Magic Circles](https://www.thingiverse.com/thing:242715)
+ 
+**Base Models**:
 
+ - [smooth_edge_wall_2x1.stl](https://www.thingiverse.com/download:433401)
+ - [circle_floor_1-exterior.stl](https://www.thingiverse.com/download:1861483)
+
+**Models**:
+
+ - cascade
+ - wall
+ - basin
+ - still water
+  
+**Print Date**: 2017/11/4
+
+**Material**:
+
+ - Gizmodorks Translucent Blue PLA 1.75mm
+ - Inland Grey ABS 1.75mm
+ 
+**Print Time**:
+
+ - cascade: 1 hour 6 minutes
+ - wall:
+ - basin:
+ - still water:
+ 
+**Estimated Print Time**:
+
+ - cascade: 1 hour 8 minutes
+ - wall: 38 minutes
+ - basin: 1 hour 26 minutes
+ - still water: 52 minutes
+
+**Estimated Filament**:
+
+ - cascade: 3 meters
+ - wall: 6.5 meters
+ - basin: 14.4 meters
+ - still water: 6.6 meters
+
+**Slicer**: Slic3r
+
+**Slicer Settings**:
+
+ - cascade:
+  - 0.35mm layers
+  - 10% infill
+  - 10mm brim
+  - include supports
+  - 2 raft layers
+ - others:
+  - 0.35mm layers
+  - 10mm brim
+  - 10% infill
+
+  
+### Print 3 - Portals
+
+Portal to the Seven Oasis
+
+Portal to the City in the Sky
+
+**Source**: [OpenForge - Magic Circle]()
+**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**:
+
+ - circle_floor_1-interior.stl
+ - circle_floor_1-exterior.stl
+ 
+**Materials**: 
+
+ - Hatchbox Yellow PLA 1.75mm
+ - GizmoDorks Translucent Blue PLA 1.75mm
+
+**Print Date**: 2017/11/04
+
+**Print Time**:
+
+ - Seven Oasis Portal: 2 hours 15 minutes
+ - City in the Sky Portal: 2 hours 15 minutes
+ - Circle Border x2: 
+
+**Estimated Print Time**:
+
+ - Seven Oasis Portal: 1 hour 57 minutes
+ - City in the Sky Portal: 1 hours 57 mnutes
+ - Circle Border x2: 42 minutes
+
+**Estimated Filament**:
+
+ - Seven Oasis Portal: 13.7 meters
+ - City in the Sky Portal: 13.7 meters
+ - Circle Border x2: 6.1 meters
+
+**Slicer**: Slic3r
+**Slicer Settings**;
+ 
+ - 0.35mm layers
+ - 10% infill
+ - 10mm brim
 
 ### Print ? - Alls the Walls
 
@@ -399,12 +454,14 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
 
  - Yellow #1: 5 hours 1 minute
  - Yellow #2: 5 hours 47 minutes
- - Yellow #3: 
- - Yellow #4:
- - Blue #2:
- - Blue #3:
- - Blue #4:
- - Black:
+ - Yellow #3: 5 hours 46 minutes
+ - Yellow #4: 5 hours 21 minutes
+ - Blue #2: 29 minutes
+ - Blue #3: 55 minutes
+ - Blue #4: 31 minutes
+ - Black: 12 minutes
+ - Orange: 11 minutes
+ - White: 27 minutes
  
 **Estimated Print Time**:
 
@@ -416,6 +473,8 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
  - Blue #3: 54 minutes
  - Blue #4: 31 minutes
  - Black: 11 minutes
+ - Orange: 7 minutes
+ - White: 26 minutes
 
 **Estimated Filament**:
 
@@ -427,6 +486,8 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
  - Blue #3: 5.5 meters
  - Blue #4: 3.2 meters
  - Black: 1.5 meters
+ - Orange: 84.2 cm
+ - White: 3.3 meters
 
 **Slicer**: PrusaControl
 
