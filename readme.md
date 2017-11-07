@@ -1,10 +1,25 @@
 
 # Current
 
-! create a font test for stencil post
-
-! start list in repo of print ideas
-
+ - wordmasters
+  - coin stacks
+  - gems
+ - Production timeline planning for xmas gifts
+  - test print wood filament
+  - test print NinjaFlex
+ - Tests for xmas ornament
+ - Filler tiles for Sewer Dungeon
+ - Undermountain shrine tiles
+ - Undermountain ruined portal design/build
+ - Undermountain hallways
+ - dragon's horde
+ - Seven Oasis' - Landing site
+ - City in the Sky - Landing site
+ - Big Totem build
+ - Glue test - Aleene's Original
+ - Glue test - pick more glues
+ - Glue test - print pieces
+ - 2km coin
 
 ## Update GCODE links in all posts
 
@@ -14,7 +29,91 @@ all of the repo links are broken, and now need to point to https://github.com/dw
 Wait - we have gcode on the SDCard!
 
 
+## Glue Test - Aleene's Original
 
+**Glue Date**: 2017/11/05
+
+**Test Date**: -
+
+
+## 2km Coin
+
+**Source**: [2km Coin]()
+
+**Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
+**Tools**:
+
+ - TinkerCad
+ 
+**Material**: Inland Gold ABS 1.75mm
+
+**Print Date**: 2017/11/06
+
+**Print Time**: 1 hour 45 minutes
+
+**Estimated Print Time**: 1 hour 38 minutes
+
+**Estimated Filament**: 3.3 meters
+
+**Slicer**: Slic3r
+
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 10mm brim
+ - 20% infill
+ 
+
+## Word Masters
+
+The 10 year old is building a vault full of gems, coins, and gold bars as part of a project to
+come up with a 3D representation of the word **skinflint**. 
+
+After about 5 print failures laying down the brim and base layer for the set of four gold bars,
+I gave in and tried blue painters tape on the print bed. I can't believe how cleanly ABS went
+down on the tape...
+
+**Sources**:
+
+ 
+**Licenses**:
+
+ 
+**Material**:
+ 
+ - Inland Gold ABS 1.75mm
+ 
+**Models**:
+
+**Print Date**: 2017/11/05
+
+**Print Time**:
+
+ - gold bars (200% scale) x4: 44 minutes
+ - big bar: 46 minutes
+ - coin stack: 2 hours 22 minutes
+ 
+**Estimated Print Time**:
+
+ - gold bars (200% scale) x4: 38 minutes
+ - big bar: 42 minutes
+ - coin stack: 2 hours
+ 
+**Estimated Filament**:
+
+ - gold bars (200% scale) x4: 5.9 meters
+ - big bar: 7.4 meters
+ - coin stack: 19.9 meters
+ 
+**Slicer**: Slic3r
+
+**Slicer Settings**:
+
+ - gold bars (200% scale) x4: 
+  - 0.35mm layers
+  - include brim
+  - 10% infill
+  
 ## Bracelet
 
 !! First print failed when the printer wouldn't resume after pausing over night. Bed would heat up, but the 
@@ -38,99 +137,6 @@ hotend set itself for 0°.
  - 10mm brim
  - supports on build plate only
  - 30% infill - cubic
-
-
-
-## Blade of Marmora
-
-Eventually we'll print out a version that has a glowing gem stone.
-
-https://www.instagram.com/p/Ba4rRNuAG-2/?taken-by=dwyerdevices
-
-### Printing
-
-I'm going to pick materials for the various components of this model that elimintates
-the need to do any painting, or at least minimizes the amount of painting required on
-the finished blade. Eventually we'll build a version with embedded batter and electronics
-to make the gem stone glow, but for now a non-glowing translucent blue gemstone will need to do.
-
-https://www.instagram.com/p/BappyHjg4cc/?taken-by=dwyerdevices
-
-https://www.instagram.com/p/Bar_EOMgiNs/?taken-by=dwyerdevices
-
-### Sanding
-
-https://www.instagram.com/p/Ba10Ab-gDSP/?taken-by=dwyerdevices
-
-### Constructing
-
-https://www.instagram.com/p/Ba2CNGZgIcB/?taken-by=dwyerdevices
-
-### Finishing
-
-https://www.instagram.com/p/Ba36RyogAIc/?taken-by=dwyerdevices
-
-**Source**: http://billythebrick.storenvy.com/products/18957625-voltron-prop-keith-galra-dagger-for-cosplay-stl-files-for-3d-printing
-**Maker**: [Billy the Brick](http://billythebrick.storenvy.com/)
-**License**: Commercial
-**Materials**:
-
- - Blade Body: Inland Silver PLA 1.75mm
- - Blade Guard x2: Inland Silver PLA 1.75mm
- - Blade Tip: Inland Silver PLA 1.75mm
- - Gem x2: Gizmodorks Translucent Blue PLA 1.75mm
- - Hilt Head: Prusa Black PETG 1.75mm
- - Hilt Pommel part 1: Prusa Black PETG 1.75mm
- - Hilt Pommel part 2: Prusa Black PETG 1.75mm
- - Hilt Shaft: Prusa Black PETG 1.75mm
- 
-**Print Date**: 2017/10/24
-**Print Time**:
-
- - Blade Body: 3 hours 24 minutes
- - Blade Guard x2: 3 hours 15 minutes
- - Blade Tip: 1 hour 47 minutes
- - Gem (with and without cut out) x2: 2 hours
- - Hilt Head: 1 hour
- - Hilt Pommel part 1 & 2: 1 hour 49 minutes
- - Hilt Shaft: 2 hours 37 minutes
-
-**Estimated Print Time**:
-
- - Blade Body: 3 hours 12 minutes
- - Blade Guard x2: 2 hours 59 minutes
- - Blade Tip: 1 hour 39 minutes
- - Gem (with and without cut out) x2: 1 hour 13 minutes
- - Hilt Head: 48 minutes
- - Hilt Pommel part 1 & 2: 1 hour 29 minutes
- - Hilt Shaft: 2 hours 43 minutes
-
-**Estimated Filament**:
-
- - Blade Body: 5 meters
- - Blade Guard x2: 9.4 meters
- - Blade Tip: 2.2 meters
- - Gem (with and without cut out) x2: 2.6 meters
- - Hilt Head: 1.4 meters
- - Hilt Pommel part 1 & 2: 4.6 meters
- - Hilt Shaft: 4.9 meters
-
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - 0.15mm layers
- - 10mm brim
- - 20% infill cubic
- - No Supports
-  - Blade Body
-  - Blade Tip
-  - Hilt Shaft
- - Supports
-  - Blad Guard x2
-  - Hilt Head
-  - Pommel 1 & 2
-  - Gem
-
 
 
 ## Makies Jack-o-Lantern
@@ -176,6 +182,55 @@ Lit with LED: https://www.instagram.com/p/BafIa_MAoVz/?taken-by=dwyerdevices
  - 20% infill
  - 150% scale
 
+
+## Sewer Dungeon Filler
+
+need stone tiles (a lot)
+various size stone tiles
+
+**Source**: [OpenForge - Stone Dungeon Tiles](https://www.thingiverse.com/thing:171315)
+**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+
+**Models**:
+
+ - [stone_floor_2x2.stl](https://www.thingiverse.com/download:361884)
+ - [stone_floor_2x4.stl](https://www.thingiverse.com/download:361890)
+ - [stone_floor_1x2.stl](https://www.thingiverse.com/download:361883)
+ - [stone_floor_1x3.stl](https://www.thingiverse.com/download:361892)
+ 
+**Material**: Inland Gray ABS 1.75mm
+**Print Date**: 2017/11/07
+**Print Time**:
+
+ - stone_floor_2x2 x6: 
+ - stone_floor_2x4 x3:
+ - stone_floor_1x2 x8:
+ - stone_floor_1x3 x8:
+ 
+**Estimated Print Time**:
+
+ - stone_floor_2x2 x6: 2 hours 49 minutes
+ - stone_floor_2x4 x3: 2 hours 46 minutes
+ - stone_floor_1x2 x8: 1 hour 59 minutes
+ - stone_floor_1x3 x8: 2 hours 58 minutes
+
+**Estimated Filament**:
+
+ - stone_floor_2x2 x6: 28.8 meters
+ - stone_floor_2x4 x3: 28.3 meters
+ - stone_floor_1x2 x8: 20.3 meters
+ - stone_floor_1x3 x8: 30.4 meters
+
+**Slicer**: Slic3r
+
+**Slicer Settings**:
+
+ - 0.35mm layers
+ - 10mm brim
+ - no supports
+ - 10% infill
+  
 ## Seven Oasis'
 
 ### Print 1 - Sphinx Portal
@@ -258,7 +313,7 @@ evils that were foretold to conquer the Undermountain.
  - cascade: 1 hour 6 minutes
  - wall:
  - basin:
- - still water:
+ - still water: 50 minutes
  
 **Estimated Print Time**:
 
@@ -516,12 +571,6 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
  Build a high res model of a planet/moon and mount it on the Ikea lamp base for S for
  xmas.
  
-**Blade of Marmorra**
-
- 
-**Howl's necklace**
-
-**Glue Test Prints**
 
 **Glowing Obelisk**
 
