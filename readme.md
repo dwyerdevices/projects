@@ -1,9 +1,7 @@
 
 # Current
 
- - wordmasters
-  - coin stacks
-  - gems
+
  - Production timeline planning for xmas gifts
   - test print wood filament
   - test print NinjaFlex
@@ -19,7 +17,7 @@
  - Glue test - Aleene's Original
  - Glue test - pick more glues
  - Glue test - print pieces
- - 2km coin
+
 
 ## Update GCODE links in all posts
 
@@ -188,6 +186,8 @@ Lit with LED: https://www.instagram.com/p/BafIa_MAoVz/?taken-by=dwyerdevices
 need stone tiles (a lot)
 various size stone tiles
 
+Keep having print issues anywhere near the edge of the build plate.
+
 **Source**: [OpenForge - Stone Dungeon Tiles](https://www.thingiverse.com/thing:171315)
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
@@ -203,10 +203,12 @@ various size stone tiles
 **Print Date**: 2017/11/07
 **Print Time**:
 
- - stone_floor_2x2 x6: 
- - stone_floor_2x4 x3:
- - stone_floor_1x2 x8:
- - stone_floor_1x3 x8:
+ - stone_floor_2x2 x6: 3 hours 25 minutes 
+ - stone_floor_2x4 x3: failure
+ - stone_floor_1x2 x8: failure
+ - stone_floor_1x3 x8: failure
+ - stone_floor_1x3 x4: 1 hour 39 minutes
+ - stone_floor_2x4 x2: 
  
 **Estimated Print Time**:
 
@@ -214,6 +216,8 @@ various size stone tiles
  - stone_floor_2x4 x3: 2 hours 46 minutes
  - stone_floor_1x2 x8: 1 hour 59 minutes
  - stone_floor_1x3 x8: 2 hours 58 minutes
+ - stone_floor_1x3 x4: 1 hour 31 minutes
+ - stone_floor_2x4 x2: 2 hours 2 minutes
 
 **Estimated Filament**:
 
@@ -221,6 +225,8 @@ various size stone tiles
  - stone_floor_2x4 x3: 28.3 meters
  - stone_floor_1x2 x8: 20.3 meters
  - stone_floor_1x3 x8: 30.4 meters
+ - stone_floor_1x3 x4: 15.3 meters
+ - stone_floor_2x4 x2: 22.2 meters
 
 **Slicer**: Slic3r
 
@@ -229,7 +235,7 @@ various size stone tiles
  - 0.35mm layers
  - 10mm brim
  - no supports
- - 10% infill
+ - 10% - 20% infill
   
 ## Seven Oasis'
 
@@ -311,7 +317,7 @@ evils that were foretold to conquer the Undermountain.
 **Print Time**:
 
  - cascade: 1 hour 6 minutes
- - wall:
+ - wall: 46 minutes
  - basin:
  - still water: 50 minutes
  
@@ -416,33 +422,6 @@ hilbert curve top/bottom fill
 
 https://www.youmagine.com/designs/goblins
 
-## Bestiary - Ghosts
-
-Why wouldn't you want to have a set of green ghosts around? Especially if your adventurers might
-be snooping around tombs. Ancient tombs, at that. There may even be mummies about. Boo.
-
-https://www.instagram.com/p/BaphXXaAXbs/?taken-by=dwyerdevices
-
-The ghosts were hard to clean up. None of the heads came through attached, and on one of the ghosts the arms 
-came off with the supports. They'll still work (ok, _headless_ ghosts) for the purpose of this adventure, but
-I do need to figure out a better way to print them.
-
-**Source**: https://www.youmagine.com/designs/spooky-ghost
-**Maker**: [Harry Baere](https://www.youmagine.com/mz4250)
-**Model**: [ghost.stl](https://www.youmagine.com/documents/35100/download) **x4**
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
-**Print Date**: 2017/10/20
-**Material**: CNZhehan Translucent Green PETG 1.75mm
-**Print Time**: 2 hours 54 minutes
-**Estimated Print Time**: 2 hours 15 minutes
-**Estimated Filament**: 6.3 meters
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - 0.20mm
- - 20% infill
- - Supports Everywhere
- - Include Brim
  
 
 ## TPE Test Tile
