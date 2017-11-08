@@ -33,33 +33,6 @@ Wait - we have gcode on the SDCard!
 
 **Test Date**: -
 
-
-## 2km Coin
-
-**Source**: [2km Coin]()
-
-**Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
-**Tools**:
-
- - TinkerCad
- 
-**Material**: Inland Gold ABS 1.75mm
-
-**Print Date**: 2017/11/06
-
-**Print Time**: 1 hour 45 minutes
-
-**Estimated Print Time**: 1 hour 38 minutes
-
-**Estimated Filament**: 3.3 meters
-
-**Slicer**: Slic3r
-
-**Slicer Settings**:
-
- - 0.10mm layers
- - 10mm brim
- - 20% infill
  
 
 ## Word Masters
@@ -187,6 +160,10 @@ need stone tiles (a lot)
 various size stone tiles
 
 Keep having print issues anywhere near the edge of the build plate.
+
+2x2s and 1x3s:
+
+https://www.instagram.com/p/BbN3gdiAFvc/?taken-by=dwyerdevices
 
 **Source**: [OpenForge - Stone Dungeon Tiles](https://www.thingiverse.com/thing:171315)
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
