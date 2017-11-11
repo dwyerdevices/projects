@@ -33,7 +33,162 @@ Wait - we have gcode on the SDCard!
 
 **Test Date**: -
 
+
+## Ornament Tests
+
+Testing out various ornaments in the run up to the holiday season. I want to find one
+that is interesting, but quick to print, and easy to cleanup. It's a bit of an ornament
+tournament...
+
+#### PKSW Ornament - Single Object
+
+A long print, and the supports were a nightmare. Printing letters vertically makes for
+a really messy surface on all the sides. I need to find a cleaner way to print these.
+
+https://www.instagram.com/p/BbVTU5dgDeO/?taken-by=dwyerdevices
+
+**Source**: -
+**Maker**: me
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: pksw_ornament.stl
+
+**Material**: Gizmodorks Translucent Blue PLA 1.75mm
+**Scale**: 80% for draft test
+**Print Date**: 2017/11/10
+**Print Time**: -
+**Estimated Print Time**: 5 hours 56 minutes
+**Estimated Filament**: 38.6 meters
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - 80% scale
+ - 0.35mm layers
+ - include brim
+ - supports everywhere
+
+#### PKSW Ornament - Pieces
+
+The letters broken into individual chunks, with the letter face toward the print bed. Now all
+of the pieces are joined by a pillar through the middle of the ornament, with each letter having
+a tab sticking into the middle of the ornament, with the pillar threaded through. 
+
+https://www.instagram.com/p/BbXSVRBglzA/?taken-by=dwyerdevices
+
+First pass print of the ornament in pieces had a few problems: the brim made for jagged edges on
+otherwise nice and smooth letter faces, the supports were hard to clean up and tore off the hook,
+and the pillar was just barely too wide, and wouldn't fit into the rest of the pieces.
+
+https://www.instagram.com/p/BbXjTD1A9JP/?taken-by=dwyerdevices
+
+The second pass is just about right. A few tweaks, and we're ready to try out a bunch of materials.
+
+
+**Material**: Gizmodorks Translucent Blue PLA 1.75mm
+**Print Date**: 2017/11/11
+**Print Time**: 1 hour 55 minutes
+**Estimated Print Time**: 1 hour 38 minutes
+**Estimated Filament**: 12.7 meters
+**Slicer Settings**:
+
+ - 50% scale
+ - 0.35mm layers
+ - include brim
+ - supports everywhere
  
+##### Individual Prints
+
+
+**Print Time**:
+
+ - **P** in PLA: 
+ - **P** in ABS: 
+ - **K** in PLA:
+ - **K** in ABS:
+ - **S** in PLA:
+ - **S** in ABS:
+ - **W** in PLA:
+ - **W** in ABS:
+ - **Pillar** in PLA:
+ - **Pillar** in ABS:
+ 
+**Estimated Print Time**:
+
+ - **P** in PLA: 28 minutes
+ - **P** in ABS: 17 minutes
+ - **K** in PLA: 28 minutes
+ - **K** in ABS: 17 minutes
+ - **S** in PLA: 28 minutes
+ - **S** in ABS: 18 minutes
+ - **W** in PLA: 28 minutes
+ - **W** in ABS: 19 minutes
+ - **Pillar** in PLA: 12 minutes
+ - **Pillar** in ABS: 6 minutes
+ 
+**Estimated Filament**:
+
+ - **P** in PLA: 2.8 meters
+ - **P** in ABS: 3 meters
+ - **K** in PLA: 2.9 meters
+ - **K** in ABS: 3.1 meters
+ - **S** in PLA: 3.1 meters
+ - **S** in ABS: 3.3 meters
+ - **W** in PLA: 3.2 meters
+ - **W** in ABS: 3.4 meters
+ - **Pillar** in PLA: 64.9 cm
+ - **Pillar** in ABS: 70.5 cm
+  
+**Slicer**: Prusa Control
+
+**Slicer Settings**:
+
+ - 0.35 mm layers
+ - no brim
+ - no supports
+ - 20% infill
+ - 50% original scale
+
+ 
+#### Ornament With Stars
+
+**Source**: [Ornament with Stars](https://www.thingiverse.com/thing:1119768)
+**Maker**: [pmoews](https://www.thingiverse.com/pmoews)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [ornament_with_stars.stl](https://www.thingiverse.com/download:1758736)
+ 
+
+#### Icosahedral Christmas Ornaments
+
+**Source**: [Icosahedral Christmas Ornaments](https://www.thingiverse.com/thing:1131905)
+**Maker**: [pmoews](https://www.thingiverse.com/pmoews)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Models**: 
+ 
+ - [caged_dodeca.stl](https://www.thingiverse.com/download:1777123)
+ - [caged_stellated_dodeca.stl](https://www.thingiverse.com/download:1777121)
+
+#### Five Intersecting Tetrahedra
+
+**Source**: [Five Intersecting Tetrahedra](https://www.thingiverse.com/thing:691814)
+**Maker**: [laurentine](https://www.thingiverse.com/laurentine)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Models**:
+
+ - [fit_with_supports.stl](https://www.thingiverse.com/download:1114220)
+ - [five_intersecting_tetrahedra_for_hanging.stl](https://www.thingiverse.com/download:1112044)
+ 
+#### Ornament of Ten Tetrahedra
+
+**Source**: [Ornament of Ten Tetrahedra](https://www.thingiverse.com/thing:203610)
+**Maker**: [pmoews](https://www.thingiverse.com/pmoews)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [compound_of_ten_tetrahedra.stl](https://www.thingiverse.com/download:379621)
+
+#### Big Dice?
+
+
+#### Impossible Shapes?
+
+#### ?
 
 ## Word Masters
 
@@ -264,7 +419,91 @@ evils that were foretold to conquer the Undermountain.
 
 ## Undermountain Dungeon
 
+### Print 6 - Dwarven Statues
 
+Medium/NPC Sized: 500% scale
+Large Sized: 1000% scale
+
+Trying the medium and large at higher print quality - there aren't a ton of these, and they
+are some of the nicer decoration pieces, so it may be worth the time for the better detail of
+the smaller layers.
+
+**Source**: [Dwarven Paragon with Warhammer](https://www.thingiverse.com/thing:1355405)
+**Maker**: [Wargaming_Miniature_Showcase](https://www.thingiverse.com/Wargaming_Miniature_Showcase)
+**License**: [Creative Commons - Attribution - Non-Commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Model**: [dwarven_paragon_rev1_fixed.stl](https://www.thingiverse.com/download:2105232)
+**Material**: Inland Gray ABS 1.75mm
+**Print Date**: 2017/11/11
+**Print Time**: 
+
+ - Medium/NPC Sized @ 0.35mm: 20 minutes
+ - Medium/NPC Sized @ 0.20mm: 
+ - Large Sized: 
+ 
+**Estimated Print Time**: 
+
+ - Medium/NPC Sized @ 0.35mm: 18 minutes
+ - Medium/NPC Sized @ 0.20mm: 36 minutes
+ - Large Sized: 2 hours 50 minutes
+
+**Estimated Filament**: 
+
+ - Medium/NPC Sized @ 0.35mm: 2.2 meters
+ - Medium/NPC Sized @ 0.20mm: 2.2 meters
+ - Large Sized: 11.9 meters
+
+**Slicer**: Prusa Control
+**Slicer Settings**: 
+
+ - 0.35mm layers for Medium / 0.20mm layers for Large
+ - 20% infill
+ - Supports from Build Plate Only
+ - Include Brim
+ - 500% Original Scale
+
+### Print 5 - Court of Portals
+
+I have quite a few of the pieces for this part of the dungeon already printed, but
+need to build out the flooring and the surrounds for each of the portals. The courtyard
+at the center of all of the portals is fairly large, at 12 x 12 squares. I'm going to
+attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
+
+**Sources**: 
+ 
+ - [OpenForge - Smooth Floors](https://www.thingiverse.com/thing:234325)
+ - [OpenForge - Smooth Cooridors](http://www.thingiverse.com/thing:239965)
+ 
+**Models**:
+
+ - [smooth_floor_4x4.stl](https://www.thingiverse.com/download:433425)
+ - [smooth_corridor_3x2.stl](https://www.thingiverse.com/download:441206)
+ 
+**Material**: Inland Gray ABS 1.75mm
+
+**Print Time**:
+
+ - smooth floor 4x4 (x9): 1 hour 56 minutes
+ - corridor 3x2 (x4): 1 hour 55 minutes
+ 
+**Estimated Print Time**:
+
+ - smooth floor 4x4: 1 hour 50 minutes
+ - corridor 3x2: 1 hour 49 minutes
+
+**Estimated Filament**:
+
+ - smooth floor 4x4: 20 meters
+ - corridor 3x2: 21.4 meters
+
+**Slicer**: PrusaControl
+
+**Slicer Settings**:
+
+ - 0.35mm layers
+ - 20% infill
+ - include brim
+ - no supports
+ 
 ### Print 4 - Cascading Pool
 
 **Sources**:
@@ -353,19 +592,19 @@ Portal to the City in the Sky
 
  - Seven Oasis Portal: 2 hours 15 minutes
  - City in the Sky Portal: 2 hours 15 minutes
- - Circle Border x2: 
+ - Circle Border (x3): 54 minutes
 
 **Estimated Print Time**:
 
  - Seven Oasis Portal: 1 hour 57 minutes
  - City in the Sky Portal: 1 hours 57 mnutes
- - Circle Border x2: 42 minutes
+ - Circle Border (x3): 42 minutes
 
 **Estimated Filament**:
 
  - Seven Oasis Portal: 13.7 meters
  - City in the Sky Portal: 13.7 meters
- - Circle Border x2: 6.1 meters
+ - Circle Border (x3): 6.1 meters
 
 **Slicer**: Slic3r
 **Slicer Settings**;
@@ -428,7 +667,7 @@ Specified print temp: 210-230℃
 Printing a generic cylinder with NinjaFlex
 
 **Material**: NinjaFlex Grass 1.75mm
-**Print Date**: 2017/11/02
+**Print Date**: 2017/11/-
 **Print TIme**: -
 **Estimated Print Time**: 42 minutes
 **Estimated Filament**: 1.5 meters
@@ -440,6 +679,23 @@ Printing a generic cylinder with NinjaFlex
  - 15% infill
  - include brim
 
+## Wood Fill Test
+
+Printing a generic cylinder with Hatchbox Wood Fill
+
+**Material**: Hatchbox Wood Fill 1.75mm
+**Print Date**: 2017/11/-
+**Print Time**: -
+**Estimated Print Time**: -
+**Estimated Filament**: -
+**Slicer**:
+**Slicer Settings**:
+ 
+ - Material:
+ - 0.20mm layers
+ - 15% infill
+ - include brim
+ 
 ## Full Scale Totem
 
 Going full scale, but at draft quality, as just about everything is rectilinear.
