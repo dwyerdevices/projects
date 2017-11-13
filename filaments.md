@@ -22,7 +22,8 @@ Gold                            | 1kg  | ABS        | Inland         | 2017/10/-
 Black                           | 2kg  | PETG       | Prusa          | 2017/10/01   | 2017/10/10   | 60%
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-    | 2017/10/-    | 80%
 Turquoise                       | 1kg  | PLA        | Inland         | 2017/11/-    | 2017/11/-    | 75%
-
+Grass                           | .5kg | Flex       | NinjaFlex      | 2017/11/05   | 2017/11/12   | 95%
+Wood                            | 1kg  | PLA/Wood   | Hatchbox       | 2017/11/05   | 2017/11/12   | 99%
 
 ## Unopened
 
@@ -37,8 +38,6 @@ Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/11/05
 Silver                          | 1kg  | PLA        | Hatchbox       | 2017/10/-
 White/Red, UV Color Change      | .5kg | -          | Inland         | 2017/10/-
-Wood                            | 1kg  | PLA/Wood   | Hatchbox       | 2017/11/05
-Grass                           | .5kg | Flex       | NinjaFlex      | 2017/11/05  
 
 
 ## Finished
@@ -47,3 +46,4 @@ Color                           | Wgt  | Material   | Brand          | Purchased
 --------------------------------|------|------------|----------------|--------------|--------------|--------------
 Gray                            | 1kg  | PLA        | Prusa          | 2017/10/01   | 2017/10/10   | 2017/10/-
 Gray                            | 1kg  | ABS        | Inland         | 2017/10/-    | 2017/10/-    | 2017/10/-
+Gray                            | 1kg  | ABS        | Inland         | 2017/10/-    | 2017/11/-    | 2017/11/12

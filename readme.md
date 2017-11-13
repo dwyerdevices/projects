@@ -1,4 +1,12 @@
+# Today
 
+ - [x] NinjaFlex test
+ - [x] Woodfill test
+ - [x] Copper large dwarf statue
+ - [ ] prep dungeon accessories
+ - [ ] update cascading pool?
+ - [ ] continue portal chamber
+ 
 # Current
 
 
@@ -40,60 +48,7 @@ Testing out various ornaments in the run up to the holiday season. I want to fin
 that is interesting, but quick to print, and easy to cleanup. It's a bit of an ornament
 tournament...
 
-#### PKSW Ornament - Single Object
 
-A long print, and the supports were a nightmare. Printing letters vertically makes for
-a really messy surface on all the sides. I need to find a cleaner way to print these.
-
-https://www.instagram.com/p/BbVTU5dgDeO/?taken-by=dwyerdevices
-
-**Source**: -
-**Maker**: me
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Model**: pksw_ornament.stl
-
-**Material**: Gizmodorks Translucent Blue PLA 1.75mm
-**Scale**: 80% for draft test
-**Print Date**: 2017/11/10
-**Print Time**: -
-**Estimated Print Time**: 5 hours 56 minutes
-**Estimated Filament**: 38.6 meters
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - 80% scale
- - 0.35mm layers
- - include brim
- - supports everywhere
-
-#### PKSW Ornament - Pieces
-
-The letters broken into individual chunks, with the letter face toward the print bed. Now all
-of the pieces are joined by a pillar through the middle of the ornament, with each letter having
-a tab sticking into the middle of the ornament, with the pillar threaded through. 
-
-https://www.instagram.com/p/BbXSVRBglzA/?taken-by=dwyerdevices
-
-First pass print of the ornament in pieces had a few problems: the brim made for jagged edges on
-otherwise nice and smooth letter faces, the supports were hard to clean up and tore off the hook,
-and the pillar was just barely too wide, and wouldn't fit into the rest of the pieces.
-
-https://www.instagram.com/p/BbXjTD1A9JP/?taken-by=dwyerdevices
-
-The second pass is just about right. A few tweaks, and we're ready to try out a bunch of materials.
-
-
-**Material**: Gizmodorks Translucent Blue PLA 1.75mm
-**Print Date**: 2017/11/11
-**Print Time**: 1 hour 55 minutes
-**Estimated Print Time**: 1 hour 38 minutes
-**Estimated Filament**: 12.7 meters
-**Slicer Settings**:
-
- - 50% scale
- - 0.35mm layers
- - include brim
- - supports everywhere
  
 ##### Individual Prints
 
@@ -417,6 +372,28 @@ evils that were foretold to conquer the Undermountain.
  - Supports Everywhere
  - Include Brim
 
+
+## Dungeon Accessories
+
+### Wizard's Bookshelves
+
+**Source**: [Wizard's Shelf](https://www.thingiverse.com/thing:1428539)
+**Maker**: [dutchmogul](https://www.thingiverse.com/dutchmogul)
+**License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [WizardShelf28mm.stl](https://www.thingiverse.com/download:2216538)
+**Material**: Hatchbox Woodfill PLA 1.75mm
+**Print Date**: 2017/11/12
+**Print Time**: 2 hours 20 minutes
+**Estimated Print Time**: 2 hours 14 minutes
+**Estimated Filament**: 7.5 meters
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 20% infill
+ - No supports
+ - include brim
+
 ## Undermountain Dungeon
 
 ### Print 6 - Dwarven Statues
@@ -428,17 +405,25 @@ Trying the medium and large at higher print quality - there aren't a ton of thes
 are some of the nicer decoration pieces, so it may be worth the time for the better detail of
 the smaller layers.
 
+Copper version printed about 1/4 of the way before the spool got tangled, looks like the filament
+snapped under tension. grrr.
+
 **Source**: [Dwarven Paragon with Warhammer](https://www.thingiverse.com/thing:1355405)
 **Maker**: [Wargaming_Miniature_Showcase](https://www.thingiverse.com/Wargaming_Miniature_Showcase)
 **License**: [Creative Commons - Attribution - Non-Commercial](http://creativecommons.org/licenses/by-nc/3.0/)
 **Model**: [dwarven_paragon_rev1_fixed.stl](https://www.thingiverse.com/download:2105232)
-**Material**: Inland Gray ABS 1.75mm
+**Materials**: 
+
+ - Inland Gray ABS 1.75mm
+ - Hatchbox Copper ABS 1.75mm
+ - Inland Gold ABS 1.75mm
+ 
 **Print Date**: 2017/11/11
 **Print Time**: 
 
  - Medium/NPC Sized @ 0.35mm: 20 minutes
- - Medium/NPC Sized @ 0.20mm: 
- - Large Sized: 
+ - Medium/NPC Sized @ 0.20mm: 52 minutes
+ - Large Sized: 3 hours 40 minutes
  
 **Estimated Print Time**: 
 
@@ -613,26 +598,6 @@ Portal to the City in the Sky
  - 10% infill
  - 10mm brim
 
-### Print ? - Alls the Walls
-
-Batch printing walls.
-
-Interesting to note: when generating the estimates for print time and filament, PrusaControl wouldn't load
-the full STL or generated GCODE I built in Slic3r - it just locked up the entire computer, nearly causing
-a full hard boot. For the estimates, I used the base wall tile, and scaled up by a factor of 12.
-
-**Model**: sewer_wall_2x2.stl x12
-**Print Date**: ?
-**Print Time**: ?
-**Estimated Print Time**: 10 hours 48 mintues
-**Estimated Filament**: 85.2 meters
-
-Inland Gray ABS 1.75mm
-0.35mm layers
-10% infill 3d honeycomb
-no supports
-4mm brim
-hilbert curve top/bottom fill
 
 ## Bestiary - Goblins
 
@@ -664,36 +629,47 @@ Specified print temp: 210-230℃
  
 ## NinjaFlex Test
 
-Printing a generic cylinder with NinjaFlex
+Printing a test pyramid with NinjaFlex
+
+Loading was _almost_ a problem. The extruder had ABS wedged in it after a previous spool had
+a tanle and a snap. The first try at loading the NinjaFlex managed to push out most of the ABS,
+but backed up the NinjaFlex into a ball. The jam pulled out easily, and the second attempt at
+loading was quick and easy.
+
+Pyramid test print turned out really well - the print took exactly as long as estimated, the
+shell wall of the pyramid was strong but still flexible, and the finish on the print was clean,
+with visible but thin layer lines.
 
 **Material**: NinjaFlex Grass 1.75mm
 **Print Date**: 2017/11/-
-**Print TIme**: -
-**Estimated Print Time**: 42 minutes
-**Estimated Filament**: 1.5 meters
+**Print TIme**: 20 minutes
+**Estimated Print Time**: 20 minutes
+**Estimated Filament**: 69.8 cm
 **Slicer**: PrusaControl
 **Slicer Settings**:
  
  - Material Setting: Flex - Shore A85
  - 0.2mm layers
- - 15% infill
- - include brim
+ - 0% infill/shell
+ - no brim
 
 ## Wood Fill Test
 
-Printing a generic cylinder with Hatchbox Wood Fill
+Printing a generic cylinder with Hatchbox Wood Fill. Hmm - not the cleanest print on the test tile,
+but the brim was super smooth and clean. Will need to play with slicer settings for the full piece I want
+to print.
 
-**Material**: Hatchbox Wood Fill 1.75mm
+**Material**: Hatchbox Wood Fill PLA 1.75mm
 **Print Date**: 2017/11/-
-**Print Time**: -
-**Estimated Print Time**: -
-**Estimated Filament**: -
-**Slicer**:
+**Print Time**: 8 minutes
+**Estimated Print Time**: 8 minutes
+**Estimated Filament**: 42.4 cm
+**Slicer**: PrusaControl
 **Slicer Settings**:
  
- - Material:
+ - Material: ColorFabb Wood fill
  - 0.20mm layers
- - 15% infill
+ - 20% infill
  - include brim
  
 ## Full Scale Totem
@@ -817,9 +793,6 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
 **letter form test**
 
 
-
-**generic tudor house plan tiles**
-
 **better spool holder**
 
  a one-size-fits-all holder with insertable rod?
@@ -827,5 +800,3 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
 **Clip Case for CCG**
 
 Slide over case with two inserts that act as cotter pins
-
-**Odometer style counter for measuring total printed filament**
