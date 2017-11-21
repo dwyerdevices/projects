@@ -3,20 +3,23 @@
  - [x] NinjaFlex test
  - [x] Woodfill test
  - [x] Copper large dwarf statue
- - [ ] prep dungeon accessories
+ - [x] prep dungeon accessories
  - [ ] update cascading pool?
  - [ ] continue portal chamber
+ - [ ] undermountain
+ - [ ] start designing city in the sky
+ - [ ] start printing stalls/buildings for seven oasis
+ - [ ] start designing seven oasis
+ - [ ] dexters moon test print
+ - [ ] squishy owl
+ - [ ] linotype test
  
 # Current
 
 
  - Production timeline planning for xmas gifts
-  - test print wood filament
-  - test print NinjaFlex
- - Tests for xmas ornament
- - Filler tiles for Sewer Dungeon
+
  - Undermountain shrine tiles
- - Undermountain ruined portal design/build
  - Undermountain hallways
  - dragon's horde
  - Seven Oasis' - Landing site
@@ -42,6 +45,12 @@ Wait - we have gcode on the SDCard!
 **Test Date**: -
 
 
+## Troubleshooting - woodfill jam
+
+Jammed material: https://www.instagram.com/p/BbmG5MNgI6T/?taken-by=dwyerdevices
+
+Drill bits: https://www.instagram.com/p/Bbkr2V5gESv/?taken-by=dwyerdevices
+
 ## Ornament Tests
 
 Testing out various ornaments in the run up to the holiday season. I want to find one
@@ -49,60 +58,6 @@ that is interesting, but quick to print, and easy to cleanup. It's a bit of an o
 tournament...
 
 
- 
-##### Individual Prints
-
-
-**Print Time**:
-
- - **P** in PLA: 
- - **P** in ABS: 
- - **K** in PLA:
- - **K** in ABS:
- - **S** in PLA:
- - **S** in ABS:
- - **W** in PLA:
- - **W** in ABS:
- - **Pillar** in PLA:
- - **Pillar** in ABS:
- 
-**Estimated Print Time**:
-
- - **P** in PLA: 28 minutes
- - **P** in ABS: 17 minutes
- - **K** in PLA: 28 minutes
- - **K** in ABS: 17 minutes
- - **S** in PLA: 28 minutes
- - **S** in ABS: 18 minutes
- - **W** in PLA: 28 minutes
- - **W** in ABS: 19 minutes
- - **Pillar** in PLA: 12 minutes
- - **Pillar** in ABS: 6 minutes
- 
-**Estimated Filament**:
-
- - **P** in PLA: 2.8 meters
- - **P** in ABS: 3 meters
- - **K** in PLA: 2.9 meters
- - **K** in ABS: 3.1 meters
- - **S** in PLA: 3.1 meters
- - **S** in ABS: 3.3 meters
- - **W** in PLA: 3.2 meters
- - **W** in ABS: 3.4 meters
- - **Pillar** in PLA: 64.9 cm
- - **Pillar** in ABS: 70.5 cm
-  
-**Slicer**: Prusa Control
-
-**Slicer Settings**:
-
- - 0.35 mm layers
- - no brim
- - no supports
- - 20% infill
- - 50% original scale
-
- 
 #### Ornament With Stars
 
 **Source**: [Ornament with Stars](https://www.thingiverse.com/thing:1119768)
@@ -145,56 +100,58 @@ tournament...
 
 #### ?
 
-## Word Masters
 
-The 10 year old is building a vault full of gems, coins, and gold bars as part of a project to
-come up with a 3D representation of the word **skinflint**. 
+## Moon Lamp
 
-After about 5 print failures laying down the brim and base layer for the set of four gold bars,
-I gave in and tried blue painters tape on the print bed. I can't believe how cleanly ABS went
-down on the tape...
+First printing a small scale version with the various settings I hope will work for a high
+quality and durability print.
 
-**Sources**:
+The 50% version with variable height layers failed twice - layer adhesion seemed to be an
+issue, and the model portions kept pulling away from the support layer, catching on the PINDA
+probe and tearing.
+
+The 15% version with consistent height layers turned out fine - too small for detail to show
+through, but it confirms the need for better quality layers at the top of the print, where the
+curvature of the sphere makes even high quality layers stretch out and look bad.
 
  
-**Licenses**:
+**Source**: [The moon](https://www.thingiverse.com/thing:1014620)
 
- 
-**Material**:
- 
- - Inland Gold ABS 1.75mm
- 
-**Models**:
+**Maker**: [Dexter_New_Materials](https://www.thingiverse.com/Dexter_New_Materials)
 
-**Print Date**: 2017/11/05
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+
+**Model**: [Dexters_Moon_v2](https://www.thingiverse.com/download:1600569)
+
+**Material**: Prusa White PLA 1.75mm
+
+**Print Date**: 2017/11/20 - 2017/11/21
 
 **Print Time**:
 
- - gold bars (200% scale) x4: 44 minutes
- - big bar: 46 minutes
- - coin stack: 2 hours 22 minutes
- 
-**Estimated Print Time**:
+ - 15% scale test: 1 hour 8 minutes
+ - 50% scale test: 
 
- - gold bars (200% scale) x4: 38 minutes
- - big bar: 42 minutes
- - coin stack: 2 hours
- 
+**Estimated Time**: 
+
+ - 15% scale test: 1 hour 1 minute
+ - 50% scale test: 6 hours 1 minute
+
 **Estimated Filament**:
 
- - gold bars (200% scale) x4: 5.9 meters
- - big bar: 7.4 meters
- - coin stack: 19.9 meters
- 
-**Slicer**: Slic3r
+ - 15% scale test: 1.6 meters
+ - 50% scale test: 22.1 meters
+
+**Slicer**: Slic3r/PrusaControl
 
 **Slicer Settings**:
 
- - gold bars (200% scale) x4: 
-  - 0.35mm layers
-  - include brim
-  - 10% infill
-  
+ - various scales
+ - 0.20mm layers
+ - 0% infill
+ - include supports
+ - variable quality layering for top with larger prints
+
 ## Bracelet
 
 !! First print failed when the printer wouldn't resume after pausing over night. Bed would heat up, but the 
@@ -220,109 +177,29 @@ hotend set itself for 0°.
  - 30% infill - cubic
 
 
-## Makies Jack-o-Lantern
+## Squishy Owl
 
-Regular light: https://www.instagram.com/p/BafEwRmAvq1/?taken-by=dwyerdevices
-
-Lit with LED: https://www.instagram.com/p/BafIa_MAoVz/?taken-by=dwyerdevices
-
-**Source**: [Makies Jack-o-Lantern](https://www.thingiverse.com/thing:525781)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Maker**: [skriver](https://www.thingiverse.com/skriver)
-**Model**: [all parts](https://www.thingiverse.com/thing:525781/zip)
-**Materials**:
-
- - Inland Translucent Orange PETG 1.75mm
- - CNZhehan Translucent Green PETG 1.75mm
- 
-**Print Date**: 2017/10/20
+**Source**: [Owl Figurine](https://www.thingiverse.com/thing:1996375)
+**Maker**: [LuluPaw](https://www.thingiverse.com/LuluPaw)
+**License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [owl-print.stl](https://www.thingiverse.com/download:3121654)
+**Material**: NinjaFlex Grass Green 1.75mm
+**Print Date**: 2017/11/17
 **Print Time**:
-
- - Body: 7 hours 28 minutes
- - Lid: 1 hour 23 minutes
- - Stem: 20 minutes
-
-**Estimated Print Time**:
-
- - Body: 6 hours 47 minutes
- - Lid: 1 hour 19 minutes
- - Stem: 19 minutes
-
-**Estimated Filament**:
-
- - Body: 27.2 meters
- - Lid: 4.7 meters
- - Stem: 58.2 cm
-
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - 0.20mm layers
- - Include Supports
- - Include brim
- - 20% infill
- - 150% scale
-
-
-## Sewer Dungeon Filler
-
-need stone tiles (a lot)
-various size stone tiles
-
-Keep having print issues anywhere near the edge of the build plate.
-
-2x2s and 1x3s:
-
-https://www.instagram.com/p/BbN3gdiAFvc/?taken-by=dwyerdevices
-
-**Source**: [OpenForge - Stone Dungeon Tiles](https://www.thingiverse.com/thing:171315)
-**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-
-**Models**:
-
- - [stone_floor_2x2.stl](https://www.thingiverse.com/download:361884)
- - [stone_floor_2x4.stl](https://www.thingiverse.com/download:361890)
- - [stone_floor_1x2.stl](https://www.thingiverse.com/download:361883)
- - [stone_floor_1x3.stl](https://www.thingiverse.com/download:361892)
- 
-**Material**: Inland Gray ABS 1.75mm
-**Print Date**: 2017/11/07
-**Print Time**:
-
- - stone_floor_2x2 x6: 3 hours 25 minutes 
- - stone_floor_2x4 x3: failure
- - stone_floor_1x2 x8: failure
- - stone_floor_1x3 x8: failure
- - stone_floor_1x3 x4: 1 hour 39 minutes
- - stone_floor_2x4 x2: 
- 
-**Estimated Print Time**:
-
- - stone_floor_2x2 x6: 2 hours 49 minutes
- - stone_floor_2x4 x3: 2 hours 46 minutes
- - stone_floor_1x2 x8: 1 hour 59 minutes
- - stone_floor_1x3 x8: 2 hours 58 minutes
- - stone_floor_1x3 x4: 1 hour 31 minutes
- - stone_floor_2x4 x2: 2 hours 2 minutes
-
-**Estimated Filament**:
-
- - stone_floor_2x2 x6: 28.8 meters
- - stone_floor_2x4 x3: 28.3 meters
- - stone_floor_1x2 x8: 20.3 meters
- - stone_floor_1x3 x8: 30.4 meters
- - stone_floor_1x3 x4: 15.3 meters
- - stone_floor_2x4 x2: 22.2 meters
-
+**Estimated Print Time**: 9 hours 12 minutes
+**Estimated Material**: 19.6 meters
 **Slicer**: Slic3r
-
 **Slicer Settings**:
 
- - 0.35mm layers
- - 10mm brim
- - no supports
- - 10% - 20% infill
+ - Material Setting: SemiFlex of Flexfill - 98A
+ - Perimeters: 3
+ - 0.20mm layers
+ - 5% infill/shell
+ - no brim
+
+
+
+
   
 ## Seven Oasis'
 
@@ -375,31 +252,23 @@ evils that were foretold to conquer the Undermountain.
 
 ## Dungeon Accessories
 
-### Wizard's Bookshelves
 
-**Source**: [Wizard's Shelf](https://www.thingiverse.com/thing:1428539)
-**Maker**: [dutchmogul](https://www.thingiverse.com/dutchmogul)
-**License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-**Model**: [WizardShelf28mm.stl](https://www.thingiverse.com/download:2216538)
-**Material**: Hatchbox Woodfill PLA 1.75mm
-**Print Date**: 2017/11/12
-**Print Time**: 2 hours 20 minutes
-**Estimated Print Time**: 2 hours 14 minutes
-**Estimated Filament**: 7.5 meters
-**Slicer**: PrusaControl
-**Slicer Settings**:
 
- - 0.20mm layers
- - 20% infill
- - No supports
- - include brim
+
 
 ## Undermountain Dungeon
+
+
+### Print 8 - Caged Beasts
+
+### Print 7 - Goblin Encampment
 
 ### Print 6 - Dwarven Statues
 
 Medium/NPC Sized: 500% scale
 Large Sized: 1000% scale
+
+https://www.instagram.com/p/BbcZqBVgI-v/?taken-by=dwyerdevices
 
 Trying the medium and large at higher print quality - there aren't a ton of these, and they
 are some of the nicer decoration pieces, so it may be worth the time for the better detail of
@@ -452,6 +321,8 @@ I have quite a few of the pieces for this part of the dungeon already printed, b
 need to build out the flooring and the surrounds for each of the portals. The courtyard
 at the center of all of the portals is fairly large, at 12 x 12 squares. I'm going to
 attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
+
+4x4s: https://www.instagram.com/p/BbQaUfcgHUp/?taken-by=dwyerdevices
 
 **Sources**: 
  
@@ -556,7 +427,8 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
 
 Portal to the Seven Oasis
 
-Portal to the City in the Sky
+Portal to the City in the Sky: https://www.instagram.com/p/BbQZ7cCAyIQ/?taken-by=dwyerdevices
+
 
 **Source**: [OpenForge - Magic Circle]()
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
@@ -627,50 +499,9 @@ Specified print temp: 210-230℃
  - 10mm brim
  - Octagram Spiral surface fill
  
-## NinjaFlex Test
 
-Printing a test pyramid with NinjaFlex
 
-Loading was _almost_ a problem. The extruder had ABS wedged in it after a previous spool had
-a tanle and a snap. The first try at loading the NinjaFlex managed to push out most of the ABS,
-but backed up the NinjaFlex into a ball. The jam pulled out easily, and the second attempt at
-loading was quick and easy.
 
-Pyramid test print turned out really well - the print took exactly as long as estimated, the
-shell wall of the pyramid was strong but still flexible, and the finish on the print was clean,
-with visible but thin layer lines.
-
-**Material**: NinjaFlex Grass 1.75mm
-**Print Date**: 2017/11/-
-**Print TIme**: 20 minutes
-**Estimated Print Time**: 20 minutes
-**Estimated Filament**: 69.8 cm
-**Slicer**: PrusaControl
-**Slicer Settings**:
- 
- - Material Setting: Flex - Shore A85
- - 0.2mm layers
- - 0% infill/shell
- - no brim
-
-## Wood Fill Test
-
-Printing a generic cylinder with Hatchbox Wood Fill. Hmm - not the cleanest print on the test tile,
-but the brim was super smooth and clean. Will need to play with slicer settings for the full piece I want
-to print.
-
-**Material**: Hatchbox Wood Fill PLA 1.75mm
-**Print Date**: 2017/11/-
-**Print Time**: 8 minutes
-**Estimated Print Time**: 8 minutes
-**Estimated Filament**: 42.4 cm
-**Slicer**: PrusaControl
-**Slicer Settings**:
- 
- - Material: ColorFabb Wood fill
- - 0.20mm layers
- - 20% infill
- - include brim
  
 ## Full Scale Totem
 

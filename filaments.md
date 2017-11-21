@@ -24,6 +24,7 @@ Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
 Turquoise                       | 1kg  | PLA        | Inland         | 2017/11/-    | 2017/11/-    | 75%
 Grass                           | .5kg | Flex       | NinjaFlex      | 2017/11/05   | 2017/11/12   | 95%
 Wood                            | 1kg  | PLA/Wood   | Hatchbox       | 2017/11/05   | 2017/11/12   | 99%
+Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-    | 2017/11/18   | 100%
 
 ## Unopened
 
@@ -34,7 +35,6 @@ Egyptian Blue                   | 1kg  | PLA        | Inland         | 2017/11/0
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
 Pink                            | 1kg  | PLA        | Inland         | 2017/10/-
-Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/11/05
 Silver                          | 1kg  | PLA        | Hatchbox       | 2017/10/-
 White/Red, UV Color Change      | .5kg | -          | Inland         | 2017/10/-
