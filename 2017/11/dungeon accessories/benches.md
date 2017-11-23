@@ -21,7 +21,7 @@ on hand as I was cleaning out the burnt woodfill. Rather than unload that filame
 having purged the hot end and extruder of jammed material, I ran a full bench print in turquoise.
 
 
-**Blog Post**: -
+**Blog Post**: [Dungeon Accessories - Work Benches](http://www.dwyerdevices.com/2017/11/28/dungeon-accessories-work-benches/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 

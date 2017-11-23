@@ -15,7 +15,7 @@ loading was quick and easy - luckily the ball of NinjaFlex hadn't melted at all,
 reusable.
 
 
-**Blog Post**: -
+**Blog Post**: [NinjaFlex Test](http://www.dwyerdevices.com/2017/11/24/ninjaflex-test/)
 
 **Maker**: -
 

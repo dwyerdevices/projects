@@ -12,7 +12,7 @@ and aesthetic of the wood fill, so I hope it works well for a few other prints, 
 pieces I want to put together.
 
  
-**Blog Post**: -
+**Blog Post**: [Wood Fill Test](http://www.dwyerdevices.com/2017/11/22/wood-fill-test/)
 
 **Maker**: -
 

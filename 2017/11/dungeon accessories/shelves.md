@@ -14,7 +14,7 @@ After a fairly lengthy cleanup, they turned out alright:
 https://www.instagram.com/p/Bbs0z1RAmT9/?taken-by=dwyerdevices
 
 
-**Blog Post**: -
+**Blog Post**: [Dungeon Accessories - Wizard's Bookshelves](http://www.dwyerdevices.com/2017/12/02/dungeon-accessories-wizards-bookshelves/)
 
 **Maker**: [dutchmogul](https://www.thingiverse.com/dutchmogul)
 

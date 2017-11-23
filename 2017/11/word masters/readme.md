@@ -11,7 +11,7 @@ I gave in and tried blue painters tape on the print bed. I can't believe how cle
 down on the tape...
   
   
-**Blog Post**: -
+**Blog Post**: [Wordmasters](http://www.dwyerdevices.com/2017/12/06/wordmasters/)
 
 **Maker**: The 10 year old
 

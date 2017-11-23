@@ -26,7 +26,7 @@ of post-print work to fit; the hinge needs to be sanded to fit, as does the keyb
 weekend project.
 
 
-**Blog Post**: -
+**Blog Post**: [BearBook Air](http://www.dwyerdevices.com/2017/12/08/bearbook-air/)
 
 **Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
 
@@ -54,7 +54,7 @@ weekend project.
  - Screen Shell: 1 hour 15 minutes
  - Screen Shell v2: 1 hour 23 minutes 
  - Screen: 38 minutes
- - Screen v2: 
+ - Screen v2: 40 minutes
  - Bottom Shell: 1 hour 18 minutes
  - Bottom Shell v2: 1 hour 19 minutes
  - Keyboard: 14 minutes

@@ -11,7 +11,7 @@ About half way through the process I also ran out of gray ABS; thinking I had a 
 ordered a new batch. After more filament comes in, the catch-up printing will continue.
 
 
-**Blog Post**: -
+**Blog Post**: [Sewer Dungeon Filler - Take 1](http://www.dwyerdevices.com/2017/12/04/sewer-dungeon-filler-take-1/)
 
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 

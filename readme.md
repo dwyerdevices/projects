@@ -13,6 +13,19 @@
  - [ ] dexters moon test print
  - [ ] squishy owl
  - [ ] linotype test
+
+# Scheduled Posts
+
+
+11/24 - Ninjaflex Test
+11/26 - Dungeon Accessories - Crates and Barrels
+11/28 - Dungeon Accessories - Workbenches
+11/30 - Dungeon Accessories - Piles of Gold
+12/02 - Dungeon Accessories - Wizard's Bookshelves
+12/04 - Sewer Filler - Take 1
+12/06 - Wordmasters
+12/08 - BearBook Air
+12/10 - Ornament Individual Ornaments
  
 # Current
 
@@ -100,13 +113,57 @@ tournament...
 
 #### ?
 
+## Squishy Owl
+
+The test print of the NinjaFlex went smoothly, so onto the squishy owl. This is a Christmas present
+for the 5 year old.
+
+A few false starts, and some fiddling with live z-tuning, and things were printing well. The first print
+is nearly perfect, except for the top of the head, where there are too few layers, and too big of a gap
+to bridge:
+
+images
+
+Trying a small second version with a few extra layers, sliced in Slic3r so I can better control a few
+things. Well, that resulted in nothing printed, and a bundle of twisted and wasted filament.
+
+
+**Source**: [Owl Figurine](https://www.thingiverse.com/thing:1996375)
+**Maker**: [LuluPaw](https://www.thingiverse.com/LuluPaw)
+**License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [owl-print.stl](https://www.thingiverse.com/download:3121654)
+**Material**: NinjaFlex Grass 1.75mm
+**Print Date**: 2017/11/22
+**Print Time**: 
+
+ - 100% scale: 4 hours 10 minutes
+ - 50% scale: 
+ 
+**Estimated Print Time**: 
+
+ - 100% scale: 4 hours 13 minutes
+ - 50% scale: 1 hour 1 minute
+ 
+**Estimated Filament**: 
+
+ - 100% scale: 8.9 meters
+ - 50% scale: 2.2 meters
+ 
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 0% infill / hollow
+ - no brim
+ - no supports
+ - material setting: Flex - Shore A85 - A98
 
 ## Moon Lamp
 
 First printing a small scale version with the various settings I hope will work for a high
 quality and durability print.
 
-The 50% version with variable height layers failed twice - layer adhesion seemed to be an
+The 50% version with variable height layers on the top and bottom failed twice - layer adhesion seemed to be an
 issue, and the model portions kept pulling away from the support layer, catching on the PINDA
 probe and tearing.
 
@@ -114,6 +171,9 @@ The 15% version with consistent height layers turned out fine - too small for de
 through, but it confirms the need for better quality layers at the top of the print, where the
 curvature of the sphere makes even high quality layers stretch out and look bad.
 
+Printing a 50% scale version with variable layer heights for the top only turned out fairly well; the
+very top was a bit thin, and needs a few extra layers, and "thin walls" detection needs to be turned
+on, otherwise quite a nice print. The final version will need to scale up just a bit more.
  
 **Source**: [The moon](https://www.thingiverse.com/thing:1014620)
 
@@ -130,17 +190,20 @@ curvature of the sphere makes even high quality layers stretch out and look bad.
 **Print Time**:
 
  - 15% scale test: 1 hour 8 minutes
- - 50% scale test: 
-
+ - 50% scale test: 6 hours 21 minutes
+ - 75% scale test:
+ 
 **Estimated Time**: 
 
  - 15% scale test: 1 hour 1 minute
  - 50% scale test: 6 hours 1 minute
+ - 75% scale test: 14 hours 24 minutes
 
 **Estimated Filament**:
 
  - 15% scale test: 1.6 meters
  - 50% scale test: 22.1 meters
+ - 75% scale test: 53.5 meters
 
 **Slicer**: Slic3r/PrusaControl
 
@@ -151,6 +214,9 @@ curvature of the sphere makes even high quality layers stretch out and look bad.
  - 0% infill
  - include supports
  - variable quality layering for top with larger prints
+ - detect thin walls
+ - extra perimeters if needed
+ - top horizontal layers: 5
 
 ## Bracelet
 
@@ -229,7 +295,7 @@ https://www.instagram.com/p/BacitgOAHl9/?taken-by=dwyerdevices
 
 ### Print 1 - Lion Portal
 
-Lions watch over the Undermountain Portal in the City in the Sky, once guarding against the
+Lions watch over the Undermountain Portal in the City in the Sky, guarding against the
 evils that were foretold to conquer the Undermountain.
 
 **Source**: 
@@ -248,8 +314,27 @@ evils that were foretold to conquer the Undermountain.
  - 10% infill
  - Supports Everywhere
  - Include Brim
+ 
 
+## Sewer Dungeon Filler - Take 2
 
+Floor floors floors
+
+**Source**: []()
+**Maker**: []()
+**Model**: stone_floor_3x4.stl
+**Material**: Inland Gray ABS 1.75mm
+**Print Date**: 2017/11/22
+**Print Time**: 
+**Estimated Print Time**: 1 hour 30 minutes
+**Estimated Filament**: 16.4 meters
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - include brim
+ - 20% infill
+ - 0.35mm layers
+ 
 ## Dungeon Accessories
 
 

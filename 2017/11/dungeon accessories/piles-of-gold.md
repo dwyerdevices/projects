@@ -5,7 +5,7 @@ Small piles of gold and coins seem to be scattered about these dungeons.
 https://www.instagram.com/p/BbcZ_dkAZov/?taken-by=dwyerdevices
 
 
-**Blog Post**: -
+**Blog Post**: [Dungeon Accessories - Piles of Gold](http://www.dwyerdevices.com/2017/11/30/dungeon-accessories-piles-of-gold/)
 
 **Maker**: [dutchmogul](https://www.thingiverse.com/dutchmogul)
 

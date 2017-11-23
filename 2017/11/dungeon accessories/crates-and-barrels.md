@@ -13,7 +13,7 @@ of attention from the players - and the pieces are just nicer to look at when pr
 at higher quality.
 
  
-**Blog Post**: -
+**Blog Post**: [Dungeon Accessories - Crates and Barrels](http://www.dwyerdevices.com/2017/11/26/dungeon-accessories-crates-and-barrels/)
 
 **Maker**: [PieceBringer](https://www.thingiverse.com/PieceBringer)
 

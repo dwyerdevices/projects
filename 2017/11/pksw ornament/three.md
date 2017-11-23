@@ -16,7 +16,7 @@ smaller in diameter than the through-hole of each of the letter pieces, providin
 wiggle room to get each of the letters on the pillar, after which tension keeps everything in place.
 
 
-**Blog Post**: -
+**Blog Post**: [Holiday Ornament Individual Prints](http://www.dwyerdevices.com/2017/12/10/holiday-ornament-individual-prints/)
 
 **Maker**: -
 

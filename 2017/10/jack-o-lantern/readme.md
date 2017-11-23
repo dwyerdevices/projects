@@ -13,7 +13,7 @@ This is one of only a handful of models I've need to _scale up_ for printing. In
 fit a tea candle LED, which required scaling up to 150% of original size to get the LED through the
 opening at the top of the pumpkin.
 
-**Blog Post**: -
+**Blog Post**: [Makies Jack-o-Lantern](http://www.dwyerdevices.com/2017/11/21/makies-jack-o-lantern/)
 
 **Maker**: [skriver](https://www.thingiverse.com/skriver)
 
