@@ -1,9 +1,11 @@
 # Today
 
- - [x] NinjaFlex test
- - [x] Woodfill test
- - [x] Copper large dwarf statue
- - [x] prep dungeon accessories
+ - [ ] tools update
+ - [ ] try slicing moon with Cura
+ - [ ] squishy owl tophat
+ - [ ] measure out NES print
+ - [ ] measure out Section 9 print
+ - [ ] High quality letters for holiday ornament
  - [ ] update cascading pool?
  - [ ] continue portal chamber
  - [ ] undermountain
@@ -13,11 +15,10 @@
  - [ ] dexters moon test print
  - [ ] squishy owl
  - [ ] linotype test
+ - [ ] add twitter and instagram links to page header on dwyerdevices
 
 # Scheduled Posts
 
-
-11/24 - Ninjaflex Test
 11/26 - Dungeon Accessories - Crates and Barrels
 11/28 - Dungeon Accessories - Workbenches
 11/30 - Dungeon Accessories - Piles of Gold
@@ -26,6 +27,7 @@
 12/06 - Wordmasters
 12/08 - BearBook Air
 12/10 - Ornament Individual Ornaments
+12/12 - Sewer Filler - Take 2
  
 # Current
 
@@ -122,7 +124,7 @@ A few false starts, and some fiddling with live z-tuning, and things were printi
 is nearly perfect, except for the top of the head, where there are too few layers, and too big of a gap
 to bridge:
 
-images
+https://www.instagram.com/p/Bbz048DAeHb/?taken-by=dwyerdevices
 
 Trying a small second version with a few extra layers, sliced in Slic3r so I can better control a few
 things. Well, that resulted in nothing printed, and a bundle of twisted and wasted filament.
@@ -316,24 +318,7 @@ evils that were foretold to conquer the Undermountain.
  - Include Brim
  
 
-## Sewer Dungeon Filler - Take 2
 
-Floor floors floors
-
-**Source**: []()
-**Maker**: []()
-**Model**: stone_floor_3x4.stl
-**Material**: Inland Gray ABS 1.75mm
-**Print Date**: 2017/11/22
-**Print Time**: 
-**Estimated Print Time**: 1 hour 30 minutes
-**Estimated Filament**: 16.4 meters
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - include brim
- - 20% infill
- - 0.35mm layers
  
 ## Dungeon Accessories
 
