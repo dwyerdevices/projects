@@ -47,6 +47,8 @@
 12/10 - Ornament Individual Ornaments
 12/12 - Sewer Filler - Take 2
 12/14 - Sewer Dungeon - Final Encounter
+12/16 - Troubleshooting - Wood-fill Jam
+
  
 # Current
 
@@ -79,11 +81,8 @@ Wait - we have gcode on the SDCard!
 **Test Date**: -
 
 
-## Troubleshooting - woodfill jam
 
-Jammed material: https://www.instagram.com/p/BbmG5MNgI6T/?taken-by=dwyerdevices
 
-Drill bits: https://www.instagram.com/p/Bbkr2V5gESv/?taken-by=dwyerdevices
 
 ## Ornament Tests
 
@@ -408,13 +407,13 @@ evils that were foretold to conquer the Undermountain.
 ### Beds
 
 
-**Source**:
+**Source**: [28mm beds](https://www.thingiverse.com/thing:1449333)
 
-**Maker**:
+**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
 
-**License**:
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
 
-**Models**:
+**Models**: [All Files](https://www.thingiverse.com/thing:1449333/zip)
 
 **Materials**:
 
@@ -430,6 +429,7 @@ evils that were foretold to conquer the Undermountain.
 
 **Slicer Settings**:
 
+### Cages
 
 
 ## Undermountain Dungeon
@@ -601,10 +601,11 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
   
 ### Print 3 - Portals
 
-Portal to the Seven Oasis
+Portal to the Seven Oasis:
 
 Portal to the City in the Sky: https://www.instagram.com/p/BbQZ7cCAyIQ/?taken-by=dwyerdevices
 
+Destroyed Portal: (next post Print 4)
 
 **Source**: [OpenForge - Magic Circle]()
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
