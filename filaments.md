@@ -25,7 +25,7 @@ Turquoise                       | 1kg  | PLA        | Inland         | 2017/11/-
 Grass                           | .5kg | Flex       | NinjaFlex      | 2017/11/05   | 2017/11/12   | 95%
 Wood                            | 1kg  | PLA/Wood   | Hatchbox       | 2017/11/05   | 2017/11/12   | 99%
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-    | 2017/11/18   | 100%
-Gray                            | 1kg  | ABS        | Inland         | 2017/11/22   | 2017/11/22   | 100%
+Gray                            | 1kg  | ABS        | Inland         | 2017/11/22   | 2017/11/22   | 60%
 
 ## Unopened
 

@@ -1,12 +1,22 @@
 # Today
 
- - [ ] tools update
- - [ ] try slicing moon with Cura
- - [ ] squishy owl tophat
+ - [x] tools update
+ - [ ] update printer firmware
+ - [x] try slicing moon with Cura
+ - [x] squishy owl tophat
+ - [x] Inverted moon full quality print
+ - [ ] glue teleporting shrine
  - [ ] measure out NES print
  - [ ] measure out Section 9 print
  - [ ] High quality letters for holiday ornament
- - [ ] update cascading pool?
+ - [ ] update cascading pool? turn it into just a pool
+ - [ ] dungeon accessories
+  - [ ] cages
+  - [ ] beds
+  - [ ] desks
+  - [ ] lanterns
+  - [ ] flat bridge
+ - [ ] stone river tiles
  - [ ] continue portal chamber
  - [ ] undermountain
  - [ ] start designing city in the sky
@@ -17,6 +27,14 @@
  - [ ] linotype test
  - [ ] add twitter and instagram links to page header on dwyerdevices
 
+# Transfer to sdcard
+
+ - owl's top hat
+ - magic circle exterior
+ - pksw 0.20mm
+ - upside down moon at final draft
+ 
+ 
 # Scheduled Posts
 
 11/26 - Dungeon Accessories - Crates and Barrels
@@ -28,6 +46,7 @@
 12/08 - BearBook Air
 12/10 - Ornament Individual Ornaments
 12/12 - Sewer Filler - Take 2
+12/14 - Sewer Dungeon - Final Encounter
  
 # Current
 
@@ -71,6 +90,49 @@ Drill bits: https://www.instagram.com/p/Bbkr2V5gESv/?taken-by=dwyerdevices
 Testing out various ornaments in the run up to the holiday season. I want to find one
 that is interesting, but quick to print, and easy to cleanup. It's a bit of an ornament
 tournament...
+
+### PKSW Final Draft
+
+**Materials**:
+
+ - P, S: Inland Translucent Magenta PETG 1.75mm
+ - K, W: CNZhehan Translucent Green PETG 1.75mm
+ - Pillar: Gizmodorks Translucent Blue PLA 1.75mm
+ 
+**Print Date**: 2017/11/26 - 
+**Print Time**:
+
+ - **P**: 
+ - **K**: 
+ - **S**: 
+ - **W**: 
+ - **Pillar**:
+ 
+**Estimated Print Time**:
+
+ - **P**: 44 minutes
+ - **K**: 43 minutes
+ - **S**: 47 minutes
+ - **W**: 48 minutes
+ - **Pillar**: 20 minutes
+
+**Estimated Material**:
+
+ - **P**: 2.6 meters
+ - **K**: 2.7 meters
+ - **S**: 2.9 meters
+ - **W**: 3 meters
+ - **Pillar**: 60.2 cm
+
+**Slicer**: PrusaControl
+**Slicer Settings**:
+ 
+ - 0.20mm layers
+ - PETG
+ - 20% infill
+ - no supports
+ - no brim
+ 
 
 
 #### Ornament With Stars
@@ -129,36 +191,57 @@ https://www.instagram.com/p/Bbz048DAeHb/?taken-by=dwyerdevices
 Trying a small second version with a few extra layers, sliced in Slic3r so I can better control a few
 things. Well, that resulted in nothing printed, and a bundle of twisted and wasted filament.
 
+Adding a tophat to see if we can cover up the spotty quality on the top of the owl's head.
 
-**Source**: [Owl Figurine](https://www.thingiverse.com/thing:1996375)
-**Maker**: [LuluPaw](https://www.thingiverse.com/LuluPaw)
-**License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Source**: 
+
+ - [Owl Figurine](https://www.thingiverse.com/thing:1996375)
+ - [Top Hat, curved brim](https://www.thingiverse.com/thing:131657)
+ 
+**Maker**: 
+
+ - Owl: [LuluPaw](https://www.thingiverse.com/LuluPaw)
+ - Top Hat: [IonEwe](https://www.thingiverse.com/IonEwe)
+ 
+**License**: 
+
+ - Owl: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+ - Top Hat: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+ 
 **Model**: [owl-print.stl](https://www.thingiverse.com/download:3121654)
 **Material**: NinjaFlex Grass 1.75mm
 **Print Date**: 2017/11/22
 **Print Time**: 
 
- - 100% scale: 4 hours 10 minutes
- - 50% scale: 
+ - Owl: 4 hours 10 minutes
+ - Top Hat: 
  
 **Estimated Print Time**: 
 
- - 100% scale: 4 hours 13 minutes
- - 50% scale: 1 hour 1 minute
+ - Owl: 4 hours 13 minutes
+ - Top Hat: 26 minutes
  
 **Estimated Filament**: 
 
- - 100% scale: 8.9 meters
- - 50% scale: 2.2 meters
+ - Owl: 8.9 meters
+ - Top Hat: 80.6 cm
  
 **Slicer**: PrusaControl
 **Slicer Settings**:
 
- - 0.20mm layers
- - 0% infill / hollow
- - no brim
- - no supports
- - material setting: Flex - Shore A85 - A98
+ - Owl
+  - 0.20mm layers
+  - 0% infill / hollow
+  - no brim
+  - no supports
+  - material setting: Flex - Shore A85 - A98
+ - Top Hat
+  - 0.20mm layers
+  - 20% infill
+  - no brim
+  - supports (pillars)
+  - material setting: Flex - Shore A85 - A98
+  - scale: 300%
 
 ## Moon Lamp
 
@@ -169,6 +252,8 @@ The 50% version with variable height layers on the top and bottom failed twice -
 issue, and the model portions kept pulling away from the support layer, catching on the PINDA
 probe and tearing.
 
+15%: https://www.instagram.com/p/Bb93uY-AL1w/?taken-by=dwyerdevices
+
 The 15% version with consistent height layers turned out fine - too small for detail to show
 through, but it confirms the need for better quality layers at the top of the print, where the
 curvature of the sphere makes even high quality layers stretch out and look bad.
@@ -177,6 +262,16 @@ Printing a 50% scale version with variable layer heights for the top only turned
 very top was a bit thin, and needs a few extra layers, and "thin walls" detection needs to be turned
 on, otherwise quite a nice print. The final version will need to scale up just a bit more.
  
+50%: https://www.instagram.com/p/Bb938RJA3MR/?taken-by=dwyerdevices
+
+Ok. 25% scale test with Cura, to see if we get better top layers.
+
+25%: https://www.instagram.com/p/Bb94IbVAvFT/?taken-by=dwyerdevices
+
+Ugly tearing, but better quality at the top. Maybe reslicing with an inverted moon, to get the
+surface quality from the base, and not worry about hte quality of the top part of the print (the bottom
+of the moon), which will get removed with the final build.
+
 **Source**: [The moon](https://www.thingiverse.com/thing:1014620)
 
 **Maker**: [Dexter_New_Materials](https://www.thingiverse.com/Dexter_New_Materials)
@@ -185,27 +280,33 @@ on, otherwise quite a nice print. The final version will need to scale up just a
 
 **Model**: [Dexters_Moon_v2](https://www.thingiverse.com/download:1600569)
 
-**Material**: Prusa White PLA 1.75mm
+**Materials**: 
+
+ - Prusa White PLA 1.75mm
+ - Inland Gray ABS 1.75mm
 
 **Print Date**: 2017/11/20 - 2017/11/21
 
 **Print Time**:
 
  - 15% scale test: 1 hour 8 minutes
+ - 25% scale test (ABS): 1 hour 2 minutes
  - 50% scale test: 6 hours 21 minutes
- - 75% scale test:
+ - 75% scale:
  
 **Estimated Time**: 
 
  - 15% scale test: 1 hour 1 minute
+ - 25% scale test (ABS): 1 hour 6 minutes
  - 50% scale test: 6 hours 1 minute
- - 75% scale test: 14 hours 24 minutes
+ - 75% scale: 10 hours 23 minutes
 
 **Estimated Filament**:
 
  - 15% scale test: 1.6 meters
+ - 25% scale test (ABS): 3.38 meters
  - 50% scale test: 22.1 meters
- - 75% scale test: 53.5 meters
+ - 75% scale: 35.79 meters
 
 **Slicer**: Slic3r/PrusaControl
 
@@ -214,7 +315,7 @@ on, otherwise quite a nice print. The final version will need to scale up just a
  - various scales
  - 0.20mm layers
  - 0% infill
- - include supports
+ - include supports (zig zag or pillars)
  - variable quality layering for top with larger prints
  - detect thin walls
  - extra perimeters if needed
@@ -245,25 +346,7 @@ hotend set itself for 0°.
  - 30% infill - cubic
 
 
-## Squishy Owl
 
-**Source**: [Owl Figurine](https://www.thingiverse.com/thing:1996375)
-**Maker**: [LuluPaw](https://www.thingiverse.com/LuluPaw)
-**License**: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-**Model**: [owl-print.stl](https://www.thingiverse.com/download:3121654)
-**Material**: NinjaFlex Grass Green 1.75mm
-**Print Date**: 2017/11/17
-**Print Time**:
-**Estimated Print Time**: 9 hours 12 minutes
-**Estimated Material**: 19.6 meters
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - Material Setting: SemiFlex of Flexfill - 98A
- - Perimeters: 3
- - 0.20mm layers
- - 5% infill/shell
- - no brim
 
 
 
@@ -318,11 +401,34 @@ evils that were foretold to conquer the Undermountain.
  - Include Brim
  
 
-
  
 ## Dungeon Accessories
 
 
+### Beds
+
+
+**Source**:
+
+**Maker**:
+
+**License**:
+
+**Models**:
+
+**Materials**:
+
+**Print Date**:
+
+**Print Time**:
+
+**Estimated Print Time**:
+
+**Estimated Filament**:
+
+**Slicer**:
+
+**Slicer Settings**:
 
 
 
