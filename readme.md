@@ -48,7 +48,7 @@
 12/12 - Sewer Filler - Take 2
 12/14 - Sewer Dungeon - Final Encounter
 12/16 - Troubleshooting - Wood-fill Jam
-
+12/18 - Seven Oases - Print 1
  
 # Current
 
@@ -351,28 +351,12 @@ hotend set itself for 0°.
 
 
   
-## Seven Oasis'
+## Seven Oases
 
-### Print 1 - Sphinx Portal
 
-https://www.instagram.com/p/BacitgOAHl9/?taken-by=dwyerdevices
+### Print 2 - 
 
-**Source**: [Sphinx Statues](https://www.thingiverse.com/thing:1472738/#files)
-**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Model**: [sphinx.2x4.stl](https://www.thingiverse.com/download:2283472) **x2**
-**Material**: Inland Light Brown PLA 1.75mm
-**Print Date**: 2017/10/19
-**Print Time**: 2 hours 15 minutes
-**Estimated Print Time**: 2 hours 1 minutes
-**Estimated Filament**: 16.1 meters
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - 0.35mm layers
- - 10% infill cubic
- - Octagram Spiral surface fill pattern
- - 10mm brim
+What leads from the portal to the city?
 
 
 ## City in the Sky
@@ -434,6 +418,11 @@ evils that were foretold to conquer the Undermountain.
 
 ## Undermountain Dungeon
 
+### Print 11 - Entrance to the Dragon Hoard
+
+### Print 10 - Stronghold Gate
+
+### Print 9 - Unexpected River
 
 ### Print 8 - Caged Beasts
 
@@ -758,14 +747,6 @@ One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
  Make simple polyhedra and more complex shapes, rotate around Z, then rotate around X
  to create interesting complex polyhedra.
 
-**Squishy Owl**
-
- Figure out TPE printing, and do a squishy Owl for Wyatt for xmas
- 
-**Moon/Planet Globe Lamp**
-
- Build a high res model of a planet/moon and mount it on the Ikea lamp base for S for
- xmas.
  
 
 **Glowing Obelisk**
