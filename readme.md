@@ -1,62 +1,80 @@
 # Today
 
- - [x] tools update
- - [ ] update printer firmware
- - [x] try slicing moon with Cura
- - [x] squishy owl tophat
- - [x] Inverted moon full quality print
  - [ ] glue teleporting shrine
  - [ ] measure out NES print
  - [ ] measure out Section 9 print
- - [ ] High quality letters for holiday ornament
- - [ ] update cascading pool? turn it into just a pool
  - [ ] dungeon accessories
   - [ ] cages
-  - [ ] beds
-  - [ ] desks
   - [ ] lanterns
   - [ ] flat bridge
  - [ ] stone river tiles
- - [ ] continue portal chamber
  - [ ] undermountain
  - [ ] start designing city in the sky
  - [ ] start printing stalls/buildings for seven oasis
  - [ ] start designing seven oasis
- - [ ] dexters moon test print
- - [ ] squishy owl
- - [ ] linotype test
+ - [ ] count out tiles needed for undermountain
  - [ ] add twitter and instagram links to page header on dwyerdevices
 
-# Transfer to sdcard
-
- - owl's top hat
- - magic circle exterior
- - pksw 0.20mm
- - upside down moon at final draft
  
+
+# To design
+
+ - broken stone river
+ - Canals of City in the Sky
+ - layout of Seven Oases
+
+ 
+# To slice
+
+ - city in the sky lion portal
+ - tiles in pla
+ 
+# Transfer to sdcard
+ 
+  
+# To Print from card
+
+ - beds
+  - mats
+ - wizards desk
+ - alchemist desk
+ - owl hat @ 700% scale
+ - new moon design
+ 
+# To Finish
+
+# To Instagram
+
+ - beds
+ - gits logo
+
+# To post to Thingiverse
+ 
+ - vortex pool
+ 
+# To Post
+
+ - joycon grip
+ - GITS logo
+ - Big Totem
+ - Ornament Tests
+ - PKSW Third Try
+ - PKSW Finished Ornaments
+ - Undermountain print 3, 4, 5, 6
  
 # Scheduled Posts
 
-11/26 - Dungeon Accessories - Crates and Barrels
-11/28 - Dungeon Accessories - Workbenches
-11/30 - Dungeon Accessories - Piles of Gold
-12/02 - Dungeon Accessories - Wizard's Bookshelves
-12/04 - Sewer Filler - Take 1
-12/06 - Wordmasters
+
 12/08 - BearBook Air
 12/10 - Ornament Individual Ornaments
 12/12 - Sewer Filler - Take 2
 12/14 - Sewer Dungeon - Final Encounter
 12/16 - Troubleshooting - Wood-fill Jam
 12/18 - Seven Oases - Print 1
+12/20 - Full Scale Totem
  
 # Current
 
-
- - Production timeline planning for xmas gifts
-
- - Undermountain shrine tiles
- - Undermountain hallways
  - dragon's horde
  - Seven Oasis' - Landing site
  - City in the Sky - Landing site
@@ -82,8 +100,6 @@ Wait - we have gcode on the SDCard!
 
 
 
-
-
 ## Ornament Tests
 
 Testing out various ornaments in the run up to the holiday season. I want to find one
@@ -94,40 +110,40 @@ tournament...
 
 **Materials**:
 
- - P, S: Inland Translucent Magenta PETG 1.75mm
- - K, W: CNZhehan Translucent Green PETG 1.75mm
- - Pillar: Gizmodorks Translucent Blue PLA 1.75mm
+ - P, S: Hatchbox Red PLA 1.75mm
+ - K, W: Inland Peak Green PLA 1.75mm
+ - Pillar: Hatchbox Red PLA 1.75mm
  
-**Print Date**: 2017/11/26 - 
+**Print Date**: 2017/11/26 2017/12/03
 **Print Time**:
 
- - **P**: 
- - **K**: 
- - **S**: 
- - **W**: 
- - **Pillar**:
+ - **P** PLA x3: 2 hours 15 minutes
+ - **K** PLA x3: 2 hours 18 minutes
+ - **S** PLA x3: 2 hours 29 minutes
+ - **W** PLA x3: 2 hours 32 minutes
+ - **Pillar** PLA x8: 1 hour 58 minutes
  
 **Estimated Print Time**:
 
- - **P**: 44 minutes
- - **K**: 43 minutes
- - **S**: 47 minutes
- - **W**: 48 minutes
- - **Pillar**: 20 minutes
+ - **P** PLA x3: 2 hours 4 minutes
+ - **K** PLA x3: 2 hours 5 minutes
+ - **S** PLA x3: 2 hours 13 minutes 
+ - **W** PLA x3: 2 hours 16 minutes
+ - **Pillar** PLA x8: 1 hour 42 minutes
 
 **Estimated Material**:
 
- - **P**: 2.6 meters
- - **K**: 2.7 meters
- - **S**: 2.9 meters
- - **W**: 3 meters
- - **Pillar**: 60.2 cm
+ - **P** PLA x3: 7.7 meters
+ - **K** PLA x3: 8.1 meters
+ - **S** PLA x3: 8.6 meters
+ - **W** PLA x3: 8.9 meters
+ - **Pillar** PLA x8: 4.8 meters
 
 **Slicer**: PrusaControl
 **Slicer Settings**:
  
  - 0.20mm layers
- - PETG
+ - PLA
  - 20% infill
  - no supports
  - no brim
@@ -169,12 +185,9 @@ tournament...
 **License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
 **Model**: [compound_of_ten_tetrahedra.stl](https://www.thingiverse.com/download:379621)
 
-#### Big Dice?
 
 
-#### Impossible Shapes?
 
-#### ?
 
 ## Squishy Owl
 
@@ -235,12 +248,37 @@ Adding a tophat to see if we can cover up the spotty quality on the top of the o
   - no supports
   - material setting: Flex - Shore A85 - A98
  - Top Hat
-  - 0.20mm layers
+  - 0.20mm layers SemiFlex or Flexfill
   - 20% infill
   - no brim
   - supports (pillars)
   - material setting: Flex - Shore A85 - A98
-  - scale: 300%
+  - scale: 500%
+  - live adjust z: +0.750mm
+
+## Joy-con  Grip
+
+**Source**: [Single Joy-Con Grip](https://www.thingiverse.com/thing:2259607)
+**Maker**: [3DBotMaker](https://www.thingiverse.com/3DBotMaker)
+**License**: [Creative Commons - Attribution - Non-commercial - Share-alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [JoyCon_Grip.stl](https://www.thingiverse.com/download:3586153)
+**Materials**:
+
+ - Hatchbox Yellow PLA 1.75mm
+ - Hatchbox Red PLA 1.75mm
+
+**Print Date**: 2017/12/03
+**Print Time**: 2 hours 16 minutes
+**Estimated Print Time**: 2 hours 18 minutes
+**Estimated Filament**: 9.7 meters
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - PLA
+ - 20% infill
+ - No supports
+ - No brim
 
 ## Moon Lamp
 
@@ -319,6 +357,68 @@ of the moon), which will get removed with the final build.
  - detect thin walls
  - extra perimeters if needed
  - top horizontal layers: 5
+ - Upside Down
+  - 4 perimeters
+  - 75% scale
+  - detect thin walls
+  - extra perimeters if needed
+  - 4 bottom horizontal layers
+  - no infill
+  - 10mm brim
+  - 0.20mm layers
+  - supports from print bed
+  - pillar supports
+
+### ALternate Moon
+
+
+**Source**: [Glowing Moon](https://www.thingiverse.com/thing:2531838)
+**Maker**: [Brandonzhun](https://www.thingiverse.com/Brandonzhun)
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:2531838/#files)
+**Material**: Prusa White PLA 1.75mm
+**Print Date**: 
+**Print Time**:
+
+ - Top: 30 hours 31 minutes
+ 
+**Estimated Print Time**:
+
+ - Top: 29 hours 39 minutes (Cura estimate)
+
+**Estimated Filament**: 
+
+ - Top: 99.71 meters (Cura estimate)
+
+**Slicer**: PrusaControl/Slic3r
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 20% infill
+ - supports from build plate only
+ - no brim
+
+ 
+## GITS Logo
+
+**Source**: [Ghost in the Shell Logo](https://www.thingiverse.com/thing:1213484)
+**Maker**: [TBRIshtar](https://www.thingiverse.com/TBRIshtar)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [GITS_Logo.STL](https://www.thingiverse.com/download:1895738)
+**Material**: Gizmodorks Translucent Blue PLA 1.75mm
+**Print Date**: 2017/12/04
+**Print Time**: 4 hours 22 minutes
+**Estimated Print Time**: 4 hours 29 minutes
+**Estimated Filament**: 18.8 meters
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - PLA
+ - 20% infill
+ - 250% scale
+ - 0.20mm layers
+ - no brim
+ - no supports
 
 ## Bracelet
 
@@ -387,7 +487,71 @@ evils that were foretold to conquer the Undermountain.
  
 ## Dungeon Accessories
 
+### Wizards Desk
 
+**Source**: [Wizard's Desk](https://www.thingiverse.com/thing:2285377)
+**Maker**: [Vertikon](https://www.thingiverse.com/Vertikon)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [Wizard Desk](https://www.thingiverse.com/download:3632977)
+**Material**: Inland Silver PLA 1.75mm
+**Print Date**:
+**Print Time**:
+
+ - 150% scale: 
+
+**Estimated Print Time**: 
+
+ - 150% scale: 1 hour 55 minutes
+
+**Estimated Material**: 
+
+ - 150% scale: 6 meters
+
+**Slicer**: PrusaControl
+**Slicer Settings**:
+ 
+ - 0.20mm layers
+ - supports from build plate
+ - PLA
+ - 20% infill
+
+### Alchemists Desk
+
+At default scale these don't print well - the drawers don't print out completely, and the equipment
+on the desk is too fragile, falling apart at the barest touch.
+
+Trying to scale them to 150%
+
+**Source**: [Alchemis'ts Desk](https://www.thingiverse.com/thing:2285395)
+**Maker**: [Vertikon](https://www.thingiverse.com/Vertikon)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [Alchemist Desk](https://www.thingiverse.com/download:3632998)
+**Material**: Inland Silver PLA 1.75mm
+**Print Date**: 2017/12/04 - 2017/12/?
+**Print Time**:
+
+ - 100% scale: 50 minutes
+ - 150% scale: 
+ 
+**Estimated Print Time**: 
+
+ - 100% scale: 46 minutes
+ - 150% scale: 2 hours 1 minute
+ 
+**Estimated Material**: 
+
+ - 100% scale: 1.9 meters
+ - 150% scale: 6.4 meters
+ 
+**Slicer**: PrusaControl
+**Slicer Settings**:
+ 
+ - 0.20mm layers
+ - supports from build plate
+ - PLA
+ - 20% infill
+ - no brim
+ 
 ### Beds
 
 
@@ -401,13 +565,41 @@ evils that were foretold to conquer the Undermountain.
 
 **Materials**:
 
+ - Posts: Inland Light brown PLA 1.75mm
+ - Beds: Inland Light brown PLA 1.75mm
+ - Mats: Prusa White PLA 1.75mm
+
 **Print Date**:
 
 **Print Time**:
 
+ - Bed V1 x6: 2 hours 49 minutes
+ - Bed V2 x6: 2 hours 37 minutes
+ - Post v1 x8: 43 minutes
+ - Post v2 x8: 43 minutes
+ - Short Post x16: 49 minutes
+ - Bed Mat x6:
+ - Bed Mat leaking straw x6: 1 hour 2 minutes
+
 **Estimated Print Time**:
 
+ - Bed V1 x6: 2 hours 32 minutes
+ - Bed V2 x6: 2 hours 27 minutes
+ - Post v1 x8: 36 minutes
+ - Post v2 x8: 38 minutes
+ - Short Post x16: 39 minutes
+ - Bed Mat x6: 54 minutes
+ - Bed Mat leaking straw x6: 55 minutes
+
 **Estimated Filament**:
+
+ - Bed V1 x6: 8.2 meters
+ - Bed V2 x6: 8.1 meters
+ - Post v1 x8: 2 meters
+ - Post v2 x8: 2.2 meters
+ - Short Post x16: 2.2 meters
+ - Bed Mat x6: 2.7 meters
+ - Bed Mat leaking straw x6: 2.8 meters
 
 **Slicer**:
 
@@ -525,24 +717,20 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
  - include brim
  - no supports
  
-### Print 4 - Cascading Pool
+### Print 4 - Destroyed Portal
 
 **Sources**:
  
- - [OpenForge - Smooth Edges](https://www.thingiverse.com/thing:234363)
  - [OpenForge - Magic Circles](https://www.thingiverse.com/thing:242715)
  
 **Base Models**:
 
- - [smooth_edge_wall_2x1.stl](https://www.thingiverse.com/download:433401)
  - [circle_floor_1-exterior.stl](https://www.thingiverse.com/download:1861483)
 
 **Models**:
 
- - cascade
- - wall
  - basin
- - still water
+ - water vortex
   
 **Print Date**: 2017/11/4
 
@@ -553,61 +741,59 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
  
 **Print Time**:
 
- - cascade: 1 hour 6 minutes
- - wall: 46 minutes
- - basin:
- - still water: 50 minutes
+ - basin: 57 minutes
+ - water vortex:
  
 **Estimated Print Time**:
 
- - cascade: 1 hour 8 minutes
- - wall: 38 minutes
- - basin: 1 hour 26 minutes
- - still water: 52 minutes
+ - basin: 42 minutes
+ - water vortex: 3 hours 8 minutes
 
 **Estimated Filament**:
 
- - cascade: 3 meters
- - wall: 6.5 meters
- - basin: 14.4 meters
- - still water: 6.6 meters
+ - border: 6.1 meters
+ - water vortex: 12.3 meters
 
 **Slicer**: Slic3r
 
 **Slicer Settings**:
 
- - cascade:
-  - 0.35mm layers
-  - 10% infill
-  - 10mm brim
-  - include supports
-  - 2 raft layers
- - others:
-  - 0.35mm layers
-  - 10mm brim
-  - 10% infill
-
-  
+ - 0.20mm layers
+ - 10mm brim
+ - no supports
+ 
+   
 ### Print 3 - Portals
 
-Portal to the Seven Oasis:
+The adventurers have been pulled through a portal from the [Sewer Dungeon](http://www.dwyerdevices.com/2017/11/01/the-sewer-dungeon/), 
+and into the Undermountain. Ahead of them lies the portal chamber, with three other hallways leading to what can only be more
+portals. Dominating the portal chamber are a set of obelisks, one for each hallway. Three of the obelisks stand tall, with a barely
+discernable glow, while another is sundered, the cracked spire fallen to the side of hte obelisk plinth.
 
-Portal to the City in the Sky: https://www.instagram.com/p/BbQZ7cCAyIQ/?taken-by=dwyerdevices
+At the end of two of the unexplored hallways are portals, each faintly glowing- one blue as the sky, the other the yellow of sand left
+to bake in the sun.
 
-Destroyed Portal: (next post Print 4)
+https://www.instagram.com/p/BbFosrqAZzX/?taken-by=dwyerdevices
 
-**Source**: [OpenForge - Magic Circle]()
+The completed portals are embedded in a 4x4 gray exterior:
+
+https://www.instagram.com/p/BbQZ7cCAyIQ/?taken-by=dwyerdevices
+
+
+
+**Source**: [OpenForge - Magic Circle Tiles](https://www.thingiverse.com/thing:242715)
 **Maker**: [devonjones](https://www.thingiverse.com/devonjones)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Model**:
+**Models**:
 
- - circle_floor_1-interior.stl
- - circle_floor_1-exterior.stl
+ - [circle_floor_1-interior.stl](https://www.thingiverse.com/download:1861485)
+ - [circle_floor_1-exterior.stl](https://www.thingiverse.com/download:1861483)
  
 **Materials**: 
 
  - Hatchbox Yellow PLA 1.75mm
  - GizmoDorks Translucent Blue PLA 1.75mm
+ - Inland Gray ABS 1.75mm
 
 **Print Date**: 2017/11/04
 
@@ -669,74 +855,7 @@ Specified print temp: 210-230℃
 
 
  
-## Full Scale Totem
 
-Going full scale, but at draft quality, as just about everything is rectilinear.
-
-One block: https://www.instagram.com/p/Ba5CKn3A8pG/?taken-by=dwyerdevices
-
-
-**Source**: [Totem a Friend Monument Valley plus Ida](https://www.thingiverse.com/thing:2050376)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Models**: [All Models](https://www.thingiverse.com/thing:2050376/zip)
-**Maker**: [AliG3D](https://www.thingiverse.com/AliG3D)
-**Print Date**: 2017/10/30 - 
-**Scaling**: 100% Original
-**Materials**:
-
- - Hatchbox Yellow PLA 1.75mm
- - Inland Turquoise PLA 1.75mm
- - Prusa Black PETG 1.75mm
- - White
- - Orange
-
-**Print Time**:
-
- - Yellow #1: 5 hours 1 minute
- - Yellow #2: 5 hours 47 minutes
- - Yellow #3: 5 hours 46 minutes
- - Yellow #4: 5 hours 21 minutes
- - Blue #2: 29 minutes
- - Blue #3: 55 minutes
- - Blue #4: 31 minutes
- - Black: 12 minutes
- - Orange: 11 minutes
- - White: 27 minutes
- 
-**Estimated Print Time**:
-
- - Yellow #1: 5 hours 4 minutes
- - Yellow #2: 5 hours 43 minutes
- - Yellow #3: 5 hours 43 minutes
- - Yellow #4: 5 hours 18 minutes
- - Blue #2: 28 minutes
- - Blue #3: 54 minutes
- - Blue #4: 31 minutes
- - Black: 11 minutes
- - Orange: 7 minutes
- - White: 26 minutes
-
-**Estimated Filament**:
-
- - Yellow #1: 56.6 meters
- - Yellow #2: 56.9 meters
- - Yellow #3: 56 meters
- - Yellow #4: 54.3 meters
- - Blue #2: 3 meters
- - Blue #3: 5.5 meters
- - Blue #4: 3.2 meters
- - Black: 1.5 meters
- - Orange: 84.2 cm
- - White: 3.3 meters
-
-**Slicer**: PrusaControl
-
-**Slicer Settings**:
-
- - 0.35mm layers
- - 20% infill
- - Supports on build plate
- - Include brim
 
 
 

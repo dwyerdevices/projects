@@ -8,8 +8,8 @@ Green                           | 1kg  | ABS        | Inland         | 2017/11/-
 Yellow                          | 1kg  | PLA        | Hatchbox       | 2017/10/-    | 2017/10/-    | 10%
 Yellow                          | 1kg  | PLA        | Hatchbox       | 2017/10/-    | 2017/10/-    | 75%
 Natural                         | 1kg  | ABS        | Inland         | 2017/10/-    | 2017/10/-    | 99%
-Red                             | 1kg  | PLA        | Hatchbox       | 2017/11/-    | 2017/11/-    | 75%
-White                           | 2kg  | PLA        | Prusa          | 2017/10/01   | 2017/10/10   | 75%
+Red                             | 1kg  | PLA        | Hatchbox       | 2017/11/-    | 2017/11/-    | 40%
+White                           | 2kg  | PLA        | Prusa          | 2017/10/01   | 2017/10/10   | 15%
 Blue                            | .5kg | TPE        | Inland         | 2017/11/-    | 2017/11/-    | 80%
 Copper                          | 1kg  | ABS        | Hatchbox       | 2017/11/-    | 2017/11/-    | 90%
 Light Brown                     | 1kg  | PLA        | Inland         | 2017/10/-    | 2017/10/-    | 80%
@@ -25,13 +25,13 @@ Turquoise                       | 1kg  | PLA        | Inland         | 2017/11/-
 Grass                           | .5kg | Flex       | NinjaFlex      | 2017/11/05   | 2017/11/12   | 95%
 Wood                            | 1kg  | PLA/Wood   | Hatchbox       | 2017/11/05   | 2017/11/12   | 99%
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-    | 2017/11/18   | 100%
-Gray                            | 1kg  | ABS        | Inland         | 2017/11/22   | 2017/11/22   | 60%
+Gray                            | 1kg  | ABS        | Inland         | 2017/11/22   | 2017/11/22   | 30%
+Peak Green                      | 1kg  | PLA        | Inland         | 2017/10/-    | 2017/12/02   | 100%
 
 ## Unopened
 
 Color                           | Wgt  | Material   | Brand          | Purchased On 
 --------------------------------|------|------------|----------------|--------------
-Peak Green                      | 1kg  | PLA        | Inland         | 2017/10/-
 Egyptian Blue                   | 1kg  | PLA        | Inland         | 2017/11/05
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
