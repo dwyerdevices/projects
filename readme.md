@@ -34,15 +34,15 @@
   
 # To Print from card
 
- - beds
-  - mats
  - wizards desk
  - alchemist desk
  - owl hat @ 700% scale
- - new moon design
  
 # To Finish
 
+ - Beds
+ - Moon
+ 
 # To Instagram
 
  - beds
@@ -54,9 +54,7 @@
  
 # To Post
 
- - joycon grip
  - GITS logo
- - Big Totem
  - Ornament Tests
  - PKSW Third Try
  - PKSW Finished Ornaments
@@ -72,7 +70,8 @@
 12/16 - Troubleshooting - Wood-fill Jam
 12/18 - Seven Oases - Print 1
 12/20 - Full Scale Totem
- 
+12/22 - Joy Con Grips
+
 # Current
 
  - dragon's horde
@@ -256,29 +255,7 @@ Adding a tophat to see if we can cover up the spotty quality on the top of the o
   - scale: 500%
   - live adjust z: +0.750mm
 
-## Joy-con  Grip
 
-**Source**: [Single Joy-Con Grip](https://www.thingiverse.com/thing:2259607)
-**Maker**: [3DBotMaker](https://www.thingiverse.com/3DBotMaker)
-**License**: [Creative Commons - Attribution - Non-commercial - Share-alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-**Model**: [JoyCon_Grip.stl](https://www.thingiverse.com/download:3586153)
-**Materials**:
-
- - Hatchbox Yellow PLA 1.75mm
- - Hatchbox Red PLA 1.75mm
-
-**Print Date**: 2017/12/03
-**Print Time**: 2 hours 16 minutes
-**Estimated Print Time**: 2 hours 18 minutes
-**Estimated Filament**: 9.7 meters
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - 0.20mm layers
- - PLA
- - 20% infill
- - No supports
- - No brim
 
 ## Moon Lamp
 
@@ -369,8 +346,11 @@ of the moon), which will get removed with the final build.
   - supports from print bed
   - pillar supports
 
-### ALternate Moon
+### Alternate Moon - the Glowing Moon
 
+Finished Printing: https://www.instagram.com/p/BcZsU12AEXi/?taken-by=dwyerdevices
+
+Glowing: https://www.instagram.com/p/BcbGnJ0ATAO/?taken-by=dwyerdevices
 
 **Source**: [Glowing Moon](https://www.thingiverse.com/thing:2531838)
 **Maker**: [Brandonzhun](https://www.thingiverse.com/Brandonzhun)
