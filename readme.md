@@ -66,8 +66,7 @@
 # Scheduled Posts
 
 
-12/08 - BearBook Air
-12/10 - Ornament Individual Ornaments
+12/10 - Individual Ornaments
 12/12 - Sewer Filler - Take 2
 12/14 - Sewer Dungeon - Final Encounter
 12/16 - Troubleshooting - Wood-fill Jam
@@ -76,6 +75,7 @@
 12/22 - Joy Con Grips
 12/24 - Alchemist's Desk
 12/26 - Wizard's Desk
+12/28 - PKSW Ornament 
 
 # Current
 
@@ -110,49 +110,6 @@ Testing out various ornaments in the run up to the holiday season. I want to fin
 that is interesting, but quick to print, and easy to cleanup. It's a bit of an ornament
 tournament...
 
-### PKSW Final Draft
-
-**Materials**:
-
- - P, S: Hatchbox Red PLA 1.75mm
- - K, W: Inland Peak Green PLA 1.75mm
- - Pillar: Hatchbox Red PLA 1.75mm
- 
-**Print Date**: 2017/11/26 2017/12/03
-**Print Time**:
-
- - **P** PLA x3: 2 hours 15 minutes
- - **K** PLA x3: 2 hours 18 minutes
- - **S** PLA x3: 2 hours 29 minutes
- - **W** PLA x3: 2 hours 32 minutes
- - **Pillar** PLA x8: 1 hour 58 minutes
- 
-**Estimated Print Time**:
-
- - **P** PLA x3: 2 hours 4 minutes
- - **K** PLA x3: 2 hours 5 minutes
- - **S** PLA x3: 2 hours 13 minutes 
- - **W** PLA x3: 2 hours 16 minutes
- - **Pillar** PLA x8: 1 hour 42 minutes
-
-**Estimated Material**:
-
- - **P** PLA x3: 7.7 meters
- - **K** PLA x3: 8.1 meters
- - **S** PLA x3: 8.6 meters
- - **W** PLA x3: 8.9 meters
- - **Pillar** PLA x8: 4.8 meters
-
-**Slicer**: PrusaControl
-**Slicer Settings**:
- 
- - 0.20mm layers
- - PLA
- - 20% infill
- - no supports
- - no brim
- 
-
 
 #### Ornament With Stars
 
@@ -176,6 +133,8 @@ tournament...
 
 #### Five Intersecting Tetrahedra
 
+Can I print a solid, interesting, and decent quality large scale ornament suitable for outdoor
+use during the holidays?
 
 Final print size: 148mm x 147mm x 122.5mm
 
