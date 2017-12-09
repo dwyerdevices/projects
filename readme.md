@@ -12,6 +12,7 @@
  - [ ] start designing city in the sky
  - [ ] start printing stalls/buildings for seven oasis
  - [ ] start designing seven oasis
+  - buildings and elevated walkways
  - [ ] count out tiles needed for undermountain
  - [ ] add twitter and instagram links to page header on dwyerdevices
 
@@ -27,7 +28,8 @@
 # To slice
 
  - city in the sky lion portal
- - tiles in pla
+ - tiles in pla (smooth stone 2x2, walls 2x2, doors)
+ - big ornaments
  
 # Transfer to sdcard
  
@@ -42,6 +44,7 @@
 
  - Beds
  - Moon
+ - ornament fit_with_supports
  
 # To Instagram
 
@@ -71,6 +74,8 @@
 12/18 - Seven Oases - Print 1
 12/20 - Full Scale Totem
 12/22 - Joy Con Grips
+12/24 - Alchemist's Desk
+12/26 - Wizard's Desk
 
 # Current
 
@@ -167,17 +172,34 @@ tournament...
  - [caged_dodeca.stl](https://www.thingiverse.com/download:1777123)
  - [caged_stellated_dodeca.stl](https://www.thingiverse.com/download:1777121)
 
+
+
 #### Five Intersecting Tetrahedra
+
+
+Final print size: 148mm x 147mm x 122.5mm
 
 **Source**: [Five Intersecting Tetrahedra](https://www.thingiverse.com/thing:691814)
 **Maker**: [laurentine](https://www.thingiverse.com/laurentine)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Models**:
+**Models**: [fit_with_supports.stl](https://www.thingiverse.com/download:1114220)
+**Materials**: Prusa White PLA 1.75mm
+**Scaling**: 175% Original Scale
+**Print Date**: 2017/12/8
+**Print Time**: 
+**Estimated Print Time**: 12 hours 49 minutes
+**Estimated Filament**: 57.5 meters
+**Slicer**: Slic3r
+**Slicer Settings**:
 
- - [fit_with_supports.stl](https://www.thingiverse.com/download:1114220)
- - [five_intersecting_tetrahedra_for_hanging.stl](https://www.thingiverse.com/download:1112044)
+ - 0.35mm layers
+ - 5% infill
+ - no supports (pre-modeled supports)
+ - no brim 
  
 #### Ornament of Ten Tetrahedra
+
+
 
 **Source**: [Ornament of Ten Tetrahedra](https://www.thingiverse.com/thing:203610)
 **Maker**: [pmoews](https://www.thingiverse.com/pmoews)
@@ -467,70 +489,7 @@ evils that were foretold to conquer the Undermountain.
  
 ## Dungeon Accessories
 
-### Wizards Desk
 
-**Source**: [Wizard's Desk](https://www.thingiverse.com/thing:2285377)
-**Maker**: [Vertikon](https://www.thingiverse.com/Vertikon)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Model**: [Wizard Desk](https://www.thingiverse.com/download:3632977)
-**Material**: Inland Silver PLA 1.75mm
-**Print Date**:
-**Print Time**:
-
- - 150% scale: 
-
-**Estimated Print Time**: 
-
- - 150% scale: 1 hour 55 minutes
-
-**Estimated Material**: 
-
- - 150% scale: 6 meters
-
-**Slicer**: PrusaControl
-**Slicer Settings**:
- 
- - 0.20mm layers
- - supports from build plate
- - PLA
- - 20% infill
-
-### Alchemists Desk
-
-At default scale these don't print well - the drawers don't print out completely, and the equipment
-on the desk is too fragile, falling apart at the barest touch.
-
-Trying to scale them to 150%
-
-**Source**: [Alchemis'ts Desk](https://www.thingiverse.com/thing:2285395)
-**Maker**: [Vertikon](https://www.thingiverse.com/Vertikon)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Model**: [Alchemist Desk](https://www.thingiverse.com/download:3632998)
-**Material**: Inland Silver PLA 1.75mm
-**Print Date**: 2017/12/04 - 2017/12/?
-**Print Time**:
-
- - 100% scale: 50 minutes
- - 150% scale: 
- 
-**Estimated Print Time**: 
-
- - 100% scale: 46 minutes
- - 150% scale: 2 hours 1 minute
- 
-**Estimated Material**: 
-
- - 100% scale: 1.9 meters
- - 150% scale: 6.4 meters
- 
-**Slicer**: PrusaControl
-**Slicer Settings**:
- 
- - 0.20mm layers
- - supports from build plate
- - PLA
- - 20% infill
- - no brim
  
 ### Beds
 
@@ -549,7 +508,7 @@ Trying to scale them to 150%
  - Beds: Inland Light brown PLA 1.75mm
  - Mats: Prusa White PLA 1.75mm
 
-**Print Date**:
+**Print Date**: 2017/12/06
 
 **Print Time**:
 
