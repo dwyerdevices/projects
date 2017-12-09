@@ -30,26 +30,27 @@
  - city in the sky lion portal
  - tiles in pla (smooth stone 2x2, walls 2x2, doors)
  - big ornaments
+ - lanterns
  
 # Transfer to sdcard
  
   
 # To Print from card
 
- - wizards desk
- - alchemist desk
  - owl hat @ 700% scale
+ - cages
+ - lanterns
  
 # To Finish
 
  - Beds
  - Moon
- - ornament fit_with_supports
  
 # To Instagram
 
  - beds
  - gits logo
+ - ornament fit_with_supports
 
 # To post to Thingiverse
  
@@ -59,9 +60,8 @@
 
  - GITS logo
  - Ornament Tests
- - PKSW Third Try
- - PKSW Finished Ornaments
  - Undermountain print 3, 4, 5, 6
+ - ornament fit_with_supports
  
 # Scheduled Posts
 
@@ -76,6 +76,11 @@
 12/24 - Alchemist's Desk
 12/26 - Wizard's Desk
 12/28 - PKSW Ornament 
+12/30 - Intersecting Tetrahedra - Outdoor Ornament
+
+2018
+
+01/01 - Moon Lamp - Failures
 
 # Current
 
@@ -130,35 +135,8 @@ tournament...
  - [caged_stellated_dodeca.stl](https://www.thingiverse.com/download:1777121)
 
 
-
-#### Five Intersecting Tetrahedra
-
-Can I print a solid, interesting, and decent quality large scale ornament suitable for outdoor
-use during the holidays?
-
-Final print size: 148mm x 147mm x 122.5mm
-
-**Source**: [Five Intersecting Tetrahedra](https://www.thingiverse.com/thing:691814)
-**Maker**: [laurentine](https://www.thingiverse.com/laurentine)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Models**: [fit_with_supports.stl](https://www.thingiverse.com/download:1114220)
-**Materials**: Prusa White PLA 1.75mm
-**Scaling**: 175% Original Scale
-**Print Date**: 2017/12/8
-**Print Time**: 
-**Estimated Print Time**: 12 hours 49 minutes
-**Estimated Filament**: 57.5 meters
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - 0.35mm layers
- - 5% infill
- - no supports (pre-modeled supports)
- - no brim 
  
 #### Ornament of Ten Tetrahedra
-
-
 
 **Source**: [Ornament of Ten Tetrahedra](https://www.thingiverse.com/thing:203610)
 **Maker**: [pmoews](https://www.thingiverse.com/pmoews)
@@ -238,94 +216,7 @@ Adding a tophat to see if we can cover up the spotty quality on the top of the o
 
 
 
-## Moon Lamp
 
-First printing a small scale version with the various settings I hope will work for a high
-quality and durability print.
-
-The 50% version with variable height layers on the top and bottom failed twice - layer adhesion seemed to be an
-issue, and the model portions kept pulling away from the support layer, catching on the PINDA
-probe and tearing.
-
-15%: https://www.instagram.com/p/Bb93uY-AL1w/?taken-by=dwyerdevices
-
-The 15% version with consistent height layers turned out fine - too small for detail to show
-through, but it confirms the need for better quality layers at the top of the print, where the
-curvature of the sphere makes even high quality layers stretch out and look bad.
-
-Printing a 50% scale version with variable layer heights for the top only turned out fairly well; the
-very top was a bit thin, and needs a few extra layers, and "thin walls" detection needs to be turned
-on, otherwise quite a nice print. The final version will need to scale up just a bit more.
- 
-50%: https://www.instagram.com/p/Bb938RJA3MR/?taken-by=dwyerdevices
-
-Ok. 25% scale test with Cura, to see if we get better top layers.
-
-25%: https://www.instagram.com/p/Bb94IbVAvFT/?taken-by=dwyerdevices
-
-Ugly tearing, but better quality at the top. Maybe reslicing with an inverted moon, to get the
-surface quality from the base, and not worry about hte quality of the top part of the print (the bottom
-of the moon), which will get removed with the final build.
-
-**Source**: [The moon](https://www.thingiverse.com/thing:1014620)
-
-**Maker**: [Dexter_New_Materials](https://www.thingiverse.com/Dexter_New_Materials)
-
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-
-**Model**: [Dexters_Moon_v2](https://www.thingiverse.com/download:1600569)
-
-**Materials**: 
-
- - Prusa White PLA 1.75mm
- - Inland Gray ABS 1.75mm
-
-**Print Date**: 2017/11/20 - 2017/11/21
-
-**Print Time**:
-
- - 15% scale test: 1 hour 8 minutes
- - 25% scale test (ABS): 1 hour 2 minutes
- - 50% scale test: 6 hours 21 minutes
- - 75% scale:
- 
-**Estimated Time**: 
-
- - 15% scale test: 1 hour 1 minute
- - 25% scale test (ABS): 1 hour 6 minutes
- - 50% scale test: 6 hours 1 minute
- - 75% scale: 10 hours 23 minutes
-
-**Estimated Filament**:
-
- - 15% scale test: 1.6 meters
- - 25% scale test (ABS): 3.38 meters
- - 50% scale test: 22.1 meters
- - 75% scale: 35.79 meters
-
-**Slicer**: Slic3r/PrusaControl
-
-**Slicer Settings**:
-
- - various scales
- - 0.20mm layers
- - 0% infill
- - include supports (zig zag or pillars)
- - variable quality layering for top with larger prints
- - detect thin walls
- - extra perimeters if needed
- - top horizontal layers: 5
- - Upside Down
-  - 4 perimeters
-  - 75% scale
-  - detect thin walls
-  - extra perimeters if needed
-  - 4 bottom horizontal layers
-  - no infill
-  - 10mm brim
-  - 0.20mm layers
-  - supports from print bed
-  - pillar supports
 
 ### Alternate Moon - the Glowing Moon
 
@@ -452,6 +343,7 @@ evils that were foretold to conquer the Undermountain.
  
 ### Beds
 
+Pre glue: https://www.instagram.com/p/BcfhSavgETc/?taken-by=dwyerdevices
 
 **Source**: [28mm beds](https://www.thingiverse.com/thing:1449333)
 
@@ -505,7 +397,73 @@ evils that were foretold to conquer the Undermountain.
 
 ### Cages
 
+100% scale = 2x2 tile
+150% scale = 3x3 tile
 
+**Source**: [Jail Cage](https://www.thingiverse.com/thing:1830752)
+**Maker**: [errius](https://www.thingiverse.com/errius)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [Cage_2x2x2.stl](https://www.thingiverse.com/download:2856543)
+**Material**:
+**Print Date**:
+**Print Time**:
+
+ - 100% scale: 
+ - 150% scale:
+ 
+**Estimated Print Time**:
+
+ - 100% scale: 2 hours 14 minutes
+ - 150% scale: 5 hours 20 minutes
+ 
+**Estimated Filament**:
+
+ - 100% scale: 9.75 meters
+ - 150% scale: 26.6 meters
+ 
+**Slicer**: Slic3r
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 50% infill
+ - no brim
+ - include supports
+ 
+### Toro (Lanterns)
+
+These hallways and rooms were not carved by the goblins that currently occupy them;
+the craftsmanship is far beyond these warrior tribes - this is especially apparent
+in the large lanterns that dot the underground, emitting a dull, but pervasive, white
+glow that never wanes. 
+
+**Source**: [28mm Stone Lanterns](https://www.thingiverse.com/thing:2307847)
+**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Models**: [All Files](https://www.thingiverse.com/thing:2307847/zip)
+**Material**: Inland Silver PLA 1.75mm
+**Print Date**: 2017/12/09
+**Print Time**:
+
+ - lantern v1 x4:
+ - lantern v2 x4:
+ 
+**Estimated Print Time**:
+
+ - lantern v1 x4: 3 hours 3 minutes
+ - lantern v2 x4: 3 hours 26 minutes
+ 
+**Estimated Filament**:
+
+ - lantern v1 x4: 11.7 meters
+ - lantern v2 x4: 13.2 meters
+ 
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - no brim
+ - no supports
+ 
 ## Undermountain Dungeon
 
 ### Print 11 - Entrance to the Dragon Hoard
