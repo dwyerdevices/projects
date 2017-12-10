@@ -13,7 +13,7 @@
   - buildings and elevated walkways
  - [ ] count out tiles needed for undermountain
  - [ ] add twitter and instagram links to page header on dwyerdevices
-
+ - [ ] add featured images for old posts
  
 
 # To design
@@ -31,20 +31,25 @@
  
 # Transfer to sdcard
  
+ - canals
+  - brick embankment 2x2
+  - smooth embankment 2x2
+  - water 2x3
+  
   
 # To Print from card
 
  - owl hat @ 700% scale
- - cages
+ - 2 more joycon
  
 # To Finish
 
  - Moon
+ - cages
  
 # To Instagram
 
  - gits logo
- - ornament fit_with_supports
 
 # To post to Thingiverse
  
@@ -54,12 +59,10 @@
 
  - GITS logo
  - Ornament Tests
- - Undermountain print 3, 4, 5, 6
+ - Undermountain print 4, 5, 6
  
 # Scheduled Posts
 
-
-12/10 - Individual Ornaments
 12/12 - Sewer Filler - Take 2
 12/14 - Sewer Dungeon - Final Encounter
 12/16 - Troubleshooting - Wood-fill Jam
@@ -76,6 +79,8 @@
 01/01 - Moon Lamp - Failures
 01/03 - Dungeon Accessories - Beds
 01/05 - Dungeon Accessories - Toro Lanterns
+01/07 - Undermountain - Print 3
+01/09 - Undermountain - Print 4
 
 # Current
 
@@ -308,6 +313,55 @@ What leads from the portal to the city?
 
 ## City in the Sky
 
+### Print 2 - Canal Test
+
+**Sources**:
+
+ - [OpenForge 2.0 Brick Sidewalks and Straight Curbs](https://www.thingiverse.com/thing:2603798)
+ - [OpenForge Smooth Floor Tile](https://www.thingiverse.com/thing:234325)
+ 
+**Original Licenses**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/) 
+
+**Original Maker**: [devonjones](https://www.thingiverse.com/devonjones)
+
+**Materials**:
+
+ - PLA
+ 
+**Models**:
+
+ - [Canal - 2x2 embankment.stl]()
+ - [Canal - 2x3 water.stl]()
+
+**Print Date**:
+
+**Print Time**:
+
+ - 2x2 brick embankment: 
+ - 2x2 smooth embankment
+ - 2x3 water: 
+ 
+**Estimated Print Time**:
+
+ - 2x2 embankment: 1 hour 3 minutes
+ - 2x2 smooth embankment: 59 minutes
+ - 2x3 water: 1 hour 5 minutes
+ 
+**Estimated Filament**:
+
+ - 2x2 embankment: 3.9 meters
+ - 2x2 smooth embankment: 4.2 meters
+ - 2x3 water: 4.1 meters
+ 
+**Slicer**: PrusaControl
+
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 20% infill
+ - no brim
+ - supports from bed only
+
 ### Print 1 - Lion Portal
 
 Lions watch over the Undermountain Portal in the City in the Sky, guarding against the
@@ -482,110 +536,10 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
  - include brim
  - no supports
  
-### Print 4 - Destroyed Portal - The Vortex
 
-**Sources**:
- 
- - [OpenForge - Magic Circles](https://www.thingiverse.com/thing:242715)
- 
-**Base Models**:
-
- - [circle_floor_1-exterior.stl](https://www.thingiverse.com/download:1861483)
-
-**Models**:
-
- - basin
- - water vortex
-  
-**Print Date**: 2017/11/4
-
-**Material**:
-
- - Gizmodorks Translucent Blue PLA 1.75mm
- - Inland Grey ABS 1.75mm
- 
-**Print Time**:
-
- - basin: 57 minutes
- - water vortex:
- 
-**Estimated Print Time**:
-
- - basin: 42 minutes
- - water vortex: 3 hours 8 minutes
-
-**Estimated Filament**:
-
- - border: 6.1 meters
- - water vortex: 12.3 meters
-
-**Slicer**: Slic3r
-
-**Slicer Settings**:
-
- - 0.20mm layers
- - 10mm brim
- - no supports
  
    
-### Print 3 - Portals
 
-The adventurers have been pulled through a portal from the [Sewer Dungeon](http://www.dwyerdevices.com/2017/11/01/the-sewer-dungeon/), 
-and into the Undermountain. Ahead of them lies the portal chamber, with three other hallways leading to what can only be more
-portals. Dominating the portal chamber are a set of obelisks, one for each hallway. Three of the obelisks stand tall, with a barely
-discernable glow, while another is sundered, the cracked spire fallen to the side of hte obelisk plinth.
-
-At the end of two of the unexplored hallways are portals, each faintly glowing- one blue as the sky, the other the yellow of sand left
-to bake in the sun.
-
-https://www.instagram.com/p/BbFosrqAZzX/?taken-by=dwyerdevices
-
-The completed portals are embedded in a 4x4 gray exterior:
-
-https://www.instagram.com/p/BbQZ7cCAyIQ/?taken-by=dwyerdevices
-
-
-
-**Source**: [OpenForge - Magic Circle Tiles](https://www.thingiverse.com/thing:242715)
-**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Models**:
-
- - [circle_floor_1-interior.stl](https://www.thingiverse.com/download:1861485)
- - [circle_floor_1-exterior.stl](https://www.thingiverse.com/download:1861483)
- 
-**Materials**: 
-
- - Hatchbox Yellow PLA 1.75mm
- - GizmoDorks Translucent Blue PLA 1.75mm
- - Inland Gray ABS 1.75mm
-
-**Print Date**: 2017/11/04
-
-**Print Time**:
-
- - Seven Oasis Portal: 2 hours 15 minutes
- - City in the Sky Portal: 2 hours 15 minutes
- - Circle Border (x3): 54 minutes
-
-**Estimated Print Time**:
-
- - Seven Oasis Portal: 1 hour 57 minutes
- - City in the Sky Portal: 1 hours 57 mnutes
- - Circle Border (x3): 42 minutes
-
-**Estimated Filament**:
-
- - Seven Oasis Portal: 13.7 meters
- - City in the Sky Portal: 13.7 meters
- - Circle Border (x3): 6.1 meters
-
-**Slicer**: Slic3r
-**Slicer Settings**;
- 
- - 0.35mm layers
- - 10% infill
- - 10mm brim
 
 
 ## Bestiary - Goblins
