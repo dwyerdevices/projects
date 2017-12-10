@@ -4,8 +4,6 @@
  - [ ] measure out NES print
  - [ ] measure out Section 9 print
  - [ ] dungeon accessories
-  - [ ] cages
-  - [ ] lanterns
   - [ ] flat bridge
  - [ ] stone river tiles
  - [ ] undermountain
@@ -30,7 +28,6 @@
  - city in the sky lion portal
  - tiles in pla (smooth stone 2x2, walls 2x2, doors)
  - big ornaments
- - lanterns
  
 # Transfer to sdcard
  
@@ -39,16 +36,13 @@
 
  - owl hat @ 700% scale
  - cages
- - lanterns
  
 # To Finish
 
- - Beds
  - Moon
  
 # To Instagram
 
- - beds
  - gits logo
  - ornament fit_with_supports
 
@@ -61,7 +55,6 @@
  - GITS logo
  - Ornament Tests
  - Undermountain print 3, 4, 5, 6
- - ornament fit_with_supports
  
 # Scheduled Posts
 
@@ -81,6 +74,8 @@
 2018
 
 01/01 - Moon Lamp - Failures
+01/03 - Dungeon Accessories - Beds
+01/05 - Dungeon Accessories - Toro Lanterns
 
 # Current
 
@@ -341,59 +336,6 @@ evils that were foretold to conquer the Undermountain.
 
 
  
-### Beds
-
-Pre glue: https://www.instagram.com/p/BcfhSavgETc/?taken-by=dwyerdevices
-
-**Source**: [28mm beds](https://www.thingiverse.com/thing:1449333)
-
-**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
-
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-
-**Models**: [All Files](https://www.thingiverse.com/thing:1449333/zip)
-
-**Materials**:
-
- - Posts: Inland Light brown PLA 1.75mm
- - Beds: Inland Light brown PLA 1.75mm
- - Mats: Prusa White PLA 1.75mm
-
-**Print Date**: 2017/12/06
-
-**Print Time**:
-
- - Bed V1 x6: 2 hours 49 minutes
- - Bed V2 x6: 2 hours 37 minutes
- - Post v1 x8: 43 minutes
- - Post v2 x8: 43 minutes
- - Short Post x16: 49 minutes
- - Bed Mat x6:
- - Bed Mat leaking straw x6: 1 hour 2 minutes
-
-**Estimated Print Time**:
-
- - Bed V1 x6: 2 hours 32 minutes
- - Bed V2 x6: 2 hours 27 minutes
- - Post v1 x8: 36 minutes
- - Post v2 x8: 38 minutes
- - Short Post x16: 39 minutes
- - Bed Mat x6: 54 minutes
- - Bed Mat leaking straw x6: 55 minutes
-
-**Estimated Filament**:
-
- - Bed V1 x6: 8.2 meters
- - Bed V2 x6: 8.1 meters
- - Post v1 x8: 2 meters
- - Post v2 x8: 2.2 meters
- - Short Post x16: 2.2 meters
- - Bed Mat x6: 2.7 meters
- - Bed Mat leaking straw x6: 2.8 meters
-
-**Slicer**:
-
-**Slicer Settings**:
 
 ### Cages
 
@@ -429,40 +371,7 @@ Pre glue: https://www.instagram.com/p/BcfhSavgETc/?taken-by=dwyerdevices
  - no brim
  - include supports
  
-### Toro (Lanterns)
 
-These hallways and rooms were not carved by the goblins that currently occupy them;
-the craftsmanship is far beyond these warrior tribes - this is especially apparent
-in the large lanterns that dot the underground, emitting a dull, but pervasive, white
-glow that never wanes. 
-
-**Source**: [28mm Stone Lanterns](https://www.thingiverse.com/thing:2307847)
-**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-**Models**: [All Files](https://www.thingiverse.com/thing:2307847/zip)
-**Material**: Inland Silver PLA 1.75mm
-**Print Date**: 2017/12/09
-**Print Time**:
-
- - lantern v1 x4:
- - lantern v2 x4:
- 
-**Estimated Print Time**:
-
- - lantern v1 x4: 3 hours 3 minutes
- - lantern v2 x4: 3 hours 26 minutes
- 
-**Estimated Filament**:
-
- - lantern v1 x4: 11.7 meters
- - lantern v2 x4: 13.2 meters
- 
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - 0.20mm layers
- - no brim
- - no supports
  
 ## Undermountain Dungeon
 
@@ -573,7 +482,7 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
  - include brim
  - no supports
  
-### Print 4 - Destroyed Portal
+### Print 4 - Destroyed Portal - The Vortex
 
 **Sources**:
  
