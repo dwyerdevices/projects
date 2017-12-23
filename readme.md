@@ -2,7 +2,6 @@
 
  - [ ] glue teleporting shrine
  - [ ] measure out NES print
- - [ ] measure out Section 9 print
  - [ ] dungeon accessories
   - [ ] flat bridge
  - [ ] stone river tiles
@@ -14,38 +13,36 @@
  - [ ] count out tiles needed for undermountain
  - [ ] add twitter and instagram links to page header on dwyerdevices
  - [ ] add featured images for old posts
+ - [ ] fix displayed name for posts (shows dwyepasdfasdfasdf something right now)
  
 
 # To design
 
  - broken stone river
- - Canals of City in the Sky
  - layout of Seven Oases
-
- 
+ - canal variations and accessories
+  - embankment with bollards
+  - embankment with slopes into water
+  - embankment with steps into water
+  - embankment with high sides
+  - curves
+  - angles
+  - canal bridges
+  - canals with railings (canals in the sky)
+  
 # To slice
 
  - city in the sky lion portal
- - tiles in pla (smooth stone 2x2, walls 2x2, doors)
- - big ornaments
+ - tiles in pla (smooth stone 2x2, walls 2x2, doors) for undermountain
  
 # Transfer to sdcard
  
- - canals
-  - brick embankment 2x2
-  - smooth embankment 2x2
-  - water 2x3
-  
   
 # To Print from card
 
- - owl hat @ 700% scale
- - 2 more joycon
  
 # To Finish
 
- - Moon
- - cages
  
 # To Instagram
 
@@ -53,22 +50,20 @@
 
 # To post to Thingiverse
  
- - vortex pool
  
 # To Post
 
- - GITS logo
+ - squishy owl
  - Ornament Tests
  - Undermountain print 4, 5, 6
+  - vortex pool
+ - rocket tokens
+ - Canals of City in the Sky
+ - Moon
  
 # Scheduled Posts
 
-12/12 - Sewer Filler - Take 2
-12/14 - Sewer Dungeon - Final Encounter
-12/16 - Troubleshooting - Wood-fill Jam
-12/18 - Seven Oases - Print 1
-12/20 - Full Scale Totem
-12/22 - Joy Con Grips
+
 12/24 - Alchemist's Desk
 12/26 - Wizard's Desk
 12/28 - PKSW Ornament 
@@ -81,6 +76,7 @@
 01/05 - Dungeon Accessories - Toro Lanterns
 01/07 - Undermountain - Print 3
 01/09 - Undermountain - Print 4
+01/11 - Dungeon Accessories - Cages
 
 # Current
 
@@ -145,7 +141,75 @@ tournament...
 
 
 
+## Gift Boxes
 
+A few gift boxes for small presents.
+
+https://www.instagram.com/p/BdD2TJdAudw/?taken-by=dwyerdevices
+
+
+**Source**: [Christmas Gift Box](https://www.thingiverse.com/thing:197159)
+**Maker**: [muddtt](https://www.thingiverse.com/muddtt)
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Models**:
+
+ - [Top](https://www.thingiverse.com/download:368891)
+ - [Bottom](https://www.thingiverse.com/download:368890)
+ - [Ribbon](https://www.thingiverse.com/download:368889)
+
+**Material**:
+
+ - Inland Peak Green PLA 1.75mm
+ 
+**Print Date**: 2017/12/23
+**Print Time**:
+
+ - 60% scale
+  - Ribbon: 
+  - Top: 26 minutes
+  - Bottom: 28 minutes
+ - Gift Card Box - 100% scale
+  - bottom:
+  - top:
+  - ribbon
+  
+**Estimated Print Time**:
+
+ - 60% scale
+  - Ribbon: 3 minutes
+  - Top: 26 minutes
+  - Bottom: 26 minutes
+ - Gift Card Box - 100% scale
+  - bottom: 1 hour 24 minutes
+  - top: 1 hour 32 minutes
+  - ribbon: 8 minutes
+
+**Estimated Filament**:
+
+ - 60% scale
+  - Ribbon: 12.1 cm
+  - Top: 2.7 meters
+  - Bottom: 2.7 meters
+ - Gift Card Box - 100% scale
+  - bottom: 9.8 meters
+  - top: 11.8 meters
+  - ribbon: 68.6 cm
+
+**Slicer**: PrusaControl
+**Slicer Settings**:
+
+ - 0.30mm layers
+ - 20% infill
+ - 60% Scale
+ - Rotated for better printing
+ - Bottom
+  - No Brim
+  - No Supports
+  - Rotate 270° around X axis
+ - Top
+  - No Brim
+  - Supports from Bed
+  - Rotate 90° around X axis
 
 ## Squishy Owl
 
@@ -160,6 +224,8 @@ https://www.instagram.com/p/Bbz048DAeHb/?taken-by=dwyerdevices
 
 Trying a small second version with a few extra layers, sliced in Slic3r so I can better control a few
 things. Well, that resulted in nothing printed, and a bundle of twisted and wasted filament.
+
+https://www.instagram.com/p/BdDmv9zAhJQ/?taken-by=dwyerdevices
 
 Adding a tophat to see if we can cover up the spotty quality on the top of the owl's head.
 
@@ -184,17 +250,20 @@ Adding a tophat to see if we can cover up the spotty quality on the top of the o
 **Print Time**: 
 
  - Owl: 4 hours 10 minutes
- - Top Hat: 
+ - Top Hat: failed
+ - Top Hat (PLA): 33 minutes
  
 **Estimated Print Time**: 
 
  - Owl: 4 hours 13 minutes
  - Top Hat: 26 minutes
+ - Top Hat (PLA): 31 minutes
  
 **Estimated Filament**: 
 
  - Owl: 8.9 meters
  - Top Hat: 80.6 cm
+ - Top Hat (PLA): 1 meter
  
 **Slicer**: PrusaControl
 **Slicer Settings**:
@@ -213,7 +282,12 @@ Adding a tophat to see if we can cover up the spotty quality on the top of the o
   - material setting: Flex - Shore A85 - A98
   - scale: 500%
   - live adjust z: +0.750mm
-
+ - Top Hat (PLA)
+  - 0.15mm layers
+  - 20% infill
+  - no brim
+  - supports on bed
+  - scale: 600%
 
 
 
@@ -224,6 +298,8 @@ Finished Printing: https://www.instagram.com/p/BcZsU12AEXi/?taken-by=dwyerdevice
 
 Glowing: https://www.instagram.com/p/BcbGnJ0ATAO/?taken-by=dwyerdevices
 
+Finished: https://www.instagram.com/p/BdD3q5XgvnB/?taken-by=dwyerdevices
+
 **Source**: [Glowing Moon](https://www.thingiverse.com/thing:2531838)
 **Maker**: [Brandonzhun](https://www.thingiverse.com/Brandonzhun)
 **License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
@@ -233,22 +309,31 @@ Glowing: https://www.instagram.com/p/BcbGnJ0ATAO/?taken-by=dwyerdevices
 **Print Time**:
 
  - Top: 30 hours 31 minutes
+ - Pedestal: 1 hour 22 minutes
  
 **Estimated Print Time**:
 
  - Top: 29 hours 39 minutes (Cura estimate)
+ - Pedestal: 1 hour 34 minutes
 
 **Estimated Filament**: 
 
  - Top: 99.71 meters (Cura estimate)
+ - Pedestal: 12.9 meters
 
 **Slicer**: PrusaControl/Slic3r
 **Slicer Settings**:
 
- - 0.20mm layers
- - 20% infill
- - supports from build plate only
- - no brim
+ - Moon
+  - 0.20mm layers
+  - 20% infill
+  - supports from build plate only
+  - no brim
+ - Pedestal
+  - 0.30mm layers
+  - 10% infill
+  - no brim
+  - no supports
 
  
 ## GITS Logo
@@ -299,10 +384,45 @@ hotend set itself for 0°.
 
 
 
+## 3 km Coin
 
+https://www.instagram.com/p/Bcxiksug6yP/?taken-by=dwyerdevices
 
+**Print Date**: 2017/12/16
 
-  
+**Print Time**: 
+
+**Estimated Print Time**: 45 minutes
+
+**Estimated Filament**: 1.6 meters
+
+**Slicer**: PrusaControl
+
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 20% infill
+ - no supports
+ - no brim
+ 
+
+## Space Ship Token
+
+https://www.instagram.com/p/BcqhDntAQ7Z/?taken-by=dwyerdevices
+
+**Source**: https://www.thingiverse.com/thing:20872
+**Scale**: 25% original
+**Print Date**: 2017/12/13
+**Print Time**: 15 minutes
+**Estimated Print Time**: 12 minutes
+**Estimated Filament**: 35.4 centimeters
+**Slicer**: Prusa Control
+**Slicer Settings**:
+
+ - 0.20mm layers  
+ - 20% infill
+ - supports from build plate
+ 
 ## Seven Oases
 
 
@@ -315,43 +435,134 @@ What leads from the portal to the city?
 
 ### Print 2 - Canal Test
 
+A tile set of Canals - Embankments and water tiles that snap-fit to keep larger arrangements
+together more easily. This set builds on the [smooth stone tiles](https://www.thingiverse.com/thing:234325) of [devonjones](https://www.thingiverse.com/devonjones) for the
+embankments. Mostly compatible with OpenForge.
+
+https://www.instagram.com/p/Bc8bcybgpB8/?taken-by=dwyerdevices
+
+For this tile set I wanted to transition from embankment to water partway through a tile square,
+with part of the tile filled with embankment, and part with water. The embankment tile corners and
+edges are designed with this in mind.
+
+https://www.instagram.com/p/Bc8bDAbAhjj/?taken-by=dwyerdevices
+
+https://www.instagram.com/p/Bc8bLWGgN4O/?taken-by=dwyerdevices
+
+The embankment tiles have multiple snap fit points, so each tile is easy to fit into any 
+arrangement of water. For bodies of water wider that 5 squares, or for joining multiple canals
+together, there are water tiles with snap fit connectors at a single end, so the end without
+a snap-fit connector can abut another water tile, or any other type of tile. 
+
+https://www.instagram.com/p/BcvbOw4Adfs/?taken-by=dwyerdevices
+
+First version of the design has problems when fitting corners together - the overlaps just don't
+work:
+
+https://www.instagram.com/p/BcjGKL3geLl/?taken-by=dwyerdevices
+
+This design went through a fairly quick evolution, from a simple fit, to
+individual snap-fit guides, to the current snap-fit design:
+
+https://www.instagram.com/p/Bcvaiyegy_G/?taken-by=dwyerdevices
+
+I ended up with a snap-fit design that allows for water tiles to be fit in easily
+at any offset along the tile edge:
+
+https://www.instagram.com/p/BdDhE-rA-jS/?taken-by=dwyerdevices
+
+
 **Sources**:
-
- - [OpenForge 2.0 Brick Sidewalks and Straight Curbs](https://www.thingiverse.com/thing:2603798)
- - [OpenForge Smooth Floor Tile](https://www.thingiverse.com/thing:234325)
- 
-**Original Licenses**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/) 
-
-**Original Maker**: [devonjones](https://www.thingiverse.com/devonjones)
+ - [Canals Tile Set](https://www.thingiverse.com/thing:2728706)
+ - Embankment base stone tile:
+  - Source: [OpenForge Smooth Floor Tile](https://www.thingiverse.com/thing:234325)
+  - Maker: [devonjones](https://www.thingiverse.com/devonjones)
+  - License: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/) 
+  
+**Licenses**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/) 
 
 **Materials**:
 
- - PLA
+ - Inland Egyptian Blue PLA 1.75mm
+ - Inland Gray PLA 1.75mm
  
 **Models**:
 
- - [Canal - 2x2 embankment.stl]()
- - [Canal - 2x3 water.stl]()
+ - [All Files](https://www.thingiverse.com/thing:2728706/zip)
 
-**Print Date**:
+**Print Date**: 2017/12/10 - 2017/12/20
 
 **Print Time**:
 
- - 2x2 brick embankment: 
- - 2x2 smooth embankment
- - 2x3 water: 
- 
+ - 2x1 smooth embankment: 34 minutes
+ - 2x2 smooth embankment: 1 hour 11 minutes
+ - 2x3 smooth embankment: 1 hour 36 minutes
+ - 2x4 smooth embankment: 2 hours 10 minutes
+ - 2x2 concave corner: 1 hour 10 minutes
+ - 2x2 concave corner B: 1 hour 11 minutes
+ - 3x3 concave corner: 2 hours 15 minutes
+ - 2x2 convex corner:  1 hour 3 minutes
+ - 3x3 convex corner: 2 hours 10 minutes
+ - 2x1 water: 53 minutes
+ - 2x2 water: 1 hour 10 minutes
+ - 2x3 water: 1 hour 37 minutes
+ - 2x4 water: 1 hour 57 minutes
+ - 2x5 water: 2 hours 20 minutes
+ - 2x1 water - single connector: 35 minutes
+ - 2x2 water - single connector: 1 hour 1 minute
+ - 2x3 water - single connector: 1 hour 22 minutes
+ - 2x4 water - single connector: 1 hour 45 minutes
+ - 2x5 water - single connector: 2 hours 3 minutes
+ - 2x2 water - no connectors: 49 minutes
+ - 3x3 water - no connectors: 1 hour 37 minutes
+   
 **Estimated Print Time**:
 
- - 2x2 embankment: 1 hour 3 minutes
- - 2x2 smooth embankment: 59 minutes
- - 2x3 water: 1 hour 5 minutes
+ - 2x1 smooth embankment: 33 minutes
+ - 2x2 smooth embankment: 1 hour 9 minutes
+ - 2x3 smooth embankment: 1 hour 35 minutes
+ - 2x4 smooth embankment: 2 hours 5 minutes
+ - 2x2 concave corner: 1 hour 6 minutes
+ - 2x2 concave corner B: 1 hour 7 minutes
+ - 3x3 concave corner: 2 hours 7 minutes
+ - 2x2 convex corner: 59 minutes
+ - 3x3 convex corner: 2 hours 11 minutes
+ - 2x1 water: 50 minutes
+ - 2x2 water: 1 hour 10 minutes
+ - 2x3 water: 1 hour 33 minutes
+ - 2x4 water: 1 hour 54 minutes
+ - 2x5 water: 2 hours 14 minutes
+ - 2x1 water - single connector: 33 minutes
+ - 2x2 water - single connector: 58 minutes
+ - 2x3 water - single connector: 1 hour 17 minutes
+ - 2x4 water - single connector: 1 hour 41 minutes
+ - 2x5 water - single connector: 1 hour 58 minutes
+ - 2x2 water - no connectors: 40 minutes
+ - 3x3 water - no connectors: 1 hour 32 minutes
  
 **Estimated Filament**:
 
- - 2x2 embankment: 3.9 meters
- - 2x2 smooth embankment: 4.2 meters
- - 2x3 water: 4.1 meters
+ - 2x1 smooth embankment: 2.2 meters
+ - 2x2 smooth embankment: 4.3 meters
+ - 2x3 smooth embankment: 6.4 meters
+ - 2x4 smooth embankment: 8.5 meters
+ - 2x2 concave corner: 4.5
+ - 2x2 concave corner B: 4.5 meters
+ - 3x3 concave corner: 8.9 meters
+ - 2x2 convex corner:  3.8 meters
+ - 3x3 convex corner: 9.1 meters
+ - 2x1 water: 3.1 meters
+ - 2x2 water: 4.4 meters
+ - 2x3 water: 5.7 meters
+ - 2x4 water: 7 meters
+ - 2x5 water: 8.3 meters
+ - 2x1 water - single connector: 2.1 meters
+ - 2x2 water - single connector: 3.5 meters
+ - 2x3 water - single connector: 4.8 meters
+ - 2x4 water - single connector: 6.1 meters
+ - 2x5 water - single connector: 7.4 meters
+ - 2x2 water - no connectors: 2.5 meters
+ - 3x3 water - no connectors: 5.8 meters
  
 **Slicer**: PrusaControl
 
@@ -391,40 +602,7 @@ evils that were foretold to conquer the Undermountain.
 
  
 
-### Cages
 
-100% scale = 2x2 tile
-150% scale = 3x3 tile
-
-**Source**: [Jail Cage](https://www.thingiverse.com/thing:1830752)
-**Maker**: [errius](https://www.thingiverse.com/errius)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Model**: [Cage_2x2x2.stl](https://www.thingiverse.com/download:2856543)
-**Material**:
-**Print Date**:
-**Print Time**:
-
- - 100% scale: 
- - 150% scale:
- 
-**Estimated Print Time**:
-
- - 100% scale: 2 hours 14 minutes
- - 150% scale: 5 hours 20 minutes
- 
-**Estimated Filament**:
-
- - 100% scale: 9.75 meters
- - 150% scale: 26.6 meters
- 
-**Slicer**: Slic3r
-**Slicer Settings**:
-
- - 0.20mm layers
- - 50% infill
- - no brim
- - include supports
- 
 
  
 ## Undermountain Dungeon
