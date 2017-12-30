@@ -14,7 +14,9 @@
  - [ ] add twitter and instagram links to page header on dwyerdevices
  - [ ] add featured images for old posts
  - [ ] fix displayed name for posts (shows dwyepasdfasdfasdf something right now)
- 
+ - hex bugs track
+ - blue track extensions
+ - 
 
 # To design
 
@@ -32,12 +34,12 @@
   
 # To slice
 
- - city in the sky lion portal
+
  - tiles in pla (smooth stone 2x2, walls 2x2, doors) for undermountain
  
 # Transfer to sdcard
  
-  
+ 
 # To Print from card
 
  
@@ -53,6 +55,8 @@
  
 # To Post
 
+ - city in the sky - griffin portal
+ - dungeon accessories - griffin
  - squishy owl
  - Ornament Tests
  - Undermountain print 4, 5, 6
@@ -60,12 +64,10 @@
  - rocket tokens
  - Canals of City in the Sky
  - Moon
+ - xmas boxes
  
 # Scheduled Posts
 
-
-12/24 - Alchemist's Desk
-12/26 - Wizard's Desk
 12/28 - PKSW Ornament 
 12/30 - Intersecting Tetrahedra - Outdoor Ornament
 
@@ -83,7 +85,6 @@
  - dragon's horde
  - Seven Oasis' - Landing site
  - City in the Sky - Landing site
- - Big Totem build
  - Glue test - Aleene's Original
  - Glue test - pick more glues
  - Glue test - print pieces
@@ -145,7 +146,16 @@ tournament...
 
 A few gift boxes for small presents.
 
+The scaled down version was intended for small gifts, like jewelry, but ended up
+being very hard to close, and even harder to open. Seems like the mixture of scaling
+and print quality didn't lend itself to the original tolerances between the top and
+bottom of the box.
+
 https://www.instagram.com/p/BdD2TJdAudw/?taken-by=dwyerdevices
+
+The Gift Card size box turns out to be fairly quick to print, and well sized for
+jewelry:
+
 
 
 **Source**: [Christmas Gift Box](https://www.thingiverse.com/thing:197159)
@@ -156,10 +166,14 @@ https://www.instagram.com/p/BdD2TJdAudw/?taken-by=dwyerdevices
  - [Top](https://www.thingiverse.com/download:368891)
  - [Bottom](https://www.thingiverse.com/download:368890)
  - [Ribbon](https://www.thingiverse.com/download:368889)
+ - [Gift Box Top](https://www.thingiverse.com/download:372602)
+ - [Gift Box Bottom](https://www.thingiverse.com/download:372601)
 
 **Material**:
 
  - Inland Peak Green PLA 1.75mm
+ - Hatchbox Red PLA 1.75mm
+ - Prusa White PLA 1.75mm
  
 **Print Date**: 2017/12/23
 **Print Time**:
@@ -290,7 +304,104 @@ Adding a tophat to see if we can cover up the spotty quality on the top of the o
   - scale: 600%
 
 
+## RPG Tools
 
+The models of the RPG Tools Kickstarter have come through, and we're printing up as many
+as we can.
+
+
+### Airship
+
+Why not start with an airship? This is a large, multi-part model that will take some time
+to piece together.
+
+**Source**: RPG Tools
+
+**Materials**:
+
+ - Inland Light Brown PLA 1.75mm
+ 
+**Models**:
+
+ - Base center third - straight middle deck:
+ - Base front third - pointed
+ - Base rear third
+ 
+**Print Date**: 2017/12/28 - 
+
+**Print Time**:
+
+ - Base center third:
+ - Base front third:
+ - Base rear third: 
+ 
+**Estiamted Print Time**:
+
+ - Base center third: 5 hours 41 minutes
+ - Base front third: 9 hours 52 minutes
+ - Base rear third: 16 hours 6 minutes
+
+**Estimated Filament**:
+
+ - Base center third: 41 meters
+ - Base front third: 76 meters
+ - Base rear third: 129 meters
+
+**Slicer**: Slic3r/Cura 3
+
+**Slicer Settings**:
+
+ - PLA
+ - 0.20mm layers
+ - 20% infill
+ - Include Supports
+ - No Brim
+ 
+## Lotsa Boxes
+
+Screw Box: https://www.thingiverse.com/thing:312717/#files
+
+Box x4
+
+0.3mm layers
+15% infill
+no supports
+no brim
+
+PLA
+
+Time E: 3 hours 39 minutes
+Time A: 
+Fil E: 22.6 meters
+
+## Hex Bugs curve
+
+https://www.thingiverse.com/thing:2138143/#files
+
+Cura
+0.20mm layers
+20% infill
+PLA
+
+## Hex Bugs alternate
+
+https://www.thingiverse.com/thing:330741/#files
+
+
+
+## Iris Box
+
+https://www.thingiverse.com/thing:1811143/#files
+
+Print: 2017/12/27
+Est T: 8 hours 28 minutes
+Act T
+Est F: 49.3 meters
+
+Slic3r
+0.20mm layers
+20% infill
+PLA
 
 ### Alternate Moon - the Glowing Moon
 
@@ -573,27 +684,33 @@ https://www.instagram.com/p/BdDhE-rA-jS/?taken-by=dwyerdevices
  - no brim
  - supports from bed only
 
-### Print 1 - Lion Portal
+### Print 1 - Griffin Portal
 
-Lions watch over the Undermountain Portal in the City in the Sky, guarding against the
+Griffins watch over the Undermountain Portal in the City in the Sky, guarding against the
 evils that were foretold to conquer the Undermountain.
 
-**Source**: 
-**Maker**: [devonjones](https://www.thingiverse.com/devonjones)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Model**: Lion_Statue_2x4.stl
-**Material**: Inland Gray ABS 1.75mm
-**Print Date**: 2017/10/23
+90% - 2x2 griffin
+
+**Source**: [Griffin Sculpture](https://www.thingiverse.com/thing:1453995)
+**Maker**: [3DWP](https://www.thingiverse.com/3DWP)
+**License**: [Creative Commons - Attribution - Share-alike - Non-commercial](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [GriffinSculpture.stl](https://www.thingiverse.com/download:2254678)
+**Scale**: 90%
+**Material**: 
+
+ - 
+ 
+**Print Date**: 2017/12/
 **Print Time**:
-**Estimated Print Time**: 1 hour 54 minutes
-**Estimated Filament**: 21.2 meters
-**Slicer**: PrusaControl
+**Estimated Print Time**: 2 hours 54 minutes
+**Estimated Filament**: 17.9 meters
+**Slicer**: Slic34
 **Slicer Settings**:
 
- - 0.35mm layers
- - 10% infill
- - Supports Everywhere
- - Include Brim
+ - 0.20mm layers
+ - 20% Infill
+ - Generate Supports
+ - 90% scale
  
 
  
@@ -601,8 +718,34 @@ evils that were foretold to conquer the Undermountain.
 
 
  
+### Small Griffins
 
+One of the environments in an upcoming adventure is dotted with statues of griffins - the symbol
+of the once glorius City in the Sky.
 
+Slic3r couldn't handle the complex GCode when it was time to estimate filament and print
+time, so I've switched over to Cura for slicing this print.
+
+**Source**: [Griffin Sculpture](https://www.thingiverse.com/thing:1453995)
+**Maker**: [3DWP](https://www.thingiverse.com/3DWP)
+**License**: [Creative Commons - Attribution - Share-alike - Non-commercial](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [GriffinSculpture.stl](https://www.thingiverse.com/download:2254678)
+**Scale**: 50%
+**Material**:
+ 
+ - Hatchbox Red PLA 1.75mm
+
+**Print Date**: 2017/12/24 -
+**Print Time**:
+**Estimated Print Time**: 59 minutes
+**Estimated Filament**: 4.1 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - Generate Support
+ - 50% original scale
+ - Enable gradual infill
 
  
 ## Undermountain Dungeon
