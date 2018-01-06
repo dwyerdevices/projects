@@ -36,49 +36,56 @@
 
 
  - tiles in pla (smooth stone 2x2, walls 2x2, doors) for undermountain
+ - airship - wings
+ - airship - engines
+ - airship - masts
+ - more hexbug tracks
  
 # Transfer to sdcard
  
  
+ 
 # To Print from card
 
+ - Air ship - front half
+ 
  
 # To Finish
 
+ - utility airship
  
 # To Instagram
 
  - gits logo
-
+ - airship errors
+ 
 # To post to Thingiverse
  
  
 # To Post
 
- - city in the sky - griffin portal
- - dungeon accessories - griffin
  - squishy owl
  - Ornament Tests
  - Undermountain print 4, 5, 6
   - vortex pool
  - rocket tokens
  - Canals of City in the Sky
- - Moon
+ - Glowing Moon
  - xmas boxes
+ - iris box fail
+ - air ship fail
  
 # Scheduled Posts
 
-12/28 - PKSW Ornament 
-12/30 - Intersecting Tetrahedra - Outdoor Ornament
-
-2018
-
-01/01 - Moon Lamp - Failures
-01/03 - Dungeon Accessories - Beds
-01/05 - Dungeon Accessories - Toro Lanterns
 01/07 - Undermountain - Print 3
 01/09 - Undermountain - Print 4
 01/11 - Dungeon Accessories - Cages
+01/13 - City in the Sky - Print 1
+01/15 - Dungeon Accessories - Griffins
+01/17 - HexBugs Curved Track
+01/19 - Lotsa Boxes
+01/21 - Gift Boxes
+01/23 - Squishy Owl
 
 # Current
 
@@ -106,202 +113,122 @@ Wait - we have gcode on the SDCard!
 
 
 
-## Ornament Tests
-
-Testing out various ornaments in the run up to the holiday season. I want to find one
-that is interesting, but quick to print, and easy to cleanup. It's a bit of an ornament
-tournament...
 
 
-#### Ornament With Stars
 
-**Source**: [Ornament with Stars](https://www.thingiverse.com/thing:1119768)
-**Maker**: [pmoews](https://www.thingiverse.com/pmoews)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Model**: [ornament_with_stars.stl](https://www.thingiverse.com/download:1758736)
+## Catan Tiles
+
+Models:
+
+ - Wood Harvested
  
-
-#### Icosahedral Christmas Ornaments
-
-**Source**: [Icosahedral Christmas Ornaments](https://www.thingiverse.com/thing:1131905)
-**Maker**: [pmoews](https://www.thingiverse.com/pmoews)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Models**: 
- 
- - [caged_dodeca.stl](https://www.thingiverse.com/download:1777123)
- - [caged_stellated_dodeca.stl](https://www.thingiverse.com/download:1777121)
+https://www.thingiverse.com/thing:1132283/#files
 
 
- 
-#### Ornament of Ten Tetrahedra
+### Attempt 1 
 
-**Source**: [Ornament of Ten Tetrahedra](https://www.thingiverse.com/thing:203610)
-**Maker**: [pmoews](https://www.thingiverse.com/pmoews)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Model**: [compound_of_ten_tetrahedra.stl](https://www.thingiverse.com/download:379621)
+Failure. Great base and pedestal, but the trees and wood hut were a mess.
+
+0.15mm layers
+15% infill
+No Brim
+2018/01/03
+Est P: 2 hours 53 minutes
+Est F: 6 meters
+Act P: 3 hours ? minutes
+Slicer: Slic3r
+
+### Attempt 2
+
+Failure. Still good base and pedestal, still a mess in the trees...
+
+0.20mm layers
+50% infill
+2018/01/04
+no brim
+detect thin walls
+extra perimters if needed
+Est P: 2 hours 34 minutes
+Est F: 7.3 meters
+Act P:
+Slicer: Slic3r
+
+### Attempt 3
+
+Gorgeous print, trying it at 0.15mm layers to see if it gets better.
+
+0.20mm layers
+50% infill
+2018/01/04
+no brim
+no supports
+Est P: 2 hours 34 minutes
+Est F: 7.3 meters
+Act P:
+Slicer: Cura 3
+
+### Attempt 4
+
+Wood Harvested:
+
+0.15mm layers
+50% infill
+2018/01/04
+no brim
+no supports
+Est P: 3 hours 20 minutes
+Est F: 7.6 meters
+Act P:
+Slicer: Cura 3
+
+Sheep 1:
+
+Est P: 2 hours 18 minutes
+Est F: 6.5 meters
+Act P: 2 hours
+
+## Magnetic Catan Tiles
+
+https://www.thingiverse.com/thing:1238980
+
+Wool 1:
+
+0.15mm layers
+50% infill
+2018/01/05
+no brim
+no supports
+Est P: 3 hours 18 minutes
+Est F: 11.4 meters
+Act P:
+Slicer: Cura 3
+
+## Interlock Catan Tiles
+
+Interlocking version of the [Magnetic catan tiles](https://www.thingiverse.com/thing:1238980)
+
+https://www.thingiverse.com/thing:2035221
+
+Wool 2:
+
+0.15mm layers
+50% infill
+2018/01/05
+no brim
+no supports
+Est P: 3 hours 14 minutes 
+Est F: 11.5 meters
+Act P:
+Slicer: Cura 3
+
+Wood 1:
+
+2018/01/05
+Est P: 4 hours 25 minutes
+Est F: 12.5 meters
+Act P:
 
 
-
-## Gift Boxes
-
-A few gift boxes for small presents.
-
-The scaled down version was intended for small gifts, like jewelry, but ended up
-being very hard to close, and even harder to open. Seems like the mixture of scaling
-and print quality didn't lend itself to the original tolerances between the top and
-bottom of the box.
-
-https://www.instagram.com/p/BdD2TJdAudw/?taken-by=dwyerdevices
-
-The Gift Card size box turns out to be fairly quick to print, and well sized for
-jewelry:
-
-
-
-**Source**: [Christmas Gift Box](https://www.thingiverse.com/thing:197159)
-**Maker**: [muddtt](https://www.thingiverse.com/muddtt)
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-**Models**:
-
- - [Top](https://www.thingiverse.com/download:368891)
- - [Bottom](https://www.thingiverse.com/download:368890)
- - [Ribbon](https://www.thingiverse.com/download:368889)
- - [Gift Box Top](https://www.thingiverse.com/download:372602)
- - [Gift Box Bottom](https://www.thingiverse.com/download:372601)
-
-**Material**:
-
- - Inland Peak Green PLA 1.75mm
- - Hatchbox Red PLA 1.75mm
- - Prusa White PLA 1.75mm
- 
-**Print Date**: 2017/12/23
-**Print Time**:
-
- - 60% scale
-  - Ribbon: 
-  - Top: 26 minutes
-  - Bottom: 28 minutes
- - Gift Card Box - 100% scale
-  - bottom:
-  - top:
-  - ribbon
-  
-**Estimated Print Time**:
-
- - 60% scale
-  - Ribbon: 3 minutes
-  - Top: 26 minutes
-  - Bottom: 26 minutes
- - Gift Card Box - 100% scale
-  - bottom: 1 hour 24 minutes
-  - top: 1 hour 32 minutes
-  - ribbon: 8 minutes
-
-**Estimated Filament**:
-
- - 60% scale
-  - Ribbon: 12.1 cm
-  - Top: 2.7 meters
-  - Bottom: 2.7 meters
- - Gift Card Box - 100% scale
-  - bottom: 9.8 meters
-  - top: 11.8 meters
-  - ribbon: 68.6 cm
-
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - 0.30mm layers
- - 20% infill
- - 60% Scale
- - Rotated for better printing
- - Bottom
-  - No Brim
-  - No Supports
-  - Rotate 270° around X axis
- - Top
-  - No Brim
-  - Supports from Bed
-  - Rotate 90° around X axis
-
-## Squishy Owl
-
-The test print of the NinjaFlex went smoothly, so onto the squishy owl. This is a Christmas present
-for the 5 year old.
-
-A few false starts, and some fiddling with live z-tuning, and things were printing well. The first print
-is nearly perfect, except for the top of the head, where there are too few layers, and too big of a gap
-to bridge:
-
-https://www.instagram.com/p/Bbz048DAeHb/?taken-by=dwyerdevices
-
-Trying a small second version with a few extra layers, sliced in Slic3r so I can better control a few
-things. Well, that resulted in nothing printed, and a bundle of twisted and wasted filament.
-
-https://www.instagram.com/p/BdDmv9zAhJQ/?taken-by=dwyerdevices
-
-Adding a tophat to see if we can cover up the spotty quality on the top of the owl's head.
-
-**Source**: 
-
- - [Owl Figurine](https://www.thingiverse.com/thing:1996375)
- - [Top Hat, curved brim](https://www.thingiverse.com/thing:131657)
- 
-**Maker**: 
-
- - Owl: [LuluPaw](https://www.thingiverse.com/LuluPaw)
- - Top Hat: [IonEwe](https://www.thingiverse.com/IonEwe)
- 
-**License**: 
-
- - Owl: [Creative Commons - Attribution - Non-commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
- - Top Hat: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
- 
-**Model**: [owl-print.stl](https://www.thingiverse.com/download:3121654)
-**Material**: NinjaFlex Grass 1.75mm
-**Print Date**: 2017/11/22
-**Print Time**: 
-
- - Owl: 4 hours 10 minutes
- - Top Hat: failed
- - Top Hat (PLA): 33 minutes
- 
-**Estimated Print Time**: 
-
- - Owl: 4 hours 13 minutes
- - Top Hat: 26 minutes
- - Top Hat (PLA): 31 minutes
- 
-**Estimated Filament**: 
-
- - Owl: 8.9 meters
- - Top Hat: 80.6 cm
- - Top Hat (PLA): 1 meter
- 
-**Slicer**: PrusaControl
-**Slicer Settings**:
-
- - Owl
-  - 0.20mm layers
-  - 0% infill / hollow
-  - no brim
-  - no supports
-  - material setting: Flex - Shore A85 - A98
- - Top Hat
-  - 0.20mm layers SemiFlex or Flexfill
-  - 20% infill
-  - no brim
-  - supports (pillars)
-  - material setting: Flex - Shore A85 - A98
-  - scale: 500%
-  - live adjust z: +0.750mm
- - Top Hat (PLA)
-  - 0.15mm layers
-  - 20% infill
-  - no brim
-  - supports on bed
-  - scale: 600%
 
 
 ## RPG Tools
@@ -315,6 +242,12 @@ as we can.
 Why not start with an airship? This is a large, multi-part model that will take some time
 to piece together.
 
+
+First prints took a bit more than 2x longer than expected, and it looks like the models had
+surface normalization issues prior to slicing, with large chunks of the three base pieces missing
+in the printed versions. Salvagable, but we'll need to fix the files and reprint for a
+full version of the airship.
+
 **Source**: RPG Tools
 
 **Materials**:
@@ -326,26 +259,41 @@ to piece together.
  - Base center third - straight middle deck:
  - Base front third - pointed
  - Base rear third
+ - Base rear half
+ - Base front half
+ - Wing #2 - Left
+ - Wing #2 - Right
+ - Rear Turbine - Left
+ - Rear Turbine - Right
  
-**Print Date**: 2017/12/28 - 
+**Print Date**: 2017/12/28 - 2017/1/
 
 **Print Time**:
 
- - Base center third:
- - Base front third:
- - Base rear third: 
+ - Base center third: 12 hours 1 minute
+ - Base front third: 13 hours 5 minutes
+ - Base rear third: 27 hours 16 minutes
+ - Rear Half: 37 hours 19 minutes
+ - Front Half: 20 hours 22 minutes
+ - Turbines: 6 hours 41 minutes
  
 **Estiamted Print Time**:
 
  - Base center third: 5 hours 41 minutes
  - Base front third: 9 hours 52 minutes
  - Base rear third: 16 hours 6 minutes
+ - Rear Half: 37 hours 30 minutes
+ - Front Half: 20 hours 56 minutes
+ - Turbines: 3 hours 49 minutes
 
 **Estimated Filament**:
 
  - Base center third: 41 meters
  - Base front third: 76 meters
  - Base rear third: 129 meters
+ - Rear Half: 180.6 meters
+ - Front Half: 93.5 meters
+ - Turbines: 11.8 meters
 
 **Slicer**: Slic3r/Cura 3
 
@@ -356,34 +304,16 @@ to piece together.
  - 20% infill
  - Include Supports
  - No Brim
+ - detect thin walls
+ - extra perimeters if needed
  
-## Lotsa Boxes
 
-Screw Box: https://www.thingiverse.com/thing:312717/#files
 
-Box x4
 
-0.3mm layers
-15% infill
-no supports
-no brim
-
-PLA
-
-Time E: 3 hours 39 minutes
-Time A: 
-Fil E: 22.6 meters
-
-## Hex Bugs curve
-
-https://www.thingiverse.com/thing:2138143/#files
-
-Cura
-0.20mm layers
-20% infill
-PLA
 
 ## Hex Bugs alternate
+
+Not yet printed
 
 https://www.thingiverse.com/thing:330741/#files
 
@@ -501,7 +431,7 @@ https://www.instagram.com/p/Bcxiksug6yP/?taken-by=dwyerdevices
 
 **Print Date**: 2017/12/16
 
-**Print Time**: 
+**Print Time**: 50 minutes
 
 **Estimated Print Time**: 45 minutes
 
@@ -684,68 +614,13 @@ https://www.instagram.com/p/BdDhE-rA-jS/?taken-by=dwyerdevices
  - no brim
  - supports from bed only
 
-### Print 1 - Griffin Portal
-
-Griffins watch over the Undermountain Portal in the City in the Sky, guarding against the
-evils that were foretold to conquer the Undermountain.
-
-90% - 2x2 griffin
-
-**Source**: [Griffin Sculpture](https://www.thingiverse.com/thing:1453995)
-**Maker**: [3DWP](https://www.thingiverse.com/3DWP)
-**License**: [Creative Commons - Attribution - Share-alike - Non-commercial](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-**Model**: [GriffinSculpture.stl](https://www.thingiverse.com/download:2254678)
-**Scale**: 90%
-**Material**: 
-
- - 
- 
-**Print Date**: 2017/12/
-**Print Time**:
-**Estimated Print Time**: 2 hours 54 minutes
-**Estimated Filament**: 17.9 meters
-**Slicer**: Slic34
-**Slicer Settings**:
-
- - 0.20mm layers
- - 20% Infill
- - Generate Supports
- - 90% scale
- 
 
  
 ## Dungeon Accessories
 
 
  
-### Small Griffins
 
-One of the environments in an upcoming adventure is dotted with statues of griffins - the symbol
-of the once glorius City in the Sky.
-
-Slic3r couldn't handle the complex GCode when it was time to estimate filament and print
-time, so I've switched over to Cura for slicing this print.
-
-**Source**: [Griffin Sculpture](https://www.thingiverse.com/thing:1453995)
-**Maker**: [3DWP](https://www.thingiverse.com/3DWP)
-**License**: [Creative Commons - Attribution - Share-alike - Non-commercial](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-**Model**: [GriffinSculpture.stl](https://www.thingiverse.com/download:2254678)
-**Scale**: 50%
-**Material**:
- 
- - Hatchbox Red PLA 1.75mm
-
-**Print Date**: 2017/12/24 -
-**Print Time**:
-**Estimated Print Time**: 59 minutes
-**Estimated Filament**: 4.1 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.20mm layers
- - Generate Support
- - 50% original scale
- - Enable gradual infill
 
  
 ## Undermountain Dungeon
