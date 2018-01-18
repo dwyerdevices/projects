@@ -44,7 +44,6 @@
  
 # Transfer to sdcard
  
- - chinese bo
  
 # To Print from card
 
@@ -75,8 +74,10 @@
  
  
 # To Post
+
+ - chinese bo
  - owl
- - terra-cotta warrior
+ - terra-cotta horse
  - Great Buddha
  - squishy owl
  - Ornament Tests
@@ -97,6 +98,8 @@
 01/25 - Airship 1 - Model Errors
 01/27 - Min Temp Fail
 01/29 - Bestiary - Giant Owl
+01/31 - Terracotta Army - Warrior 4
+02/02 - Terracotta Army - Horse
 
 # Current
 
@@ -124,6 +127,8 @@ Wait - we have gcode on the SDCard!
 
 
 ## Chinese Bo - Warring States Period
+
+https://www.instagram.com/p/BeD3xx-gHK2/?taken-by=dwyerdevices
 
 **Source**: [Bronze Bo at the British Museum](https://www.myminifactory.com/object/bronze-bell-bo-at-the-british-museum-london-15973)
 **Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
@@ -587,56 +592,10 @@ Slicer Settings:
  
 ## Terracotta Warriors
 
-### Warrior 4
 
-**Source**: [Warrior 4 - Terracotta Army](https://www.myminifactory.com/object/warrior-4-terracotta-army-at-emperor-qinshihuang-s-mausoleum-site-museum-china-7149)
-
-**Maker**: [Scan the World](https://www.myminifactory.com/category/scan-the-world)
-
-**License**: [Download - Print - Maintain - Share - Attribution](https://www.myminifactory.com/pages/object-licensing)
-
-**Print Date**: 2018/01/13
-
-**Material**: PLA
-
-**Print Time**: 5 hours 38 minutes
-
-**Estimated Print Time**: 5 hours 40 minutes
-
-**Estimated Filament**: 18.2 meters
-
-**Slicer**: Cura 3
-
-**Slicer Settings**:
-
- - 0.15mm layers
- - Use supports
- - 20% infill
 
  
-### Horse
 
-**Source**: [Horse - Terracotta Arym](https://www.myminifactory.com/object/horse-terracotta-army-at-emperor-qinshihuang-s-mausoleum-site-museum-china-7150)
-
-**Maker**: [Scan the World](https://www.myminifactory.com/category/scan-the-world)
-
-**License**: [Download - Print - Maintain - Share - Attribution](https://www.myminifactory.com/pages/object-licensing)
-
-**Print Date**: 2018/01/
-
-**Print Time**:
-
-**Estimated Print Time**: 10 hours 35 minutes
-
-**Estimated Filament**: 32 meters
-
-**Slicer**: Cura 3
-
-**Slicer Settings**:
-
- - 0.15mm layers
- - Use supports
- - 20% infill
 
 
 ## RPG Tools
