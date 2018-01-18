@@ -102,6 +102,7 @@
 02/02 - Terracotta Army - Horse
 02/04 - Bronze Bo
 02/06 - 3km Coin
+02/08 - Space Ship Token
 
 # Current
 
@@ -805,25 +806,6 @@ hotend set itself for 0°.
 
 
 
- 
-
-## Space Ship Token
-
-https://www.instagram.com/p/BcqhDntAQ7Z/?taken-by=dwyerdevices
-
-
-**Source**: https://www.thingiverse.com/thing:20872
-**Scale**: 25% original
-**Print Date**: 2017/12/13
-**Print Time**: 15 minutes
-**Estimated Print Time**: 12 minutes
-**Estimated Filament**: 35.4 centimeters
-**Slicer**: Prusa Control
-**Slicer Settings**:
-
- - 0.20mm layers  
- - 20% infill
- - supports from build plate
  
 ## Seven Oases
 
