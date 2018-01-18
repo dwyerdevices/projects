@@ -8,6 +8,8 @@ Also printed in Red Copper PLA, the horse took significantly longer, particularl
 structures needed. The Warrior and Horse we're well received when the 10 year old brought them to class for a group
 project working session.
 
+**Blog Post**: [Terracotta Army - Horse](http://www.dwyerdevices.com/2018/02/02/terracotta-army-horse/)
+
 **Source**: [Horse - Terracotta Army](https://www.myminifactory.com/object/horse-terracotta-army-at-emperor-qinshihuang-s-mausoleum-site-museum-china-7150)
 
 **Maker**: [Scan the World](https://www.myminifactory.com/category/scan-the-world)

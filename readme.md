@@ -100,6 +100,7 @@
 01/29 - Bestiary - Giant Owl
 01/31 - Terracotta Army - Warrior 4
 02/02 - Terracotta Army - Horse
+02/04 - Bronze Bo
 
 # Current
 
@@ -126,26 +127,7 @@ Wait - we have gcode on the SDCard!
 **Test Date**: -
 
 
-## Chinese Bo - Warring States Period
 
-https://www.instagram.com/p/BeD3xx-gHK2/?taken-by=dwyerdevices
-
-**Source**: [Bronze Bo at the British Museum](https://www.myminifactory.com/object/bronze-bell-bo-at-the-british-museum-london-15973)
-**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
-**License**: [Download - Print - Maintain - Share - Attribute](https://www.myminifactory.com/pages/object-licensing)
-**Model**: [All Files]()
-**Material**: 
-**Final Size**: 98.0mm x 80.0mm x 128.0mm
-**Print Date**: 2018/01/16
-**Print Time**:
-**Estimated Print Time**: 13 hours 59 minutes
-**Estimated Filament**: 48.9 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.15mm layers
- - Supports
- - 20% infill
  
 
 
@@ -846,6 +828,7 @@ https://www.instagram.com/p/Bcxiksug6yP/?taken-by=dwyerdevices
 ## Space Ship Token
 
 https://www.instagram.com/p/BcqhDntAQ7Z/?taken-by=dwyerdevices
+
 
 **Source**: https://www.thingiverse.com/thing:20872
 **Scale**: 25% original
