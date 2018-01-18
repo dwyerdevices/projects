@@ -31,39 +31,53 @@
   - angles
   - canal bridges
   - canals with railings (canals in the sky)
-  
+ - wall mounted articulated arm for phone/tablet/etc
+ 
 # To slice
 
 
  - tiles in pla (smooth stone 2x2, walls 2x2, doors) for undermountain
- - airship - wings
- - airship - engines
- - airship - masts
  - more hexbug tracks
+ - text test piece
+ - catan tiles
+ - more jewelry
  
 # Transfer to sdcard
  
- 
+ - chinese bo
  
 # To Print from card
 
- - Air ship - front half
- 
- 
+ - broken airship parts
+  - jets
+  - wings
+    
 # To Finish
 
  - utility airship
- 
+ - full airship
+  - rear turbines (reprint)
+ - terracotta horse
+ - chocobo (multi color bodies for the chocobros)
+ - geometry bracelet
+ - airship
+  - vertical turbine
+  - wings
+  
 # To Instagram
 
+ - 4km coin
  - gits logo
- - airship errors
+ - partially finished airship
+ - Magnetic catan - ore
  
 # To post to Thingiverse
  
  
 # To Post
-
+ - owl
+ - terra-cotta warrior
+ - Great Buddha
  - squishy owl
  - Ornament Tests
  - Undermountain print 4, 5, 6
@@ -77,15 +91,12 @@
  
 # Scheduled Posts
 
-01/07 - Undermountain - Print 3
-01/09 - Undermountain - Print 4
-01/11 - Dungeon Accessories - Cages
-01/13 - City in the Sky - Print 1
-01/15 - Dungeon Accessories - Griffins
-01/17 - HexBugs Curved Track
 01/19 - Lotsa Boxes
 01/21 - Gift Boxes
 01/23 - Squishy Owl
+01/25 - Airship 1 - Model Errors
+01/27 - Min Temp Fail
+01/29 - Bestiary - Giant Owl
 
 # Current
 
@@ -112,11 +123,246 @@ Wait - we have gcode on the SDCard!
 **Test Date**: -
 
 
+## Chinese Bo - Warring States Period
+
+**Source**: [Bronze Bo at the British Museum](https://www.myminifactory.com/object/bronze-bell-bo-at-the-british-museum-london-15973)
+**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
+**License**: [Download - Print - Maintain - Share - Attribute](https://www.myminifactory.com/pages/object-licensing)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 98.0mm x 80.0mm x 128.0mm
+**Print Date**: 2018/01/16
+**Print Time**:
+**Estimated Print Time**: 13 hours 59 minutes
+**Estimated Filament**: 48.9 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.15mm layers
+ - Supports
+ - 20% infill
+ 
+
+
+# Chocobo - Figurine
+
+At full scale and fine resolution, this would take a little over 4 days just to print the body of
+the chocobo. I want more along the lines of action figure / 38mm scale, so I printed at 25% of original
+model scale.
+
+Hmm. 25% scale printed, but it's a bit to small - clean up is difficult, and some of the head feathers of
+the chocobo got messy. Reslicing at 33% of original scale.
+
+
+**Source**: [Final Fantasy XV Chocobo](https://www.thingiverse.com/thing:2086553)
+**Maker**: [alex23qw](https://www.thingiverse.com/alex23qw)
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:2086553/#files)
+**Material**: 
+
+ - Body: Hatchbox Yellow PLA 1.75mm
+ - Feet: Inland Orange ABS 1.75mm
+
+**Scale**: 33% original
+**Final Size**: 
+
+ - Body: 52.8mm x 60.1mm x 64.0mm
+ - Feet: 37.6mm x 32.6mm x 24.4mm
+
+**Print Date**: 2018/01/14 - 15
+**Print Time**:
+
+ - Body: 
+ - Feet: 
+
+**Estimated Print Time**:
+
+ - Body: 8 hours 2 minutes
+ - Feet: 1 hour 11 minutes
+
+**Estimated Filament**:
+
+ - Body: 8 meters
+ - Feet: 1 meter
+
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
 
 
 
 
-## Catan Tiles
+
+## Geometry Bracelet
+
+**Source**: [Geometry Bracelet](https://www.thingiverse.com/thing:2280862)
+**Maker**: [thomasasers](https://www.thingiverse.com/thomasasers)
+**License**: [Creative Commons - Attribution - Non-commercial - Share-alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Model**: [Geometry_Bracelet.stl](https://www.thingiverse.com/download:3624608)
+**Material**: Tianse Red Copper PLA 1.75mm
+**Final Size**: 75.5mm x 18.0mm x 59.2mm
+**Print Date**: 2018/01/13
+**Print Time**:
+**Estimated Print Time**: 4 hours 39 minutes
+**Estimated Filament**: 3.4 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - supports
+ 
+## Dragon / Snake Bracelet
+
+**Source**: [bracelet](https://www.thingiverse.com/thing:2101732)
+**Maker**: [januszeko](https://www.thingiverse.com/januszeko)
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Model**: [branssztywna7.stl](https://www.thingiverse.com/download:3307013)
+**Material**: Tianse Red Copper PLA 1.75mm
+**Final Size**: 84.0mm x 11.0mm x 75.5mm
+**Print Date**: 2018/01/13
+**Print Time**:
+**Estimated Print Time**: 7 hours 23 minutes
+**Estimated Filament**: 5.8 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - supports
+
+
+## Statues
+
+Statues for kelly's birthday:
+
+ - aeschylus? - pearl pro pla
+ - moai head
+
+
+## Wall Street Bull
+
+**Source**: [Wall Street Bull](https://www.myminifactory.com/object/charging-bull-sculpture-in-new-york-city-1872) 
+**License**: [Download - Print - Maintain - Share - Attribute](https://www.myminifactory.com/object/charging-bull-sculpture-in-new-york-city-1872)
+**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
+**Material**: Tianse Red Copper PLA 1.75mm
+**Scale**: 3300%
+**Print Date**: 2018/01/09 - 2018/01/10
+**Print Time**: 
+**Estimated Print Time**: 31 hours 11 minutes
+**Estimated Filament**: 62.8 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 20% infill
+ - Include Supports
+ 
+## High Detail Great Buddha
+
+**Source**: [The Great Buddha at Kamakura](https://www.myminifactory.com/object/the-great-buddha-at-kamakura-japan-1852)
+**License**: [Download - Print - Share - Maintain - Attribute - Non-commercial](https://www.myminifactory.com/pages/object-licensing)
+**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
+**Material**: Tianse Red Copper PLA 1.75mm
+**Scale**: 
+**Final Size**: 
+
+ - 50%: 32.5mm x 21.4mm x 34.0mm
+ - 100%: 65.0mm x 42.8mm x 68.0mm
+ 
+**Print Date**: 2018/01/11
+**Print Time**: 
+
+ - 50%: 1 hour 43 minutes
+ - 100%: 
+ 
+**Estimated Print Time**: 
+
+ - 50%: 1 hour 43 minutes
+ - 100%: 7 hours 55 minutes
+
+**Estimated Filament**: 
+
+ - 50%: 1.4 meters
+ - 100%: 8.5 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**: 
+
+ - 0.06mm layers
+ - 20% infill
+ - Include supports
+
+
+## The Great Buddha at Kamakura
+
+**Source**: [The Great Buddha at Kamakura](https://www.myminifactory.com/object/the-great-buddha-at-kamakura-japan-1852)
+**License**: [Download - Print - Share - Maintain - Attribute - Non-commercial](https://www.myminifactory.com/pages/object-licensing)
+**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
+**Material**: Tianse Red Copper PLA 1.75mm
+**Scale**: 260%
+**Final Size**: 169.0mm x 111.2mm x 176.8mm
+**Print Date**: 2018/01/08 - 09
+**Print Time**: 
+**Estimated Print Time**: 24 hours 28 minutes
+**Estimated Filament**: 116.2 meters
+**Slicer**: Cura 3
+**Slicer Settings**: 
+
+ - 0.15mm layers
+ - 20% infill
+ - Include supports
+ 
+## 4 KM Coin
+
+
+**Maker**: [patricknevindwyer]()
+
+**Source**: [4km Coin]()
+
+**Model**: [4km coin.sl]()
+
+**License**: []()
+
+**Print Date**: 2018/01/07
+
+**Print Time**: 
+
+**Estimated Print Time**: 53 minutes
+
+**Estimated Filament**: 1.5 meters
+
+**Slicer**: Cura 3
+
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 20% infill
+ - no supports
+ - no brim
+ 
+## More Clips
+
+https://www.instagram.com/p/Bdp2WHMA_Vm/?taken-by=dwyerdevices
+
+**Maker**: [walter](https://www.thingiverse.com/walter)
+**Source**: [1.75mm Filament Clips](https://www.thingiverse.com/thing:42528)
+**License**: [Creative Commons - Attribution - Non-commercial](https://www.thingiverse.com/thing:42528/#files)
+**Model**: Inland-eSun clip 1kg filament spool x9
+**Print Date**: 2018/01/07
+**Actual Print Time**: 29 minutes
+**Estimated Print Time**: 28 minutes
+**Estimated Filament**: 0.7 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ 
+ - 0.20mm layers
+ - 20% infill
+
+## Catan Tiles (Slic3r vs Cura 3)
 
 Models:
 
@@ -124,6 +370,14 @@ Models:
  
 https://www.thingiverse.com/thing:1132283/#files
 
+
+Attempts 1, 2, 3: https://www.instagram.com/p/BdijZuiAQPt/?taken-by=dwyerdevices
+
+Attempt 4: https://www.instagram.com/p/BdjD2yVABwl/?taken-by=dwyerdevices
+
+Cura .2 v .15: https://www.instagram.com/p/BdjESeDALgM/?taken-by=dwyerdevices
+
+Sheep: https://www.instagram.com/p/Bdkq1Z0AiS6/?taken-by=dwyerdevices
 
 ### Attempt 1 
 
@@ -187,9 +441,13 @@ Est P: 2 hours 18 minutes
 Est F: 6.5 meters
 Act P: 2 hours
 
+
 ## Magnetic Catan Tiles
 
 https://www.thingiverse.com/thing:1238980
+
+Wool 1: https://www.instagram.com/p/Bdk20mQAlQ5/?taken-by=dwyerdevices
+
 
 Wool 1:
 
@@ -203,11 +461,29 @@ Est F: 11.4 meters
 Act P:
 Slicer: Cura 3
 
+Ore 1:
+
+0.15mm layers
+20% infill
+2018/01/07
+no brim
+no supports
+Est P: 3 hours 25 minutes
+Est F: 9.6 meters
+Act P: 3 hours 12 minutes
+Slicer: Cura 3
+
 ## Interlock Catan Tiles
 
 Interlocking version of the [Magnetic catan tiles](https://www.thingiverse.com/thing:1238980)
 
 https://www.thingiverse.com/thing:2035221
+
+
+Wool 1: https://www.instagram.com/p/BdlOPUOA9DL/?taken-by=dwyerdevices
+
+Warping: https://www.instagram.com/p/BdnG3SBAQ87/?taken-by=dwyerdevices
+
 
 Wool 2:
 
@@ -228,7 +504,139 @@ Est P: 4 hours 25 minutes
 Est F: 12.5 meters
 Act P:
 
+Wood 2:
 
+2018/01/06
+Est P: 3 hours 39 minutes
+Est F: 7.8 meters
+Act P:
+
+Support from build plate
+20% infill
+0.15mm layers
+
+## Full Interlocking Settlers of Catan tile set
+
+Tiles: https://www.thingiverse.com/thing:2035221
+
+Borders: http://www.thingiverse.com/thing:2133068
+
+Tile Storage: http://www.thingiverse.com/thing:2084410
+
+Print Date: 2018/01/06 - 
+
+Tiles:
+ - Wood 1: 1
+ - Wood 2: 1
+ - Wood 3: 1
+ - Wool 1: 
+ - Wool 2:
+ - Wool w/River:
+
+
+Est P:
+ - Wood 1: 3 hours 33 minutes
+ - Wood 2: 3 hours 39 minutes
+ - Wood 3: 3 hours 39 minutes
+ - Wool 1: 
+ - Wool 2:
+ - Wool w/River: 2 hours 33 minutes
+ 
+Act P:
+ - Wood 1: 
+ - Wood 2: 3 hours 41 minutes
+ - Wood 3: 
+ - Wool 1: 
+ - Wool 2:
+ - Wool w/River:
+
+Est F:
+ - Wood 1: 7.7 meters
+ - Wood 2: 7.8 meters
+ - Wood 3: 7.8 meters
+ - Wool 1: 
+ - Wool 2:
+ - Wool w/River: 6.5 meters
+ 
+
+
+Wood: 4
+Wool: 4
+Wheat: 4
+Brick: 3
+Ore: 3
+Desert: 1
+Water: 9
+Harbor: 9
+Port Markers: 1 (3:1), 1 (2:1)
+Tornado: 1
+Per Player:
+  Road: 15
+  Settlements: 5
+  Cities: 4
+  Road connection set: 1
+Number Tokens: 18
+
+
+Slicer Settings:
+
+ - 0.15mm layers
+ - 20% infill
+ - support from build plate
+ - brim: 8mm
+ 
+## Terracotta Warriors
+
+### Warrior 4
+
+**Source**: [Warrior 4 - Terracotta Army](https://www.myminifactory.com/object/warrior-4-terracotta-army-at-emperor-qinshihuang-s-mausoleum-site-museum-china-7149)
+
+**Maker**: [Scan the World](https://www.myminifactory.com/category/scan-the-world)
+
+**License**: [Download - Print - Maintain - Share - Attribution](https://www.myminifactory.com/pages/object-licensing)
+
+**Print Date**: 2018/01/13
+
+**Material**: PLA
+
+**Print Time**: 5 hours 38 minutes
+
+**Estimated Print Time**: 5 hours 40 minutes
+
+**Estimated Filament**: 18.2 meters
+
+**Slicer**: Cura 3
+
+**Slicer Settings**:
+
+ - 0.15mm layers
+ - Use supports
+ - 20% infill
+
+ 
+### Horse
+
+**Source**: [Horse - Terracotta Arym](https://www.myminifactory.com/object/horse-terracotta-army-at-emperor-qinshihuang-s-mausoleum-site-museum-china-7150)
+
+**Maker**: [Scan the World](https://www.myminifactory.com/category/scan-the-world)
+
+**License**: [Download - Print - Maintain - Share - Attribution](https://www.myminifactory.com/pages/object-licensing)
+
+**Print Date**: 2018/01/
+
+**Print Time**:
+
+**Estimated Print Time**: 10 hours 35 minutes
+
+**Estimated Filament**: 32 meters
+
+**Slicer**: Cura 3
+
+**Slicer Settings**:
+
+ - 0.15mm layers
+ - Use supports
+ - 20% infill
 
 
 ## RPG Tools
@@ -236,77 +644,106 @@ Act P:
 The models of the RPG Tools Kickstarter have come through, and we're printing up as many
 as we can.
 
-
-### Airship
-
-Why not start with an airship? This is a large, multi-part model that will take some time
-to piece together.
+### Modding the Broken Airship
 
 
-First prints took a bit more than 2x longer than expected, and it looks like the models had
-surface normalization issues prior to slicing, with large chunks of the three base pieces missing
-in the printed versions. Salvagable, but we'll need to fix the files and reprint for a
-full version of the airship.
-
-**Source**: RPG Tools
-
-**Materials**:
-
- - Inland Light Brown PLA 1.75mm
- 
 **Models**:
 
- - Base center third - straight middle deck:
- - Base front third - pointed
- - Base rear third
+ - Rear left jet
+ - Rear right jet
+ - Wings #1
+ 
+**Print Date**: 2018/
+
+**Print Time**:
+
+ - rear rocket left: 
+ - rear rocket right: 
+ - Wing 1 left: 
+ - Wing 1 right: 
+  
+**Estimated Print Time**:
+
+ - rear rocket left: 3 hours 4 minutes
+ - rear rocket right: 3 hours
+ - Wing 1 left: 3 hours 38 minutes
+ - Wing 1 right: 3 hours 37 minutes
+
+**Estimated Filament**:
+
+ - rear rocket left: 10.8 meters
+ - rear rocket right: 10.6 meters
+ - Wing 1 left: 13.5 meters
+ - Wing 1 right: 13.5 meters
+
+**Slicer**: Cura 3
+
+**Slicer Settings**:
+
+ - 0.20mm
+ - 20% infill
+ - supports
+ - no brim
+
+### Airship 2 - Halvsies
+
+Post print halves: https://www.instagram.com/p/BdgNEn-gwKi/?taken-by=dwyerdevices
+
+Cleaned up halves: https://www.instagram.com/p/BdgWVdjAVef/?taken-by=dwyerdevices
+
+Leftovers: https://www.instagram.com/p/BdgWvQfAegv/?taken-by=dwyerdevices
+
+**Source**: RPGTools
+
+**Models**:
+
  - Base rear half
  - Base front half
  - Wing #2 - Left
  - Wing #2 - Right
  - Rear Turbine - Left
  - Rear Turbine - Right
- 
-**Print Date**: 2017/12/28 - 2017/1/
+ - Vertical Turbine
 
 **Print Time**:
 
- - Base center third: 12 hours 1 minute
- - Base front third: 13 hours 5 minutes
- - Base rear third: 27 hours 16 minutes
  - Rear Half: 37 hours 19 minutes
  - Front Half: 20 hours 22 minutes
- - Turbines: 6 hours 41 minutes
+ - Rear propeller left: 
+ - Rear propeller right: 
+ - Wing left:
+ - Wing right:
+ - vertical turbine: 
  
-**Estiamted Print Time**:
+**Estimated Print Time**:
 
- - Base center third: 5 hours 41 minutes
- - Base front third: 9 hours 52 minutes
- - Base rear third: 16 hours 6 minutes
  - Rear Half: 37 hours 30 minutes
  - Front Half: 20 hours 56 minutes
- - Turbines: 3 hours 49 minutes
+ - Rear propeller left: 4 hours 54 minutes
+ - Rear propeller right: 4 hours 58 minutes
+ - Wing left: 2 hours 58 minutes
+ - Wing right: 2 hours 58 minutes
+ - vertical turbine: 4 hours 50 minutes
 
 **Estimated Filament**:
 
- - Base center third: 41 meters
- - Base front third: 76 meters
- - Base rear third: 129 meters
  - Rear Half: 180.6 meters
  - Front Half: 93.5 meters
- - Turbines: 11.8 meters
+ - Rear propeller left: 14.2 meters
+ - Rear propeller right: 14.2 meters
+ - Wing left: 11.4 meters
+ - Wing right: 11.4 meters
+ - vertical turbine: 10.9 meters
 
-**Slicer**: Slic3r/Cura 3
+**Slicer**: Cura 3
 
 **Slicer Settings**:
 
- - PLA
- - 0.20mm layers
+ - 0.15mm layers for body, propellers, vertical turbines
+ - 0.20mm layers for wings
  - 20% infill
- - Include Supports
- - No Brim
- - detect thin walls
- - extra perimeters if needed
- 
+ - supports
+ - no brim
 
 
 
