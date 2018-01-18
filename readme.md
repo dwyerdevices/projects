@@ -74,10 +74,6 @@
  
 # To Post
 
- - rocket tokens
- - 3km coin?
- - 4km coin
-
  - owl
  - Great Buddha
  - squishy owl
@@ -103,6 +99,7 @@
 02/04 - Bronze Bo
 02/06 - 3km Coin
 02/08 - Space Ship Token
+02/10 - 4km Coin
 
 # Current
 
@@ -230,7 +227,7 @@ Statues for kelly's birthday:
 
  - aeschylus? - pearl pro pla
  - moai head
-
+ - ignus's daggers?
 
 ## Wall Street Bull
 
@@ -305,34 +302,7 @@ Statues for kelly's birthday:
  - 20% infill
  - Include supports
  
-## 4 KM Coin
 
-https://www.instagram.com/p/Bdqu1TyAGac/?taken-by=dwyerdevices
-
-**Maker**: [patricknevindwyer]()
-
-**Source**: [4km Coin]()
-
-**Model**: [4km coin.sl]()
-
-**License**: []()
-
-**Print Date**: 2018/01/07
-
-**Print Time**: 
-
-**Estimated Print Time**: 53 minutes
-
-**Estimated Filament**: 1.5 meters
-
-**Slicer**: Cura 3
-
-**Slicer Settings**:
-
- - 0.10mm layers
- - 20% infill
- - no supports
- - no brim
  
 ## More Clips
 
