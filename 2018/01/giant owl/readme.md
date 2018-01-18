@@ -12,6 +12,8 @@ twice in a row, breaking the print, but the print itself was excellent. A good a
 bestiary, and a promising dive back into high quality creatures for gaming.
 
 
+**Blog Post**: [Bestiary - Giant Owl](http://www.dwyerdevices.com/2018/01/29/bestiary-giant-owl/)
+
 **Source**: [Giant Owl](https://www.youmagine.com/designs/giant-owl)
 
 **Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
