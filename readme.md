@@ -65,7 +65,6 @@
   
 # To Instagram
 
- - 4km coin
  - gits logo
  - partially finished airship
  - Magnetic catan - ore
@@ -75,15 +74,16 @@
  
 # To Post
 
- - chinese bo
+ - rocket tokens
+ - 3km coin?
+ - 4km coin
+
  - owl
- - terra-cotta horse
  - Great Buddha
  - squishy owl
  - Ornament Tests
  - Undermountain print 4, 5, 6
   - vortex pool
- - rocket tokens
  - Canals of City in the Sky
  - Glowing Moon
  - xmas boxes
@@ -101,6 +101,7 @@
 01/31 - Terracotta Army - Warrior 4
 02/02 - Terracotta Army - Horse
 02/04 - Bronze Bo
+02/06 - 3km Coin
 
 # Current
 
@@ -305,6 +306,7 @@ Statues for kelly's birthday:
  
 ## 4 KM Coin
 
+https://www.instagram.com/p/Bdqu1TyAGac/?taken-by=dwyerdevices
 
 **Maker**: [patricknevindwyer]()
 
@@ -803,26 +805,6 @@ hotend set itself for 0°.
 
 
 
-## 3 km Coin
-
-https://www.instagram.com/p/Bcxiksug6yP/?taken-by=dwyerdevices
-
-**Print Date**: 2017/12/16
-
-**Print Time**: 50 minutes
-
-**Estimated Print Time**: 45 minutes
-
-**Estimated Filament**: 1.6 meters
-
-**Slicer**: PrusaControl
-
-**Slicer Settings**:
-
- - 0.10mm layers
- - 20% infill
- - no supports
- - no brim
  
 
 ## Space Ship Token
