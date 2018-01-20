@@ -44,18 +44,20 @@
  
 # Transfer to sdcard
  
+ - hilts for Hei's dagger
+ - goblins
  
 # To Print from card
 
- - broken airship parts
-  - jets
-  - wings
     
 # To Finish
 
  - utility airship
  - full airship
   - rear turbines (reprint)
+ - broken airship parts
+  - jets
+  - wings  
  - terracotta horse
  - chocobo (multi color bodies for the chocobros)
  - geometry bracelet
@@ -86,9 +88,32 @@
  - iris box fail
  - air ship fail
  
+ 
+# Production Schedule
+
+ - Hei's Blade (in progress)
+ - Chocobo Feet x2 (on sd)
+ - Green Chocobo (on sd)
+ - Bestiary - Goblins (on sd)
+ - Rooms and corridors (Undermountain 7)
+ - Ignis Scientia Blade
+ - Caged Arena (Undermountain 8)
+ - Bestiary - Manticore
+ - Voltron - Bayard
+ - Bestiary - Roc
+ - Cavern River (Undermountain 9)
+ - Bestiary - Hydra
+ - Stronghold Gate (Undermountain 10)
+ - Bestiary - Beholder
+ - RPG Tools Furniture (Dungeon Accessories) !!
+ - Bestiary - Demon Eagle
+ - Bestiary - Hippogriff
+ - Spiral Staircase (Undermountain 11)
+ - RPG Tools Clock tower for City in the Sky !!
+ - Dungeon Accessory - Fountain of the Alewife
+ 
 # Scheduled Posts
 
-01/19 - Lotsa Boxes
 01/21 - Gift Boxes
 01/23 - Squishy Owl
 01/25 - Airship 1 - Model Errors
@@ -100,12 +125,13 @@
 02/06 - 3km Coin
 02/08 - Space Ship Token
 02/10 - 4km Coin
+02/12 - FFXV Chocobo
 
 # Current
 
  - dragon's horde
  - Seven Oasis' - Landing site
- - City in the Sky - Landing site
+
  - Glue test - Aleene's Original
  - Glue test - pick more glues
  - Glue test - print pieces
@@ -126,60 +152,203 @@ Wait - we have gcode on the SDCard!
 **Test Date**: -
 
 
+# Dungeon Accessory - Fountain of the Alewife
 
- 
+! Files already downloaded
 
-
-# Chocobo - Figurine
-
-At full scale and fine resolution, this would take a little over 4 days just to print the body of
-the chocobo. I want more along the lines of action figure / 38mm scale, so I printed at 25% of original
-model scale.
-
-Hmm. 25% scale printed, but it's a bit to small - clean up is difficult, and some of the head feathers of
-the chocobo got messy. Reslicing at 33% of original scale.
-
-
-**Source**: [Final Fantasy XV Chocobo](https://www.thingiverse.com/thing:2086553)
-**Maker**: [alex23qw](https://www.thingiverse.com/alex23qw)
+**Source**: [Fountain of the Alewife](https://www.thingiverse.com/thing:2747310)
+**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
 **License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-**Model**: [All Files](https://www.thingiverse.com/thing:2086553/#files)
+**Model**: [All Files](https://www.thingiverse.com/thing:2747310/zip)
 **Material**: 
-
- - Body: Hatchbox Yellow PLA 1.75mm
- - Feet: Inland Orange ABS 1.75mm
-
-**Scale**: 33% original
 **Final Size**: 
-
- - Body: 52.8mm x 60.1mm x 64.0mm
- - Feet: 37.6mm x 32.6mm x 24.4mm
-
-**Print Date**: 2018/01/14 - 15
+**Print Date**: 2018/
 **Print Time**:
-
- - Body: 
- - Feet: 
-
-**Estimated Print Time**:
-
- - Body: 8 hours 2 minutes
- - Feet: 1 hour 11 minutes
-
-**Estimated Filament**:
-
- - Body: 8 meters
- - Feet: 1 meter
-
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
 **Slicer**: Cura 3
 **Slicer Settings**:
 
- - 0.06mm layers
+# Bestiary - Hippogriff
+
+! Files already downloaded
+
+**Source**: [Hippogriff](https://www.youmagine.com/designs/hippogriff)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+# Bestiary - Manticore
+
+! Files already downloaded
+
+**Source**: [Manticore](https://www.youmagine.com/designs/manticore)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+# Bestiary - Demon Eagle
+
+! Files already downloaded
+
+**Source**: [Demon Eagle](https://www.youmagine.com/designs/demon-eagle)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+
+# Bestiary - Beholder
+
+! Files already downloaded
+
+**Source**: [Zombie Beholder](https://www.youmagine.com/designs/zombie-wacky-flailing-inflatable-eyeball-monster)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+# Bestiary - Hydra
+
+! Files already downloaded
+
+**Source**: [Hydra](https://www.youmagine.com/designs/hydra)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+# Bestiary - Roc
+
+! Files already downloaded
+
+**Source**: [Roc](https://www.youmagine.com/designs/roc)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+# Voltron Bayard
+
+! Files already downloaded
+
+**Source**: [Voltron Legendary Defender- Paladin Bayard](https://www.myminifactory.com/object/voltron-legendary-defender-paladin-bayard-41987?storeview=shop)
+**Maker**: [LittleCorvidae](https://www.myminifactory.com/users/LittleCorvidae)
+**License**: [Design, Print, Share, Maintain, Remix, Non-commercial](https://www.myminifactory.com/pages/object-licensing)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+# Ignis - Scientia Dagger
+
+! Files already downloaded
+
+**Source**: [Ignis Scientia Dagger Replica](https://www.myminifactory.com/object/final-fantasy-xv-ignis-scientia-dagger-replica-54444?storeview=shop)
+**Maker**: [PowerUpProps](https://www.myminifactory.com/users/PowerUpProps)
+**License**: [Design, Print, Share, Maintain, Remix, Non-commercial](https://www.myminifactory.com/pages/object-licensing)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/
+**Print Time**:
+**Estimated Print Time**: ?
+**Estimated Filament**: ? meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+
+# Hei's Dagger - Dark than Black
+
+**Source**: [Hei's Dagger](https://www.thingiverse.com/thing:987958)
+**Maker**: [Subzerofusion](https://www.thingiverse.com/Subzerofusion)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Materials**:
+
+ - blade: Inland Silver PLA 1.75mm
+ - hilt 1: Prusa White PLA 1.75mm
+ - hilt 2: Prusa White PLA 1.75mm
+ 
+**Final Size**:
+
+ - blade: 219.7mm x 134.5mm x 2.5mm
+ - hilt 1: 157.3mm x 66.3mm x 10mm
+ - hilt 2: 157.3mm x 66.3mm x 5mm
+
+**Print Time**:
+    
+ - blade:
+ - hilt 1:
+ - hilt 2:
+    
+**Estimated Print Time**:
+
+ - blade: 8 hours 27 minutes
+ - hilt 1: 1 hour 35 minutes
+ - hilt 2: 1 hour 2 minutes
+    
+**Estimated Filament**:
+
+ - blade: 5.3 meters
+ - hilt 1: 6.2 meters
+ - hilt 2: 3.9 meters
+    
+**Slicer**: Cura
+
+**Slicer Settings**:
+
+ - 0.06mm layers for blade / 0.20mm layers for hilt
  - 20% infill
- - Supports
-
-
-
+ - supports
 
 
 ## Geometry Bracelet
@@ -784,8 +953,40 @@ hotend set itself for 0°.
 
 What leads from the portal to the city?
 
+Use RPG Tools Tiny Village pieces
+Use dock pieces
 
 ## City in the Sky
+
+What do the adventurers need to do in the City in the Sky? 
+
+1. Find a contact (who sends them astray) from the undermountain guild member
+2. Get ambused at the water market
+3. Get sent to the wrong back alley
+4. Figure out which guild is allied with the horrid dragon
+5. Sneak into the guild
+6. Steal the keystones that open the portal from the guild
+7. Discover that a guild master resides in the clock tower, and has a portal key
+8. Break into the clock tower (fight on the roof?)
+9. Steal back the portal stone
+10. Destroy the nest of flying creatures that will wreak havoc on the city
+
+## Print 5 - Water Market
+
+
+## Print 4 - Raised Canals
+
+Canals held aloft on stone arch ways connect parts of the city.
+
+## Print 3 -  Edges of the City
+
+At various points parts of the city just fall away to nothing, with only simple
+railings and barricades keeping the less wary adventurer from tipping over the edge.
+
+The entry point from the magic circle into the City is hidden in an old courtyard
+bordering the edge of the city, with the facade of an old multi-storey building blocking
+the courtyard from the canalway.
+
 
 ### Print 2 - Canal Test
 
@@ -938,16 +1139,65 @@ https://www.instagram.com/p/BdDhE-rA-jS/?taken-by=dwyerdevices
  
 ## Undermountain Dungeon
 
+
+What do the adventurers need to do in the undermountain?
+
+1. Get stuck in the portal room
+2. Happen upon a group coming back from the city in the sky
+3. Free the captive
+4. Help captive get to the dwarven stronghold gate to relay information critical to the dwarves survival
+5. Get tasked by the captive and dwarves to help rid the undermountain of the horrid dragon
+6. Get portal key from goblin wizard
+7. Cause havoc for goblins to evade possible trackers
+8. get sent to city in the sky with a tip on a contact
+
 ### Print 11 - Entrance to the Dragon Hoard
 
+spiral staircase/landing
+
+ - RPGTools - Dungeon Filler F152 - Grand staircase
+ 
 ### Print 10 - Stronghold Gate
 
+dwarven gates
+
+**Sources**:
+
+ - [OpenForge Gate House](https://www.thingiverse.com/thing:1781034)
+ 
 ### Print 9 - Unexpected River
+
+cavern river
+
+**Sources**:
+
+ - [Cavern Bridge](https://www.thingiverse.com/thing:1642577)
+ - [Cavern River](https://www.thingiverse.com/thing:1627106)
 
 ### Print 8 - Caged Beasts
 
+circular arena area for cages
+
+**Sources**:
+
+ - [Smooth Curves](https://www.thingiverse.com/thing:240644)
+ - [Smooth Floor Tiles](https://www.thingiverse.com/thing:234325)
+
 ### Print 7 - Goblin Encampment
 
+more walls
+more doors
+diagonal or cavern river
+more 2x2 or 2x4 stone
+
+**Sources**:
+
+ - [Smooth Floor Tiles](https://www.thingiverse.com/thing:234325)
+ - [Smooth Wall Tiles](https://www.thingiverse.com/thing:238454)
+ - [Smooth Corners](https://www.thingiverse.com/thing:239156)
+ - [Smooth Diagonals](https://www.thingiverse.com/thing:242011)
+ - [Smooth Rectangle Doors](https://www.thingiverse.com/thing:692515)
+ 
 ### Print 6 - Dwarven Statues
 
 Medium/NPC Sized: 500% scale
@@ -1053,8 +1303,46 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
 
 ## Bestiary - Goblins
 
-https://www.youmagine.com/designs/goblins
 
+
+**Source**: [Goblins](https://www.youmagine.com/designs/goblins)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**Materials**:
+
+ - Goblins: Tianse Red Copper PLA 1.75mm
+ - Bugbear: Inland Light Brown PLA 1.75mm
+ 
+**Models**: 
+
+ - Goblin with mace and shield:
+ - Bugbear:
+ - Goblin with Bow and Arrow:
+ 
+**Print Date**: 2018/01/20
+**Print Time**:
+
+ - Goblin with mace and shield:
+ - Bugbear:
+ - Goblin with Bow and Arrow:
+
+**Estimated Print Time**:
+
+ - Goblin with mace and shield: 1 hour 11 minutes
+ - Bugbear: 2 hours 58 minutes
+ - Goblin with Bow and Arrow: 1 hours 3 minutes
+
+**Estimated Filament**:
+
+ - Goblin with mace and shield: 0.7 meters 
+ - Bugbear: 2.27 meters
+ - Goblin with Bow and Arrow: 0.7 meters
+
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 80% infill
+ - Supports
  
 
 ## TPE Test Tile
