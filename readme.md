@@ -127,6 +127,7 @@
 02/10 - 4km Coin
 02/12 - FFXV Chocobo
 02/14 - Dragon Bracelet
+02/16 - High Detail Printing - Great Buddha
 
 # Current
 
@@ -400,40 +401,6 @@ Statues for kelly's birthday:
  - 20% infill
  - Include Supports
  
-## High Detail Great Buddha
-
-**Source**: [The Great Buddha at Kamakura](https://www.myminifactory.com/object/the-great-buddha-at-kamakura-japan-1852)
-**License**: [Download - Print - Share - Maintain - Attribute - Non-commercial](https://www.myminifactory.com/pages/object-licensing)
-**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
-**Material**: Tianse Red Copper PLA 1.75mm
-**Scale**: 
-**Final Size**: 
-
- - 50%: 32.5mm x 21.4mm x 34.0mm
- - 100%: 65.0mm x 42.8mm x 68.0mm
- 
-**Print Date**: 2018/01/11
-**Print Time**: 
-
- - 50%: 1 hour 43 minutes
- - 100%: 
- 
-**Estimated Print Time**: 
-
- - 50%: 1 hour 43 minutes
- - 100%: 7 hours 55 minutes
-
-**Estimated Filament**: 
-
- - 50%: 1.4 meters
- - 100%: 8.5 meters
- 
-**Slicer**: Cura 3
-**Slicer Settings**: 
-
- - 0.06mm layers
- - 20% infill
- - Include supports
 
 
 ## The Great Buddha at Kamakura
