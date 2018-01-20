@@ -126,6 +126,7 @@
 02/08 - Space Ship Token
 02/10 - 4km Coin
 02/12 - FFXV Chocobo
+02/14 - Dragon Bracelet
 
 # Current
 
@@ -370,24 +371,7 @@ Wait - we have gcode on the SDCard!
  - 20% infill
  - supports
  
-## Dragon / Snake Bracelet
 
-**Source**: [bracelet](https://www.thingiverse.com/thing:2101732)
-**Maker**: [januszeko](https://www.thingiverse.com/januszeko)
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-**Model**: [branssztywna7.stl](https://www.thingiverse.com/download:3307013)
-**Material**: Tianse Red Copper PLA 1.75mm
-**Final Size**: 84.0mm x 11.0mm x 75.5mm
-**Print Date**: 2018/01/13
-**Print Time**:
-**Estimated Print Time**: 7 hours 23 minutes
-**Estimated Filament**: 5.8 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.06mm layers
- - 20% infill
- - supports
 
 
 ## Statues
