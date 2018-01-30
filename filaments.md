@@ -25,6 +25,8 @@ Peak Green                      | 1kg  | PLA        | Inland         | 2017/10/-
 Egyptian Blue                   | 1kg  | PLA        | Inland         | 2017/11/05   | 2017/12/10   | 50%
 Red Copper                      | 1kg  | PLA        | Tianse         | 2018/01/08   | 2018/01/08   | 100%
 Bronze                          | 1kg  | PLA        | Tianse         | 2018/01/14   | 2018/01/16   | 100%
+Silver                          | 1kg  | PLA        | Inland         | 2017/10/-    | 2018/01/23   | 90%
+Orange                          | 1kg  | PLA        | Tianse         | 2018/01/29   | 2018/01/29   | 100%
 Green, translucent              | 1kg  | PETG       | CNZhehan       | 2017/10/-    | 2017/10/-    | 80%
 Orange, translucent             | 1kg  | PETG       | Inland         | 2017/10/-    | 2017/10/25   | 80%
 Black                           | 2kg  | PETG       | Prusa          | 2017/10/01   | 2017/10/10   | 60%
@@ -35,7 +37,6 @@ Blue                            | .5kg | TPE        | Inland         | 2017/11/-
 
 Color                           | Wgt  | Material   | Brand          | Purchased On 
 --------------------------------|------|------------|----------------|--------------
-Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
 Pink                            | 1kg  | PLA        | Inland         | 2017/10/-
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/11/05
@@ -50,6 +51,7 @@ Blue                            | 1kg  | PLA        | Tianse         | 2017/12/1
 Brown                           | 1kg  | PLA        | Century        | 2018/01/08
 Beige                           | 1kg  | PLA        | Hatchbox       | 2018/01/12
 Red Copper                      | 1kg  | PLA        | Tianse         | 2018/01/14
+Purple                          | 1kg  | PLA        | Tianse         | 2018/01/29
 
 ## Finished
 

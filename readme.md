@@ -76,6 +76,7 @@
  
 # To Post
 
+ - goblins
  - owl
  - Great Buddha
  - squishy owl
@@ -83,7 +84,7 @@
  - Undermountain print 4, 5, 6
   - vortex pool
  - Canals of City in the Sky
- - Glowing Moon
+
  - xmas boxes
  - iris box fail
  - air ship fail
@@ -91,15 +92,19 @@
  
 # Production Schedule
 
- - Hei's Blade (in progress)
- - Chocobo Feet x2 (on sd)
- - Green Chocobo (on sd)
- - Bestiary - Goblins (on sd)
- - Rooms and corridors (Undermountain 7)
- - Ignis Scientia Blade
- - Caged Arena (Undermountain 8)
- - Bestiary - Manticore
+ - Hei's Blade (finishing)
+ - Chocobo Feet x2 (on sd) - one more set needed
+ - Green Chocobo (finishing)
+ - Rooms and corridors (Undermountain 7) (finishing)
+ - Ignis Scientia Blade (finishing)
+ - Sylph (done)
+ - Doll House Furniture (done)
+ - Bestiary - Manticore (sliced)
+ - Bestiary - Bullette (painting)
+ - Howl's Moving Castle (slicing)
+ - Caged Arena (Undermountain 8) (slicing)
  - Voltron - Bayard
+ - Mane 6 
  - Bestiary - Roc
  - Cavern River (Undermountain 9)
  - Bestiary - Hydra
@@ -114,11 +119,7 @@
  
 # Scheduled Posts
 
-01/21 - Gift Boxes
-01/23 - Squishy Owl
-01/25 - Airship 1 - Model Errors
-01/27 - Min Temp Fail
-01/29 - Bestiary - Giant Owl
+
 01/31 - Terracotta Army - Warrior 4
 02/02 - Terracotta Army - Horse
 02/04 - Bronze Bo
@@ -128,6 +129,7 @@
 02/12 - FFXV Chocobo
 02/14 - Dragon Bracelet
 02/16 - High Detail Printing - Great Buddha
+02/18 - Glowing Moon
 
 # Current
 
@@ -153,7 +155,120 @@ Wait - we have gcode on the SDCard!
 
 **Test Date**: -
 
+# Howl's Moving Castle
 
+**Source**: [Howl's Moving Castle](https://www.myminifactory.com/object/howl-s-moving-castle-55367?storeview=shop)
+**Maker**: [Mag-Net](https://www.myminifactory.com/users/Mag-Net)
+**License**: [Download - Print - Share - Remix - Non-commercial](https://www.myminifactory.com/pages/object-licensing)
+**Model**: All
+**Materials**:
+**Print Date**: 2018/
+**Print Time**:
+
+ - base: 
+ - ears: 
+ - eyes: 
+ - feet: 
+ - mortar and pestle: 
+ - tongue: 
+ - top: 
+ - wings: 
+ 
+**Estimated Print Time**:
+
+ - base: 26 hours 19 minutes
+ - ears: 
+ - eyes: 
+ - feet: 
+ - mortar and pestle: 
+ - tongue: 
+ - top: 
+ - wings: 
+ 
+**Estimated Filament**:
+
+ - base: 23.1 meters
+ - ears: 
+ - eyes: 
+ - feet: 
+ - mortar and pestle: 
+ - tongue: 
+ - top: 
+ - wings: 
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm Layers
+ - 20% Infill
+ - Supports
+ - Support line width: 0.2mm 
+ 
+# Sylph
+
+The 10 year old has a project to come up with a 3D representation of a specific vocabulary
+word: sylph. Scouring various model sites, and this resampled version of a statue scan from the [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) seemed like a good fit. We modified
+the model further, by removing most of the base below the feet.
+
+
+**Source**: [Stanford's Lucy](https://www.thingiverse.com/thing:41939)
+**Maker**: [julienM](https://www.thingiverse.com/julienM)
+**Licenses**: [Creative Commons - Attribution - Non-Commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**Models**: [Lucy_120mm_Simplified.stl](https://www.thingiverse.com/download:252119)
+**Materials**:
+**Print Date**: 2018/01/27
+**Print Time**:
+**Estimated Print Time**: 7 hours 33 minutes
+**Estimated Filament**: 7 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 20% infill
+ - supports
+ - Support line width: 0.2mm
+ 
+# Doll House Furniture
+
+A piece of doll-house scale furniture broke this morning as the kids were cavorting
+around the living room - the project for the morning became designing a replacement,
+along with a chair to go with the table.
+
+Table size: 112mm x 52mm x 40mm
+
+**Source**: []()
+**Maker**: [patricknevindwyer]()
+**License**: [Creative Commons - Attribution - Share Alike]()
+**Models**:
+    
+ - [Chair]()
+ - [Table]()
+
+**Materials**:
+**Print Date**: 2018/01/
+**Print Time**:
+
+ - Chair: 
+ - Table: 
+
+**Estimated Print Time**:
+
+ - Chair: 1 hour 43 minutes
+ - Table: 4 hours 24 minutes
+
+**Estimated Filament**: 
+
+ - Chair: 2.3 meters
+ - Table: 6.9 meters
+
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 20% infill
+ - Support (chair)
+ - Support line width: 0.2mm (chair)
+  
 # Dungeon Accessory - Fountain of the Alewife
 
 ! Files already downloaded
@@ -200,8 +315,63 @@ Wait - we have gcode on the SDCard!
 **Final Size**: 
 **Print Date**: 2018/
 **Print Time**:
-**Estimated Print Time**: ?
+
+ - body: 
+ - left wing: 
+ - right wing: 
+ - spike: 
+ - tail: 
+ - base: 
+ 
+**Estimated Print Time**:
+
+ - body: 5 hours 2 minutes
+ - left wing: 2 hours 21 minutes
+ - right wing: 2 hours 24 minutes
+ - spike: 26 minutes
+ - tail: 19 minutes
+ - base: 2 hours 33 minutes
+ 
 **Estimated Filament**: ? meters
+
+ - body: 4.85 meters
+ - left wing: 1.9 meters
+ - right wing: 2 meters
+ - spike: 0.2 meters
+ - tail: 0.2 meters
+ - base: 1.6 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 80% infill
+ - supports
+
+# Bestiary - Bullette
+
+**Source**: [Land Shark](https://www.youmagine.com/designs/land-shark)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+**Final Size**: 
+**Print Date**: 2018/01/
+**Print Time**:
+
+ - Bullette: 
+ - Base: 
+ 
+**Estimated Print Time**: 
+
+ - Bullette: 5 hours 13 minutes
+ - Base: 2 hours 33 minutes
+ 
+**Estimated Filament**: 
+
+ - Bullette: 4.1 meters
+ - Base: 1.6 meters
+ 
 **Slicer**: Cura 3
 **Slicer Settings**:
 
@@ -293,21 +463,69 @@ Wait - we have gcode on the SDCard!
 
 # Ignis - Scientia Dagger
 
-! Files already downloaded
+Already sliced
+
+Time comparisons:
+
+ - guard 2: 100 microns = 8 hours 16 minutes, 60 microns = 16 hours 20 minutes
+ - blade 1: 100 microns = 9 hours 13 minutes, 60 microns = 15 hours 32 minutes
+ 
+so 932 / 592 = 1.57 and 980 / 496 = 1.98, let's call it ~1.75x more time to go to 60 microns, which
+would be just shy of 100 hours of print time at 50 microns, vs ~56 hours at 100 microns.
 
 **Source**: [Ignis Scientia Dagger Replica](https://www.myminifactory.com/object/final-fantasy-xv-ignis-scientia-dagger-replica-54444?storeview=shop)
 **Maker**: [PowerUpProps](https://www.myminifactory.com/users/PowerUpProps)
 **License**: [Design, Print, Share, Maintain, Remix, Non-commercial](https://www.myminifactory.com/pages/object-licensing)
 **Model**: [All Files]()
 **Material**: 
+ 
+ - Emblem: Inland Egyptian Blue PLA 1.75mm
+ - All others: Prusa White PLA 1.75mm
+ 
 **Final Size**: 
-**Print Date**: 2018/
-**Print Time**:
-**Estimated Print Time**: ?
-**Estimated Filament**: ? meters
+**Print Date**: 2018/01/
+**Print Time**: ? total
+
+ - blade cross 1: 
+ - blade cross 2: 
+ - blade 1: 
+ - blade 2: 
+ - emblem: 
+ - handle 1: 
+ - handle 2: 
+ - guard 1: 
+ - guard 2: 
+ 
+**Estimated Print Time**: 55 hours 48 minutes total
+
+ - blade cross 1: 7 hours 38 minutes
+ - blade cross 2: 7 hours 5 minutes
+ - blade 1: 9 hours 13 minutes
+ - blade 2: 6 hours 18 minutes
+ - emblem: 22 minutes
+ - handle 1: 3 hours 55 minutes
+ - handle 2: 4 hours 8 minutes
+ - guard 1: 8 hours 53 minutes
+ - guard 2: 8 hours 16 minutes
+ 
+**Estimated Filament**: ? meters total
+
+ - blade cross 1: 13.3 meters
+ - blade cross 2: 11.5 meters
+ - blade 1: 13.3 meters
+ - blade 2: 9.2 meters
+ - emblem: 0.7 meters
+ - handle 1: 7.7 meters
+ - handle 2: 8.2 meters
+ - guard 1: 15.9 meters
+ - guard 2: 14.2 meters
+ 
 **Slicer**: Cura 3
 **Slicer Settings**:
 
+ - Supports
+ - 20% infill
+ - 0.10mm layers
 
 # Hei's Dagger - Dark than Black
 
@@ -384,6 +602,9 @@ Statues for kelly's birthday:
  - ignus's daggers?
 
 ## Wall Street Bull
+
+Post print: https://www.instagram.com/p/Bd06d1vgVc9/?taken-by=dwyerdevices
+
 
 **Source**: [Wall Street Bull](https://www.myminifactory.com/object/charging-bull-sculpture-in-new-york-city-1872) 
 **License**: [Download - Print - Maintain - Share - Attribute](https://www.myminifactory.com/object/charging-bull-sculpture-in-new-york-city-1872)
@@ -665,7 +886,7 @@ Slicer Settings:
  - support from build plate
  - brim: 8mm
  
-## Terracotta Warriors
+
 
 
 
@@ -804,48 +1025,7 @@ Slic3r
 20% infill
 PLA
 
-### Alternate Moon - the Glowing Moon
 
-Finished Printing: https://www.instagram.com/p/BcZsU12AEXi/?taken-by=dwyerdevices
-
-Glowing: https://www.instagram.com/p/BcbGnJ0ATAO/?taken-by=dwyerdevices
-
-Finished: https://www.instagram.com/p/BdD3q5XgvnB/?taken-by=dwyerdevices
-
-**Source**: [Glowing Moon](https://www.thingiverse.com/thing:2531838)
-**Maker**: [Brandonzhun](https://www.thingiverse.com/Brandonzhun)
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-**Model**: [All Files](https://www.thingiverse.com/thing:2531838/#files)
-**Material**: Prusa White PLA 1.75mm
-**Print Date**: 
-**Print Time**:
-
- - Top: 30 hours 31 minutes
- - Pedestal: 1 hour 22 minutes
- 
-**Estimated Print Time**:
-
- - Top: 29 hours 39 minutes (Cura estimate)
- - Pedestal: 1 hour 34 minutes
-
-**Estimated Filament**: 
-
- - Top: 99.71 meters (Cura estimate)
- - Pedestal: 12.9 meters
-
-**Slicer**: PrusaControl/Slic3r
-**Slicer Settings**:
-
- - Moon
-  - 0.20mm layers
-  - 20% infill
-  - supports from build plate only
-  - no brim
- - Pedestal
-  - 0.30mm layers
-  - 10% infill
-  - no brim
-  - no supports
 
  
 ## GITS Logo
@@ -1148,7 +1328,57 @@ more 2x2 or 2x4 stone
  - [Smooth Corners](https://www.thingiverse.com/thing:239156)
  - [Smooth Diagonals](https://www.thingiverse.com/thing:242011)
  - [Smooth Rectangle Doors](https://www.thingiverse.com/thing:692515)
+
+**Models**:
+
+ - Smooth Square Door
+ - Smooth Square Door mirrored
+ - metal door 1 & 2
+ - door tab
+ - door tab mirrored
+ - 2x2 corner
+ - 2x2 wall
+ - 2x2 diagonal
  
+**Materials**:
+
+ - Floors: Inland Silver PLA 1.75mm
+ - Doors: Inland Egyptian Blue PLA 1.75mm
+ - Corners: Inland Silver PLA 1.75mm
+ - Walls: Inland Silver PLA 1.75mm
+ 
+**Print Date**: 2018/01/22 - 24
+**Print Time**:
+
+ - Doorways (4x square doors):
+ - Doors and tabs (x4): 
+ - diagonal half floor 2x2 (x8):
+ - corner 2x2 (x4): 
+ - Wall 2x2 (x4):
+ 
+**Estimated Print Time**:
+
+ - Doorways (4x square doors): 6 hours 12 minutes
+ - Doors and tabs (x4): 2 hours 16 minutes
+ - diagonal half floor 2x2 (x8): 4 hours 8 minutes
+ - corner 2x2 (x4): 8 hours 38 minutes
+ - Wall 2x2 (x4): 6 hours 40 minutes
+
+**Estimated Filament**:
+
+ - Doorways (4x square doors): 21 meters
+ - Doors and tabs (x4): 7 meters
+ - diagonal half floor 2x2 (x8): 15.2 meters
+ - corner 2x2 (x4): 34.5 meters
+ - Wall 2x2 (x4): 26.1 meters
+
+**Slicer**: Cura
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 20% infill
+ - no supports
+  
 ### Print 6 - Dwarven Statues
 
 Medium/NPC Sized: 500% scale
@@ -1254,46 +1484,57 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
 
 ## Bestiary - Goblins
 
+Printed some with normal supports, some with thin (0.2mm vs 0.4mm) supports from build plate only.
 
+Printed: https://www.instagram.com/p/BeOe_b7gNG2/?taken-by=dwyerdevices
+
+Painted: https://www.instagram.com/p/Begm6OjgUie/?taken-by=dwyerdevices
 
 **Source**: [Goblins](https://www.youmagine.com/designs/goblins)
 **Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
 **Materials**:
 
  - Goblins: Tianse Red Copper PLA 1.75mm
- - Bugbear: Inland Light Brown PLA 1.75mm
+ - Medium Creature base: Inland Silver PLA 1.75mm
  
 **Models**: 
 
  - Goblin with mace and shield:
- - Bugbear:
+ - Medium Creature base:
  - Goblin with Bow and Arrow:
  
 **Print Date**: 2018/01/20
 **Print Time**:
 
  - Goblin with mace and shield:
- - Bugbear:
+ - Goblin with mace and shield x3:
  - Goblin with Bow and Arrow:
-
+ - Goblin with Bow and Arrow x3:
+ - Medium Creature bases x6: 
+ 
 **Estimated Print Time**:
 
  - Goblin with mace and shield: 1 hour 11 minutes
- - Bugbear: 2 hours 58 minutes
+ - Goblin with mace and shield x3: 4 hours 4 minutes
  - Goblin with Bow and Arrow: 1 hours 3 minutes
+ - Goblin with Bow and Arrow x3: 3 hours 49 minutes
+ - Medium Creature bases x6: 
 
 **Estimated Filament**:
 
  - Goblin with mace and shield: 0.7 meters 
- - Bugbear: 2.27 meters
+ - Goblin with mace and shield x3: 2 meters
  - Goblin with Bow and Arrow: 0.7 meters
+ - Goblin with Bow and Arrow x3: 1.8 meters
+ - Medium Creature bases x6: 
 
 **Slicer**: Cura 3
 **Slicer Settings**:
 
  - 0.06mm layers
  - 80% infill
- - Supports
+ - 0.2mm support line width
+ - Supports from build plate
  
 
 ## TPE Test Tile
