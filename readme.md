@@ -124,6 +124,8 @@
 02/26 - Bestiary - Goblins
 02/28 - Painted Chocobos
 03/02 - Charging Bull
+03/04 - Great Buddha at Kamakura
+03/06 - Mini Great Buddha
 
 # Current
 
@@ -511,24 +513,7 @@ Statues for kelly's birthday:
  
 
 
-## The Great Buddha at Kamakura
 
-**Source**: [The Great Buddha at Kamakura](https://www.myminifactory.com/object/the-great-buddha-at-kamakura-japan-1852)
-**License**: [Download - Print - Share - Maintain - Attribute - Non-commercial](https://www.myminifactory.com/pages/object-licensing)
-**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
-**Material**: Tianse Red Copper PLA 1.75mm
-**Scale**: 260%
-**Final Size**: 169.0mm x 111.2mm x 176.8mm
-**Print Date**: 2018/01/08 - 09
-**Print Time**: 
-**Estimated Print Time**: 24 hours 28 minutes
-**Estimated Filament**: 116.2 meters
-**Slicer**: Cura 3
-**Slicer Settings**: 
-
- - 0.15mm layers
- - 20% infill
- - Include supports
  
 
  
