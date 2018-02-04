@@ -44,9 +44,7 @@
  
 # Transfer to sdcard
  
- - manticore
- - howl's castle
- 
+  
 # To Print from card
 
     
@@ -58,8 +56,6 @@
  - broken airship parts
   - jets
   - wings  
- - terracotta horse
- - chocobo (multi color bodies for the chocobros)
  - geometry bracelet
  - airship
   - vertical turbine
@@ -75,9 +71,6 @@
  
  
 # To Post
-
- - painted chocobos
- - painted goblins
  
  - goblins
  - owl
@@ -90,6 +83,7 @@
  - xmas boxes
  - iris box fail
  - air ship fail
+ - Sylph (done)
  
  
 # Production Schedule
@@ -99,7 +93,6 @@
  - Green Chocobo (finishing)
  - Rooms and corridors (Undermountain 7) (finishing)
  - Ignis Scientia Blade (finishing)
- - Sylph (done)
  - Howl's Moving Castle (in progress)
  - Caged Arena (Undermountain 8) (slicing)
  - Voltron - Bayard
@@ -129,6 +122,8 @@
 02/22 - Doll house Furniture
 02/24 - Bestiary - Bulette
 02/26 - Bestiary - Goblins
+02/28 - Painted Chocobos
+03/02 - Charging Bull
 
 # Current
 
@@ -377,6 +372,10 @@ Time comparisons:
 so 932 / 592 = 1.57 and 980 / 496 = 1.98, let's call it ~1.75x more time to go to 60 microns, which
 would be just shy of 100 hours of print time at 50 microns, vs ~56 hours at 100 microns.
 
+First clean up: https://www.instagram.com/p/BeeFvj4gu0v/?taken-by=dwyerdevices
+
+Dry fit: https://www.instagram.com/p/BeeF-Ung6N2/?taken-by=dwyerdevices
+
 **Source**: [Ignis Scientia Dagger Replica](https://www.myminifactory.com/object/final-fantasy-xv-ignis-scientia-dagger-replica-54444?storeview=shop)
 **Maker**: [PowerUpProps](https://www.myminifactory.com/users/PowerUpProps)
 **License**: [Design, Print, Share, Maintain, Remix, Non-commercial](https://www.myminifactory.com/pages/object-licensing)
@@ -387,18 +386,18 @@ would be just shy of 100 hours of print time at 50 microns, vs ~56 hours at 100 
  - All others: Prusa White PLA 1.75mm
  
 **Final Size**: 
-**Print Date**: 2018/01/
+**Print Date**: 2018/01/26-28
 **Print Time**: ? total
 
- - blade cross 1: 
- - blade cross 2: 
- - blade 1: 
- - blade 2: 
- - emblem: 
- - handle 1: 
- - handle 2: 
- - guard 1: 
- - guard 2: 
+ - blade cross 1: 7 hours 20 minutes
+ - blade cross 2: 6 hours 7 minutes
+ - blade 1: 8 hours 50 minutes
+ - blade 2: 6 hours 7 minutes
+ - emblem: 23 minutes
+ - handle 1: 3 hours 50 minutes
+ - handle 2: 4 hours
+ - guard 1: 8 hours 32 minutes
+ - guard 2: 7 housr 54 minutes
  
 **Estimated Print Time**: 55 hours 48 minutes total
 
@@ -433,6 +432,10 @@ would be just shy of 100 hours of print time at 50 microns, vs ~56 hours at 100 
 
 # Hei's Dagger - Dark than Black
 
+Post print: https://www.instagram.com/p/BeHDhElAaXw/?taken-by=dwyerdevices
+
+Dry fit: https://www.instagram.com/p/BeNyxdGAxF9/?taken-by=dwyerdevices
+
 **Source**: [Hei's Dagger](https://www.thingiverse.com/thing:987958)
 **Maker**: [Subzerofusion](https://www.thingiverse.com/Subzerofusion)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
@@ -450,9 +453,9 @@ would be just shy of 100 hours of print time at 50 microns, vs ~56 hours at 100 
 
 **Print Time**:
     
- - blade:
- - hilt 1:
- - hilt 2:
+ - blade: 8 hours 11 minutes
+ - hilt 1: 1 hours 34 minutes
+ - hilt 2: 1 hours 3 minutes
     
 **Estimated Print Time**:
 
@@ -504,26 +507,7 @@ Statues for kelly's birthday:
  - aeschylus? - pearl pro pla
  - moai head
 
-## Wall Street Bull
 
-Post print: https://www.instagram.com/p/Bd06d1vgVc9/?taken-by=dwyerdevices
-
-
-**Source**: [Wall Street Bull](https://www.myminifactory.com/object/charging-bull-sculpture-in-new-york-city-1872) 
-**License**: [Download - Print - Maintain - Share - Attribute](https://www.myminifactory.com/object/charging-bull-sculpture-in-new-york-city-1872)
-**Maker**: [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
-**Material**: Tianse Red Copper PLA 1.75mm
-**Scale**: 3300%
-**Print Date**: 2018/01/09 - 2018/01/10
-**Print Time**: 
-**Estimated Print Time**: 31 hours 11 minutes
-**Estimated Filament**: 62.8 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.10mm layers
- - 20% infill
- - Include Supports
  
 
 
