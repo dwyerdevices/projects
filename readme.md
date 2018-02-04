@@ -126,6 +126,8 @@
 03/02 - Charging Bull
 03/04 - Great Buddha at Kamakura
 03/06 - Mini Great Buddha
+03/08 - More Clips
+03/10 - Modding the Broken Airship
 
 # Current
 
@@ -517,23 +519,7 @@ Statues for kelly's birthday:
  
 
  
-## More Clips
 
-https://www.instagram.com/p/Bdp2WHMA_Vm/?taken-by=dwyerdevices
-
-**Maker**: [walter](https://www.thingiverse.com/walter)
-**Source**: [1.75mm Filament Clips](https://www.thingiverse.com/thing:42528)
-**License**: [Creative Commons - Attribution - Non-commercial](https://www.thingiverse.com/thing:42528/#files)
-**Model**: Inland-eSun clip 1kg filament spool x9
-**Print Date**: 2018/01/07
-**Actual Print Time**: 29 minutes
-**Estimated Print Time**: 28 minutes
-**Estimated Filament**: 0.7 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
- 
- - 0.20mm layers
- - 20% infill
 
 ## Catan Tiles (Slic3r vs Cura 3)
 
@@ -771,46 +757,7 @@ Slicer Settings:
 The models of the RPG Tools Kickstarter have come through, and we're printing up as many
 as we can.
 
-### Modding the Broken Airship
 
-
-**Models**:
-
- - Rear left jet
- - Rear right jet
- - Wings #1
- 
-**Print Date**: 2018/
-
-**Print Time**:
-
- - rear rocket left: 
- - rear rocket right: 
- - Wing 1 left: 
- - Wing 1 right: 
-  
-**Estimated Print Time**:
-
- - rear rocket left: 3 hours 4 minutes
- - rear rocket right: 3 hours
- - Wing 1 left: 3 hours 38 minutes
- - Wing 1 right: 3 hours 37 minutes
-
-**Estimated Filament**:
-
- - rear rocket left: 10.8 meters
- - rear rocket right: 10.6 meters
- - Wing 1 left: 13.5 meters
- - Wing 1 right: 13.5 meters
-
-**Slicer**: Cura 3
-
-**Slicer Settings**:
-
- - 0.20mm
- - 20% infill
- - supports
- - no brim
 
 ### Airship 2 - Halvsies
 
@@ -819,6 +766,10 @@ Post print halves: https://www.instagram.com/p/BdgNEn-gwKi/?taken-by=dwyerdevice
 Cleaned up halves: https://www.instagram.com/p/BdgWVdjAVef/?taken-by=dwyerdevices
 
 Leftovers: https://www.instagram.com/p/BdgWvQfAegv/?taken-by=dwyerdevices
+
+Partial assembly: https://www.instagram.com/p/BeOyACygzCy/?taken-by=dwyerdevices
+
+First Paint: https://www.instagram.com/p/Begmwv8gMlM/?taken-by=dwyerdevices
 
 **Source**: RPGTools
 
@@ -836,10 +787,10 @@ Leftovers: https://www.instagram.com/p/BdgWvQfAegv/?taken-by=dwyerdevices
 
  - Rear Half: 37 hours 19 minutes
  - Front Half: 20 hours 22 minutes
- - Rear propeller left: 
- - Rear propeller right: 
- - Wing left:
- - Wing right:
+ - Rear propeller left: 4 hours 35 minutes
+ - Rear propeller right: 4 hours 39 minutes
+ - Wing left: 2 hours 52 minutes
+ - Wing right: 2 hours 53 minutes
  - vertical turbine: 
  
 **Estimated Print Time**:
