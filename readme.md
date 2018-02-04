@@ -76,8 +76,6 @@
  
 # To Post
 
- - Doll House Furniture (done)
- - Bestiary - Bullette (painting)
  - painted chocobos
  - painted goblins
  
@@ -130,6 +128,7 @@
 02/20 - Bestiary - Manticore
 02/22 - Doll house Furniture
 02/24 - Bestiary - Bulette
+02/26 - Bestiary - Goblins
 
 # Current
 
@@ -1386,59 +1385,7 @@ attempt to fill it with 4x4 tiles, the largest ones I've printed yet.
 
 
 
-## Bestiary - Goblins
 
-Printed some with normal supports, some with thin (0.2mm vs 0.4mm) supports from build plate only.
-
-Printed: https://www.instagram.com/p/BeOe_b7gNG2/?taken-by=dwyerdevices
-
-Painted: https://www.instagram.com/p/Begm6OjgUie/?taken-by=dwyerdevices
-
-**Source**: [Goblins](https://www.youmagine.com/designs/goblins)
-**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
-**Materials**:
-
- - Goblins: Tianse Red Copper PLA 1.75mm
- - Medium Creature base: Inland Silver PLA 1.75mm
- 
-**Models**: 
-
- - Goblin with mace and shield:
- - Medium Creature base:
- - Goblin with Bow and Arrow:
- 
-**Print Date**: 2018/01/20
-**Print Time**:
-
- - Goblin with mace and shield:
- - Goblin with mace and shield x3:
- - Goblin with Bow and Arrow:
- - Goblin with Bow and Arrow x3:
- - Medium Creature bases x6: 
- 
-**Estimated Print Time**:
-
- - Goblin with mace and shield: 1 hour 11 minutes
- - Goblin with mace and shield x3: 4 hours 4 minutes
- - Goblin with Bow and Arrow: 1 hours 3 minutes
- - Goblin with Bow and Arrow x3: 3 hours 49 minutes
- - Medium Creature bases x6: 
-
-**Estimated Filament**:
-
- - Goblin with mace and shield: 0.7 meters 
- - Goblin with mace and shield x3: 2 meters
- - Goblin with Bow and Arrow: 0.7 meters
- - Goblin with Bow and Arrow x3: 1.8 meters
- - Medium Creature bases x6: 
-
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.06mm layers
- - 80% infill
- - 0.2mm support line width
- - Supports from build plate
  
 
 ## TPE Test Tile
