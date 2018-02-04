@@ -77,7 +77,6 @@
 # To Post
 
  - Doll House Furniture (done)
- - Bestiary - Manticore (sliced - xfer)
  - Bestiary - Bullette (painting)
  - painted chocobos
  - painted goblins
@@ -129,6 +128,7 @@
 02/16 - High Detail Printing - Great Buddha
 02/18 - Glowing Moon
 02/20 - Bestiary - Manticore
+02/22 - Doll house Furniture
 
 # Current
 
@@ -239,50 +239,7 @@ the model further, by removing most of the base below the feet.
  - supports
  - Support line width: 0.2mm
  
-# Doll House Furniture
 
-A piece of doll-house scale furniture broke this morning as the kids were cavorting
-around the living room - the project for the morning became designing a replacement,
-along with a chair to go with the table.
-
-Table size: 112mm x 52mm x 40mm
-
-**Sources**: 
-
- - [Doll House Table](https://www.thingiverse.com/thing:2774890)
- - [Doll House Chair](https://www.thingiverse.com/thing:2774892)
- 
-**Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Models**:
-    
- - [Chair](https://www.thingiverse.com/download:4594390)
- - [Table](https://www.thingiverse.com/download:4594388)
-
-**Materials**:
-**Print Date**: 2018/01/
-**Print Time**:
-
- - Chair: 
- - Table: 
-
-**Estimated Print Time**:
-
- - Chair: 1 hour 43 minutes
- - Table: 4 hours 24 minutes
-
-**Estimated Filament**: 
-
- - Chair: 2.3 meters
- - Table: 6.9 meters
-
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.10mm layers
- - 20% infill
- - Support (chair)
- - Support line width: 0.2mm (chair)
   
 # Dungeon Accessory - Fountain of the Alewife
 
