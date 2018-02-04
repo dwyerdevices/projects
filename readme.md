@@ -129,6 +129,7 @@
 02/18 - Glowing Moon
 02/20 - Bestiary - Manticore
 02/22 - Doll house Furniture
+02/24 - Bestiary - Bulette
 
 # Current
 
@@ -277,37 +278,7 @@ the model further, by removing most of the base below the feet.
 
 
 
-# Bestiary - Bulette
 
-**Source**: [Land Shark](https://www.youmagine.com/designs/land-shark)
-**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
-**Model**: [All Files]()
-**Material**: Prusa White PLA 1.75mm
-**Final Size**: 
-**Print Date**: 2018/01/
-**Print Time**:
-
- - Bulette: 
- - Base: 
- 
-**Estimated Print Time**: 
-
- - Bulette: 5 hours 13 minutes
- - Base: 2 hours 33 minutes
- 
-**Estimated Filament**: 
-
- - Bulette: 4.1 meters
- - Base: 1.6 meters
- 
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.06mm layers
- - 20% infill
- - supports
- - support line width: 0.2mm
 
 # Bestiary - Demon Eagle
 
