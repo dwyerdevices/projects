@@ -44,8 +44,8 @@
  
 # Transfer to sdcard
  
- - hilts for Hei's dagger
- - goblins
+ - manticore
+ - howl's castle
  
 # To Print from card
 
@@ -76,6 +76,12 @@
  
 # To Post
 
+ - Doll House Furniture (done)
+ - Bestiary - Manticore (sliced - xfer)
+ - Bestiary - Bullette (painting)
+ - painted chocobos
+ - painted goblins
+ 
  - goblins
  - owl
  - Great Buddha
@@ -84,7 +90,6 @@
  - Undermountain print 4, 5, 6
   - vortex pool
  - Canals of City in the Sky
-
  - xmas boxes
  - iris box fail
  - air ship fail
@@ -98,10 +103,7 @@
  - Rooms and corridors (Undermountain 7) (finishing)
  - Ignis Scientia Blade (finishing)
  - Sylph (done)
- - Doll House Furniture (done)
- - Bestiary - Manticore (sliced)
- - Bestiary - Bullette (painting)
- - Howl's Moving Castle (slicing)
+ - Howl's Moving Castle (in progress)
  - Caged Arena (Undermountain 8) (slicing)
  - Voltron - Bayard
  - Mane 6 
@@ -119,10 +121,6 @@
  
 # Scheduled Posts
 
-
-01/31 - Terracotta Army - Warrior 4
-02/02 - Terracotta Army - Horse
-02/04 - Bronze Bo
 02/06 - 3km Coin
 02/08 - Space Ship Token
 02/10 - 4km Coin
@@ -130,6 +128,7 @@
 02/14 - Dragon Bracelet
 02/16 - High Detail Printing - Great Buddha
 02/18 - Glowing Moon
+02/20 - Bestiary - Manticore
 
 # Current
 
@@ -157,12 +156,25 @@ Wait - we have gcode on the SDCard!
 
 # Howl's Moving Castle
 
+Top needs to be rotated 90° around the Z axis to fit the build volume of the Prusa i3 mk2.
+
 **Source**: [Howl's Moving Castle](https://www.myminifactory.com/object/howl-s-moving-castle-55367?storeview=shop)
 **Maker**: [Mag-Net](https://www.myminifactory.com/users/Mag-Net)
 **License**: [Download - Print - Share - Remix - Non-commercial](https://www.myminifactory.com/pages/object-licensing)
 **Model**: All
 **Materials**:
 **Print Date**: 2018/
+**Size**:
+
+ - base: 84.0mm x 156.0mm x 52.0mm
+ - ears: 29.0mm x 100.2mm x 17.0mm
+ - eyes: 12.5mm x 26.0mm x 24.6mm
+ - feet: 35.8mm x 50.5mm x 4.8mm
+ - mortar and pestle: 12.5mm x 9.1mm x 15.0mm
+ - tongue: 22.8mm x 17.2mm x 19.5mm
+ - top: 112.0mm x 208.0mm x 192.0mm
+ - wings: 28.8mm x 54.5mm x 56.5mm
+
 **Print Time**:
 
  - base: 
@@ -176,25 +188,25 @@ Wait - we have gcode on the SDCard!
  
 **Estimated Print Time**:
 
- - base: 26 hours 19 minutes
- - ears: 
- - eyes: 
- - feet: 
- - mortar and pestle: 
- - tongue: 
- - top: 
- - wings: 
+ - base: 25 hours 58 minutes
+ - ears: 5 hours 14 minutes
+ - eyes: 47 minutes
+ - feet: 30 minutes
+ - mortar and pestle: 17 minutes
+ - tongue: 39 minutes
+ - top: 127 hours 56 minutes
+ - wings: 4 hours 9 minutes
  
 **Estimated Filament**:
 
- - base: 23.1 meters
- - ears: 
- - eyes: 
- - feet: 
- - mortar and pestle: 
- - tongue: 
- - top: 
- - wings: 
+ - base: 23.4 meters
+ - ears: 4 meters
+ - eyes: 0.5 meters
+ - feet: 0.3 meters
+ - mortar and pestle: 0.1 meters
+ - tongue: 0.6 meters
+ - top: 134.2 meters
+ - wings: 2.5 meters
  
 **Slicer**: Cura 3
 **Slicer Settings**:
@@ -202,7 +214,6 @@ Wait - we have gcode on the SDCard!
  - 0.06mm Layers
  - 20% Infill
  - Supports
- - Support line width: 0.2mm 
  
 # Sylph
 
@@ -236,13 +247,17 @@ along with a chair to go with the table.
 
 Table size: 112mm x 52mm x 40mm
 
-**Source**: []()
-**Maker**: [patricknevindwyer]()
-**License**: [Creative Commons - Attribution - Share Alike]()
+**Sources**: 
+
+ - [Doll House Table](https://www.thingiverse.com/thing:2774890)
+ - [Doll House Chair](https://www.thingiverse.com/thing:2774892)
+ 
+**Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
 **Models**:
     
- - [Chair]()
- - [Table]()
+ - [Chair](https://www.thingiverse.com/download:4594390)
+ - [Table](https://www.thingiverse.com/download:4594388)
 
 **Materials**:
 **Print Date**: 2018/01/
@@ -303,77 +318,39 @@ Table size: 112mm x 52mm x 40mm
 **Slicer**: Cura 3
 **Slicer Settings**:
 
-# Bestiary - Manticore
 
-! Files already downloaded
 
-**Source**: [Manticore](https://www.youmagine.com/designs/manticore)
-**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
-**Model**: [All Files]()
-**Material**: 
-**Final Size**: 
-**Print Date**: 2018/
-**Print Time**:
-
- - body: 
- - left wing: 
- - right wing: 
- - spike: 
- - tail: 
- - base: 
- 
-**Estimated Print Time**:
-
- - body: 5 hours 2 minutes
- - left wing: 2 hours 21 minutes
- - right wing: 2 hours 24 minutes
- - spike: 26 minutes
- - tail: 19 minutes
- - base: 2 hours 33 minutes
- 
-**Estimated Filament**: ? meters
-
- - body: 4.85 meters
- - left wing: 1.9 meters
- - right wing: 2 meters
- - spike: 0.2 meters
- - tail: 0.2 meters
- - base: 1.6 meters
- 
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.06mm layers
- - 80% infill
- - supports
-
-# Bestiary - Bullette
+# Bestiary - Bulette
 
 **Source**: [Land Shark](https://www.youmagine.com/designs/land-shark)
 **Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 **Model**: [All Files]()
-**Material**: 
+**Material**: Prusa White PLA 1.75mm
 **Final Size**: 
 **Print Date**: 2018/01/
 **Print Time**:
 
- - Bullette: 
+ - Bulette: 
  - Base: 
  
 **Estimated Print Time**: 
 
- - Bullette: 5 hours 13 minutes
+ - Bulette: 5 hours 13 minutes
  - Base: 2 hours 33 minutes
  
 **Estimated Filament**: 
 
- - Bullette: 4.1 meters
+ - Bulette: 4.1 meters
  - Base: 1.6 meters
  
 **Slicer**: Cura 3
 **Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - supports
+ - support line width: 0.2mm
 
 # Bestiary - Demon Eagle
 
@@ -599,7 +576,6 @@ Statues for kelly's birthday:
 
  - aeschylus? - pearl pro pla
  - moai head
- - ignus's daggers?
 
 ## Wall Street Bull
 
