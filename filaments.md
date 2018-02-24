@@ -32,19 +32,19 @@ Orange, translucent             | 1kg  | PETG       | Inland         | 2017/10/-
 Black                           | 2kg  | PETG       | Prusa          | 2017/10/01   | 2017/10/10   | 60%
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-    | 2017/11/18   | 100%
 Blue                            | .5kg | TPE        | Inland         | 2017/11/-    | 2017/11/-    | 80%
+Dandelion                       | 1kg  | PLA        | Inland         | 2017/12/30   | 2018/02/16   | 95%
+Pink                            | 1kg  | PLA        | Inland         | 2017/10/-    | 2018/02/17   | 95%
 
 ## Unopened
 
 Color                           | Wgt  | Material   | Brand          | Purchased On 
 --------------------------------|------|------------|----------------|--------------
 Silver                          | 1kg  | PLA        | Inland         | 2017/10/-
-Pink                            | 1kg  | PLA        | Inland         | 2017/10/-
 Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/11/05
 Silver                          | 1kg  | PLA        | Hatchbox       | 2017/10/-
 White/Red, UV Color Change      | .5kg | -          | Inland         | 2017/10/-
 Gray                            | 1kg  | ABS        | Inland         | 2017/11/22
 Gray                            | 1kg  | ABS        | Inland         | 2017/11/22
-Dandelion                       | 1kg  | PLA        | Inland         | 2017/12/30
 Silver                          | 1kg  | PLA        | Inland         | 2017/12/30
 Red                             | 1kg  | PLA        | Inland         | 2017/12/30
 Blue                            | 1kg  | PLA        | Tianse         | 2017/12/10
@@ -52,6 +52,8 @@ Brown                           | 1kg  | PLA        | Century        | 2018/01/0
 Beige                           | 1kg  | PLA        | Hatchbox       | 2018/01/12
 Red Copper                      | 1kg  | PLA        | Tianse         | 2018/01/14
 Purple                          | 1kg  | PLA        | Tianse         | 2018/01/29
+Light Purple                    | .5kg | PLA        | AIO Robotics   | 2018/02/07
+Black                           | 1kg  | PLA        | Tianse         | 2018/02/07
 
 ## Finished
 

@@ -41,25 +41,21 @@
  - text test piece
  - catan tiles
  - more jewelry
+ - RPGTools (Kickstarter)
+ - HO Scale buildings (Kickstarter)
+ - Ancient Rome Buildings (Kickstarter)
+     •	28mm to get - 127% (Cura 1.27)
+ - War Layer/Orbital Drop (Kickstarter)
+ - SciFi Structures (Kickstarter - need to download when available)      
+ - Gaming Sailing Ships (Kickstarter - need to download when available)     
  
 # Transfer to sdcard
- 
   
-# To Print from card
-
-    
 # To Finish
 
- - utility airship
- - full airship
-  - rear turbines (reprint)
- - broken airship parts
-  - jets
-  - wings  
  - geometry bracelet
  - airship
   - vertical turbine
-  - wings
   
 # To Instagram
 
@@ -69,9 +65,19 @@
  
 # To post to Thingiverse
  
+ - paint rack
  
 # To Post
+
+ - Park Bench
+ - Mandal dresser 
+ - sensor enclosure (slicing)
+ - sylph
+ - Storage Bins
  
+  
+ - Rooms and corridors (Undermountain 7) 
+ - Green Chocobo (finishing)
  - goblins
  - owl
  - Great Buddha
@@ -88,15 +94,21 @@
  
 # Production Schedule
 
- - Hei's Blade (finishing)
+ - Hei's Blade (printed - finishing)
  - Chocobo Feet x2 (on sd) - one more set needed
- - Green Chocobo (finishing)
- - Rooms and corridors (Undermountain 7) (finishing)
- - Ignis Scientia Blade (finishing)
- - Howl's Moving Castle (in progress)
+ - Ignis Scientia Blade (printed - finishing)
+ - Howl's Moving Castle (printed - finishing)
+ - tachikoma (sliced)
+ - Mane 6 - Twilight Sparkle (in progress)
+ - Mane 6 - Pinkie Pie (in progress)
+ - Mane 6 - Fluttershy (in progress)
+ - Mane 6 - Rarity (in progress)
+ - Mane 6 - Applejack (in progress)
+ - Mane 6 - Rainbow Dash (in progress)
+ - Howl's Moving Castle - Top (printed - finishing)
+ - Bestiary - Pegasus (printing)
  - Caged Arena (Undermountain 8) (slicing)
  - Voltron - Bayard
- - Mane 6 
  - Bestiary - Roc
  - Cavern River (Undermountain 9)
  - Bestiary - Hydra
@@ -108,18 +120,10 @@
  - Spiral Staircase (Undermountain 11)
  - RPG Tools Clock tower for City in the Sky !!
  - Dungeon Accessory - Fountain of the Alewife
+ - Printing from Kickstarter series
  
 # Scheduled Posts
 
-02/06 - 3km Coin
-02/08 - Space Ship Token
-02/10 - 4km Coin
-02/12 - FFXV Chocobo
-02/14 - Dragon Bracelet
-02/16 - High Detail Printing - Great Buddha
-02/18 - Glowing Moon
-02/20 - Bestiary - Manticore
-02/22 - Doll house Furniture
 02/24 - Bestiary - Bulette
 02/26 - Bestiary - Goblins
 02/28 - Painted Chocobos
@@ -128,6 +132,7 @@
 03/06 - Mini Great Buddha
 03/08 - More Clips
 03/10 - Modding the Broken Airship
+03/12 - Park Bench
 
 # Current
 
@@ -153,7 +158,575 @@ Wait - we have gcode on the SDCard!
 
 **Test Date**: -
 
+
+ 
+# Sensor Enclosure
+
+A simple sensor enclosure for the 10 year old to do a project with an arduino and an IR sensor.
+
+https://www.instagram.com/p/BfeTVY0gVaU/?taken-by=dwyerdevices
+
+**Material**: Hatchbox Yellow PLA 1.75mm
+**Print Date**: 2018/02/19-20
+**Print Time**:
+
+ - base: 
+ - body: 
+ - side: 
+ - top: 
+ 
+**Estimated Print Time**:
+
+ - base: 36 minutes
+ - body: 1 hour 14 minutes
+ - side: 18 minutes
+ - top: 36 minutes
+ 
+**Estimated Filament**:
+
+ - base: 1.8 meters
+ - body: 4.7 meters
+ - side: 1.1 meters
+ - top: 1.8 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.2mm layers
+ - 20% infill
+ - no supports
+ 
+ 
+
+# Bestiary - Pegasus
+
+Testing out a few things on this print: the experimental branching tree supports, and 80% infill on a creature
+to better support delicate features. If this is successful we're printing two of these: one for our collection, 
+one for one of the 10 year old's friends at school.
+
+Seems like Cura 3.2 is a bit buggy when it comes to enabling Tree Support mode, or loading a model when Tree Support
+is already enabled - to trigger slicing it is sometimes necessary to toggle Tree Support off and then on again to
+start slicing.
+
+**Source**: [Pegasus](https://www.youmagine.com/designs/pegasus)
+**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+**Model**: [All Files]()
+**Material**: 
+
+ - Prusa White PLA 1.75mm
+ 
+**Print Date**: 2018/02/18
+**Print Time**:
+
+ - Body: 
+ - Head: 
+ - Left Wing: 
+ - Right Wing: 
+ - stand: 
+ 
+**Estimated Print Time**:
+
+ - Body: 4 hours 57 minutes
+ - Head: 45 minutes
+ - Left Wing: 3 hours
+ - Right Wing: 2 hours 45 minutes
+ - stand: 3 hours 25 minutes
+
+**Estimated Filament**:
+
+ - Body: 4.8 meters
+ - Head: 0.6 meters
+ - Left Wing: 2.1 meters
+ - Right Wing: 1.86 meters
+ - stand: 2.5 meters
+
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 80% infill
+ - 8mm brim
+ - supports - experimental tree supports
+ - supports from build plate only
+
+
+# Ikea Mandal Doll House Dresser
+
+Based on the discontinued 4 drawer Ikea Mandal dresser.
+
+https://www.instagram.com/p/BfE8_gMgxwX/?taken-by=dwyerdevices
+
+Needed to widen the drawer rails by 0.5mm on each side, otherwise the drawers were just
+wide enough, with just enough rail, to slip out and drop down when pushed to one side.
+
+https://www.instagram.com/p/BfEPzAWAkwS/?taken-by=dwyerdevices
+
+**Source**: [Doll House Dresser](https://www.thingiverse.com/thing:2790801)
+**Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
+**License**: [Creative Commons - Attribution - Share-alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Models**: [All Files](https://www.thingiverse.com/thing:2790801/zip)
+**Materials**:
+ 
+ - Prusa White PLA 1.75mm
+ - Hatchbox Red PLA 1.75mm
+ 
+**Scale**: 1:12, doll house standard
+**Modeling Time**: 2 hours
+**Print Date**: 2018/02/11
+**Print Time**:
+
+ - Dresser: 
+ - Drawer small: 
+ - Drawer small face: 
+ - Drawer large x3: 
+ - Drawer large face x3: 
+
+**Estimated Print Time**:
+
+ - Dresser: 4 hours 17 minutes
+ - Drawer small: 39 minutes
+ - Drawer small face: 10 minutes
+ - Drawer large x3: 2 hours 8 minutes
+ - Drawer large face x3: 44 minutes
+
+**Estimated Filament**: 
+
+ - Dresser: 14.5 meters
+ - Drawer small: 2.1 meters
+ - Drawer small face: 0.6 meters
+ - Drawer large x3: 6.9 meters
+ - Drawer large face x3: 2.4 meters
+
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.20mm layers
+ - 20% infill
+ - no supports
+ 
+# Tachikoma
+
+Printing the D series of parts for assembly. Not using the solid base variants.
+
+**Source**: [Tachikoma (Ghost in the Shell)](https://www.thingiverse.com/thing:2182467)
+**Maker**: [paranoid_android](https://www.thingiverse.com/paranoid_android)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:2182467/zip)
+**Material**: 
+ 
+ - Inland Egyptian Blue PLA 1.75mm
+ - Prusa White PLA 1.75mm (Leg Part 04A)
+ 
+**Final Size**: 
+**Print Date**: 2018/02/
+**Print Time**: ? total
+
+ - Abdomen Part 01: 
+ - Abdomen Part 02:
+ - Abdomen Part 03:
+ - Abdomen Part 04:
+ - Abdomen Part 05:
+ - Alignment Pin x6: 
+ - Arm Part 01 x2: 
+ - Arm Part 02/03/04: 
+ - Canon Part 01/02: 
+ - Head Part 01: 
+ - Head Part 02: 
+ - Head Part 03 x4: 
+ - Head Part 04: 
+ - Leg Part 01 x4: 
+ - Leg Part 02 x4: 
+ - Leg Part 03 x4: 
+ - Leg Part 04A x4: 
+ 
+**Estimated Print Time**: ? total
+
+ - Abdomen Part 01: 11 hours 39 minutes
+ - Abdomen Part 02: 18 hours 17 minutes
+ - Abdomen Part 03: 1 hour 1 minute
+ - Abdomen Part 04: 56 minutes
+ - Abdomen Part 05: 57 minutes
+ - Alignment Pin x6: 51 minutes
+ - Arm Part 01 x2: 1 hour 2 minutes
+ - Arm Part 02/03/04: 2 hours 8 minutes
+ - Canon Part 01/02: 1 hour 13 minutes
+ - Head Part 01: 6 hours 34 minutes
+ - Head Part 02: 4 hours 27 minutes
+ - Head Part 03 x4: 2 hours 26 minutes
+ - Head Part 04: 59 minutes
+ - Leg Part 01 x4: 2 hours 16 minutes
+ - Leg Part 02 x4: 10 hours 26 minutes
+ - Leg Part 03 x4: 5 hours 28 minutes
+ - Leg Part 04A x4: 2 hours 25 minutes
+ 
+**Estimated Filament**: ? meters
+
+ - Abdomen Part 01: 10.3 meters
+ - Abdomen Part 02: 18.1 meters
+ - Abdomen Part 03: 0.9 meters
+ - Abdomen Part 04: 0.8 meters
+ - Abdomen Part 05: 0.8 meters
+ - Alignment Pin x6: 0.6 meters
+ - Arm Part 01 x2: 0.9 meters
+ - Arm Part 02/03/04: 1.5 meters
+ - Canon Part 01/02: 0.9 meters
+ - Head Part 01: 6.3 meters
+ - Head Part 02: 3.8 meters
+ - Head Part 03 x4: 1.8 meters
+ - Head Part 04: 0.3 meters
+ - Leg Part 01 x4: 2 meters
+ - Leg Part 02 x4: 8.4 meters
+ - Leg Part 03 x4: 3.6 meters
+ - Leg Part 04A x4: 1.5 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+ 
+# Mane Six
+
+## Twilight Sparkle
+
+flipped the mane upside down.
+
+**Source**: [Twilight Sparkle - MLP:FIM](https://www.thingiverse.com/thing:630715)
+**Maker**: [plenet](https://www.thingiverse.com/plenet)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:630715/zip)
+**Material**: 
+
+ - Body: AIO Robotics Light Blue PLA 1.75mm
+ - Mane: Tianse Purple PLA 1.75mm
+ - Tail: Tianse Purple PLA 1.75mm
+ - Eyes: Prusa White PLA 1.75mm
+ 
+**Scale**: 250%
+**Print Date**: 2018/02/
+**Print Time**:
+
+ - Body: 
+ - Mane: 
+ - Tail: 
+ - Eyes: 
+ 
+**Estimated Print Time**: 22 hours 31 minutes
+
+ - Body: 12 hours 1 minute
+ - Mane: 3 hours 56 minutes
+ - Tail: 3 hours 40 minutes
+ - Eyes: 23 minutes
+ 
+**Estimated Filament**: 21.5 meters
+
+ - Body: 11.7 meters
+ - Mane: 2.63 meters
+ - Tail: 3.6 meters
+ - Eyes: 0.2 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+
+## Pinkie Pie
+
+Flipped mane upside down.
+
+**Source**: [Pinkie Pie - MLP:FIM](https://www.thingiverse.com/thing:630738)
+**Maker**: [plenet](https://www.thingiverse.com/plenet)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:630738/zip)
+**Material**: 
+
+ - Body: Inland Pink PLA 1.75mm
+ - Mane: Hatchbox Red PLA 1.75mm
+ - Tail: Hatchbox Red PLA 1.75mm
+ - Eyes: Prusa White PLA 1.75mm
+ 
+**Scale**: 250%
+**Print Date**: 2018/02/
+**Print Time**:
+
+ - Body: 
+ - Mane: 
+ - Tail: 
+ - Eyes: 
+ 
+**Estimated Print Time**: 18 hours 23 minutes
+
+ - Body: 9 hours 46 minutes
+ - Mane: 6 hours 36 minutes
+ - Tail: 5 hours 19 minutes
+ - Eyes: 23 minutes
+ 
+**Estimated Filament**: 25 meters
+
+ - Body: 10 meters
+ - Mane: 6.3 meters
+ - Tail: 6 meters
+ - Eyes: 0.2 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+ 
+## Fluttershy
+
+Flipped mane upside down.
+
+**Source**: [Fluttershy - MLP:FIM](https://www.thingiverse.com/thing:630740)
+**Maker**: [plenet](https://www.thingiverse.com/plenet)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:630740/zip)
+**Material**: 
+
+ - Body: Inland Dandelion PLA 1.75mm
+ - Mane: Inland Pink PLA 1.75mm
+ - Tail: Inland Pink PLA 1.75mm
+ - Eyes: Prusa White PLA 1.75mm
+ 
+**Scale**: 250%
+**Print Date**: 2018/02/
+**Print Time**:
+
+ - Body: 
+ - Mane: 
+ - Tail: 
+ - Eyes: 
+ 
+**Estimated Print Time**: 
+
+ - Body: 11 hours 51 minutes
+ - Mane: 6 hours 43 minutes
+ - Tail: 4 hours 10 minutes
+ - Eyes: 23 minutes
+ 
+**Estimated Filament**:  meters
+
+ - Body: 11.6 meters
+ - Mane: 5.6 meters
+ - Tail: 4.3 meters
+ - Eyes: 0.2 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+ 
+
+## Rarity
+
+Flipped mane upside down.
+
+**Source**: [Rarity - MLP:FIM](https://www.thingiverse.com/thing:630744)
+**Maker**: [plenet](https://www.thingiverse.com/plenet)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:630744/zip)
+**Material**: 
+
+ - Body: Prusa White PLA 1.75mm
+ - Mane: Inland Egyptian Blue 1.75mm
+ - Tail: Inland Egyptian Blue 1.75mm
+ - Eyes: Prusa White PLA 1.75mm
+ 
+**Scale**: 250%
+**Print Date**: 2018/02/
+**Print Time**:
+
+ - Body: 
+ - Mane: 
+ - Tail: 
+ - Eyes: 
+ 
+**Estimated Print Time**: 23 hours 15 minutes
+
+ - Body: 9 hours 54 minutes
+ - Mane: 7 hours 5 minutes
+ - Tail: 4 hours 12 minutes
+ - Eyes: 23 minutes
+ 
+**Estimated Filament**: 23.2 meters
+
+ - Body: 10.1 meters
+ - Mane: 5.6 meters
+ - Tail: 3.4 meters
+ - Eyes: 0.2 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+
+## Applejack
+
+Flipped mane upside down.
+
+**Source**: [Applejack - MLP:FIM](https://www.thingiverse.com/thing:630749)
+**Maker**: [plenet](https://www.thingiverse.com/plenet)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:630749/zip)
+**Material**: 
+
+ - Body: Tianse Orange PLA 1.75mm
+ - Mane: Inland Dandelion PLA 1.75mm
+ - Hat: Inland Light Brown PLA 1.75mm
+ - Tail: Inland Dandelion PLA 1.75mm
+ - Eyes: Prusa White PLA 1.75mm
+ 
+**Scale**: 250%
+**Print Date**: 2018/02/
+**Print Time**:
+
+ - Body: 
+ - Mane: 
+ - Hat: 
+ - Tail: 
+ - Eyes: 
+ 
+**Estimated Print Time**: 25 hours 28 minutes
+
+ - Body: 9 hours 44 minutes
+ - Mane: 4 hours 40 minutes
+ - Hat: 4 hours 41 minutes
+ - Tail: 3 hours 34 minutes
+ - Eyes: 23 minutes
+ 
+**Estimated Filament**: 25.2 meters
+
+ - Body: 10 meters
+ - Mane: 3.5 meters
+ - Hat: 4 meters
+ - Tail: 3.7 meters
+ - Eyes: 0.2 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+    
+## Rainbow Dash
+
+Printing the mane pieces upside down.
+
+**Source**: [Rainbow Dash - MLP:FIM](https://www.thingiverse.com/thing:630735)
+**Maker**: [plenet](https://www.thingiverse.com/plenet)
+**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:630735/zip)
+**Material**: 
+
+ - Body: Inland Turquoise PLA 1.75mm
+ - Mane Blue: Inland Egyptian Blue PLA 1.75mm
+ - Mane Green: Inland Peak Green PLA 1.75mm
+ - Mane Orange: Tianse Orange PLA 1.75mm
+ - Mane Pink: Inland Ping PLA 1.75mm
+ - Mane Red: Hatchbox Red PLA 1.75mm
+ - Mane Yellow: Inland Dandelion PLA 1.75mm
+ - Tail Blue: Inland Egyptian Blue PLA 1.75mm
+ - Tail Green: Inland Peak Green PLA 1.75mm
+ - Tail Orange: Tianse Orange PLA 1.75mm
+ - Tail Red: Hatchbox Red PLA 1.75mm
+ - Tail Yellow: Inland Dandelion PLA 1.75mm
+ - Eyes: Prusa White PLA 1.75mm
+ 
+**Scale**: 250%
+**Print Date**: 2018/02/07 - 
+**Print Time**:
+
+ - Body: 
+ - Mane Blue: 
+ - Mane Green: 
+ - Mane Orange: 
+ - Mane Pink: 
+ - Mane Red:
+ - Mane Yellow: 
+ - Tail Blue:
+ - Tail Green:
+ - Tail Orange: 
+ - Tail Red: 
+ - Tail Yellow: 
+ - Eyes: 
+ 
+**Estimated Print Time**: 34 hours 39 minutes
+
+ - Body: 20 hours 8 minutes
+ - Mane Blue: 29 minutes
+ - Mane Green: 21 minutes
+ - Mane Orange: 1 hour 15 minutes
+ - Mane Pink: 35 minutes
+ - Mane Red: 1 hour 7 minutes
+ - Mane Yellow: 48 minutes
+ - Tail Blue: 1 hour 51 minutes
+ - Tail Green: 2 hours 32 minutes
+ - Tail Orange: 1 hour 2 minutes
+ - Tail Red: 1 hour 26 minutes
+ - Tail Yellow: 2 hours 37 minutes
+ - Eyes: 23 minutes
+ 
+**Estimated Filament**: 31.3 meters
+
+ - Body: 19.6 meters
+ - Mane Blue: 0.3 meters
+ - Mane Green: 0.2 meters
+ - Mane Orange: 0.9 meters
+ - Mane Pink: 0.3 meters
+ - Mane Red: 0.8 meters
+ - Mane Yellow: 0.5 meters
+ - Tail Blue: 1.7 meters
+ - Tail Green: 2.4 meters
+ - Tail Orange: 0.5 meters
+ - Tail Red: 1 meter
+ - Tail Yellow: 2.1 meters
+ - Eyes: 0.2 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Supports
+     
+# Paint Rack
+
+https://www.instagram.com/p/BezCq1sAatR/?taken-by=dwyerdevices
+
+!! Post to Thingiverse
+
+**Print Date**: 2018/02/04
+**Print Time**: 2 hours 44 minutes
+**Estimated Print Time**: 2 hours 45 minutes
+**Estimated Filament**: 15.2 meters
+**Slicer**: Cura
+**Slicer Settings**:
+
+ - 0.3mm layers
+ - 10% infill
+ - Supports on Build Plate
+
 # Howl's Moving Castle
+
+Top Printing: https://www.instagram.com/p/BfTI6bSAIYA/?taken-by=dwyerdevices
+
+Bottom and pieces printed: https://www.instagram.com/p/BevO7KEgBNI/?taken-by=dwyerdevices
+
+Top Printed: https://www.instagram.com/p/BfTiRYagZ15/?taken-by=dwyerdevices
+
+Top First Cleaning: https://www.instagram.com/p/BfWjiQaAuTQ/?taken-by=dwyerdevices
+
 
 Top needs to be rotated 90° around the Z axis to fit the build volume of the Prusa i3 mk2.
 
@@ -220,6 +793,7 @@ The 10 year old has a project to come up with a 3D representation of a specific 
 word: sylph. Scouring various model sites, and this resampled version of a statue scan from the [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) seemed like a good fit. We modified
 the model further, by removing most of the base below the feet.
 
+https://www.instagram.com/p/BfUBuXSgSP5/?taken-by=dwyerdevices
 
 **Source**: [Stanford's Lucy](https://www.thingiverse.com/thing:41939)
 **Maker**: [julienM](https://www.thingiverse.com/julienM)
