@@ -132,6 +132,8 @@
 03/14 - Sensor Enclosure
 03/16 - Doll House Dresser
 03/18 - Sylph
+03/20 - Paint Rack
+
 
 # Current
 
@@ -622,22 +624,6 @@ Printing the mane pieces upside down.
  - 20% infill
  - Supports
      
-# Paint Rack
-
-https://www.instagram.com/p/BezCq1sAatR/?taken-by=dwyerdevices
-
-!! Post to Thingiverse
-
-**Print Date**: 2018/02/04
-**Print Time**: 2 hours 44 minutes
-**Estimated Print Time**: 2 hours 45 minutes
-**Estimated Filament**: 15.2 meters
-**Slicer**: Cura
-**Slicer Settings**:
-
- - 0.3mm layers
- - 10% infill
- - Supports on Build Plate
 
 # Howl's Moving Castle
 
