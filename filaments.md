@@ -54,6 +54,8 @@ Red Copper                      | 1kg  | PLA        | Tianse         | 2018/01/1
 Purple                          | 1kg  | PLA        | Tianse         | 2018/01/29
 Light Purple                    | .5kg | PLA        | AIO Robotics   | 2018/02/07
 Black                           | 1kg  | PLA        | Tianse         | 2018/02/07
+White                           | 1kg  | PLA        | Tianse         | 2018/02/26
+Green                           | 1kg  | PLA        | Tianse         | 2018/02/26
 
 ## Finished
 

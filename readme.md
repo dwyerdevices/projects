@@ -69,9 +69,6 @@
  
 # To Post
 
- - Park Bench
- - Mandal dresser 
- - sensor enclosure (slicing)
  - sylph
  - Storage Bins
  
@@ -124,7 +121,6 @@
  
 # Scheduled Posts
 
-02/24 - Bestiary - Bulette
 02/26 - Bestiary - Goblins
 02/28 - Painted Chocobos
 03/02 - Charging Bull
@@ -133,6 +129,9 @@
 03/08 - More Clips
 03/10 - Modding the Broken Airship
 03/12 - Park Bench
+03/14 - Sensor Enclosure
+03/16 - Doll House Dresser
+03/18 - Sylph
 
 # Current
 
@@ -160,41 +159,7 @@ Wait - we have gcode on the SDCard!
 
 
  
-# Sensor Enclosure
 
-A simple sensor enclosure for the 10 year old to do a project with an arduino and an IR sensor.
-
-https://www.instagram.com/p/BfeTVY0gVaU/?taken-by=dwyerdevices
-
-**Material**: Hatchbox Yellow PLA 1.75mm
-**Print Date**: 2018/02/19-20
-**Print Time**:
-
- - base: 
- - body: 
- - side: 
- - top: 
- 
-**Estimated Print Time**:
-
- - base: 36 minutes
- - body: 1 hour 14 minutes
- - side: 18 minutes
- - top: 36 minutes
- 
-**Estimated Filament**:
-
- - base: 1.8 meters
- - body: 4.7 meters
- - side: 1.1 meters
- - top: 1.8 meters
- 
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.2mm layers
- - 20% infill
- - no supports
  
  
 
@@ -208,6 +173,9 @@ Seems like Cura 3.2 is a bit buggy when it comes to enabling Tree Support mode, 
 is already enabled - to trigger slicing it is sometimes necessary to toggle Tree Support off and then on again to
 start slicing.
 
+Printing the wings is a bit of a nightmare - I can't get them to print in their vertical orientation with tree
+supports, attempting with standard supports...
+
 **Source**: [Pegasus](https://www.youmagine.com/designs/pegasus)
 **Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
@@ -215,8 +183,9 @@ start slicing.
 **Material**: 
 
  - Prusa White PLA 1.75mm
+ - Inland Gray PLA 1.75mm
  
-**Print Date**: 2018/02/18
+**Print Date**: 2018/02/18 - 25
 **Print Time**:
 
  - Body: 
@@ -229,7 +198,7 @@ start slicing.
 
  - Body: 4 hours 57 minutes
  - Head: 45 minutes
- - Left Wing: 3 hours
+ - Left Wing: 3 hours 34 minutes
  - Right Wing: 2 hours 45 minutes
  - stand: 3 hours 25 minutes
 
@@ -237,12 +206,12 @@ start slicing.
 
  - Body: 4.8 meters
  - Head: 0.6 meters
- - Left Wing: 2.1 meters
- - Right Wing: 1.86 meters
+ - Left Wing: 3.1 meters
+ - Right Wing: 1.8 meters
  - stand: 2.5 meters
 
 **Slicer**: Cura 3.2
-**Slicer Settings**:
+**Slicer Settings (Head, Body, Stand)**:
 
  - 0.06mm layers
  - 80% infill
@@ -250,60 +219,13 @@ start slicing.
  - supports - experimental tree supports
  - supports from build plate only
 
+**Slicer Settings (Wings)**:
 
-# Ikea Mandal Doll House Dresser
-
-Based on the discontinued 4 drawer Ikea Mandal dresser.
-
-https://www.instagram.com/p/BfE8_gMgxwX/?taken-by=dwyerdevices
-
-Needed to widen the drawer rails by 0.5mm on each side, otherwise the drawers were just
-wide enough, with just enough rail, to slip out and drop down when pushed to one side.
-
-https://www.instagram.com/p/BfEPzAWAkwS/?taken-by=dwyerdevices
-
-**Source**: [Doll House Dresser](https://www.thingiverse.com/thing:2790801)
-**Maker**: [patricknevindwyer](https://www.thingiverse.com/patricknevindwyer)
-**License**: [Creative Commons - Attribution - Share-alike](http://creativecommons.org/licenses/by-sa/3.0/)
-**Models**: [All Files](https://www.thingiverse.com/thing:2790801/zip)
-**Materials**:
- 
- - Prusa White PLA 1.75mm
- - Hatchbox Red PLA 1.75mm
- 
-**Scale**: 1:12, doll house standard
-**Modeling Time**: 2 hours
-**Print Date**: 2018/02/11
-**Print Time**:
-
- - Dresser: 
- - Drawer small: 
- - Drawer small face: 
- - Drawer large x3: 
- - Drawer large face x3: 
-
-**Estimated Print Time**:
-
- - Dresser: 4 hours 17 minutes
- - Drawer small: 39 minutes
- - Drawer small face: 10 minutes
- - Drawer large x3: 2 hours 8 minutes
- - Drawer large face x3: 44 minutes
-
-**Estimated Filament**: 
-
- - Dresser: 14.5 meters
- - Drawer small: 2.1 meters
- - Drawer small face: 0.6 meters
- - Drawer large x3: 6.9 meters
- - Drawer large face x3: 2.4 meters
-
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.20mm layers
- - 20% infill
- - no supports
+ - 0.06mm layers
+ - 80% infill
+ - 8mm brim
+ - supports (standard, zig zag)
+ - supports from everywhere
  
 # Tachikoma
 
@@ -749,14 +671,14 @@ Top needs to be rotated 90° around the Z axis to fit the build volume of the Pr
 
 **Print Time**:
 
- - base: 
- - ears: 
- - eyes: 
- - feet: 
- - mortar and pestle: 
- - tongue: 
- - top: 
- - wings: 
+ - base: 24 hours 54 minutes
+ - ears: 5 hours
+ - eyes: 34 minutes
+ - feet: 41 minutes
+ - mortar and pestle: 18 minutes
+ - tongue: 41 minutes
+ - top: 120 hours 34 minutes
+ - wings: 4 hours
  
 **Estimated Print Time**:
 
@@ -786,31 +708,6 @@ Top needs to be rotated 90° around the Z axis to fit the build volume of the Pr
  - 0.06mm Layers
  - 20% Infill
  - Supports
- 
-# Sylph
-
-The 10 year old has a project to come up with a 3D representation of a specific vocabulary
-word: sylph. Scouring various model sites, and this resampled version of a statue scan from the [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) seemed like a good fit. We modified
-the model further, by removing most of the base below the feet.
-
-https://www.instagram.com/p/BfUBuXSgSP5/?taken-by=dwyerdevices
-
-**Source**: [Stanford's Lucy](https://www.thingiverse.com/thing:41939)
-**Maker**: [julienM](https://www.thingiverse.com/julienM)
-**Licenses**: [Creative Commons - Attribution - Non-Commercial - Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-**Models**: [Lucy_120mm_Simplified.stl](https://www.thingiverse.com/download:252119)
-**Materials**:
-**Print Date**: 2018/01/27
-**Print Time**:
-**Estimated Print Time**: 7 hours 33 minutes
-**Estimated Filament**: 7 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
-
- - 0.10mm layers
- - 20% infill
- - supports
- - Support line width: 0.2mm
  
 
   
@@ -1747,11 +1644,11 @@ more 2x2 or 2x4 stone
 **Print Date**: 2018/01/22 - 24
 **Print Time**:
 
- - Doorways (4x square doors):
- - Doors and tabs (x4): 
- - diagonal half floor 2x2 (x8):
- - corner 2x2 (x4): 
- - Wall 2x2 (x4):
+ - Doorways (4x square doors): 5 hours 56 minutes
+ - Doors and tabs (x4): 2 hours 16 minutes
+ - diagonal half floor 2x2 (x8): 4 hours 2 minutes
+ - corner 2x2 (x4):  8 hours 20 minutes
+ - Wall 2x2 (x4): - 
  
 **Estimated Print Time**:
 
