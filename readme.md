@@ -44,19 +44,106 @@
  - RPGTools (Kickstarter)
  - HO Scale buildings (Kickstarter)
  - Ancient Rome Buildings (Kickstarter)
-     •	28mm to get - 127% (Cura 1.27)
  - War Layer/Orbital Drop (Kickstarter)
  - SciFi Structures (Kickstarter - need to download when available)      
  - Gaming Sailing Ships (Kickstarter - need to download when available)     
+ - Check all kickstarters
+ 
+# Kickstarters
+
+## RPGTools
+ 
+ - [RPG Tools](https://www.kickstarter.com/projects/1978496658/rpg-tools-rpg-wargame-3d-printable-items)
+ - (in library/rpgtools) 
+ - last checked 2018/01/01
+ - file distribution complete
+ 
+### Printed
+
+ - [Airship Model Errors](http://www.dwyerdevices.com/2018/01/25/airship-1-model-errors/)
+ - [Modding the Broken Airships](http://www.dwyerdevices.com/2018/03/10/modding-the-broken-airship/)
+
+## Printable Old West (aka HO Scale Old West) 
+
+ - [3D Printable Old West Buildings](https://www.kickstarter.com/projects/1656788771/old-west-buildings-for-ho-scale-train-layouts-and)
+ - (in library/HO Scale Old West)
+ - last checked 2018/02/27
+ - on Google Drive: https://drive.google.com/drive/u/0/folders/1-ayS318NdqXHfJ5Exrg_l1fz9SlkQxp-
+
+## Scatter Blocks
+
+ - [Scatter Blocks](https://www.kickstarter.com/projects/292543184/scatterblocks)
+ - not yet available
+
+## ShipWorks 3D
+
+ - [ShipWorks 3D Printable Ship Terrain](https://www.kickstarter.com/projects/1311072974/shipworks-3d-printable-ship-terrain)
+ - not yet available
+
+## Printable SciFi Structures - Project Mobius
+
+ - [Printable SciFi Structures - Project Mobius](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table)
+ - (in library/scifi structures)
+ - last checked 2018/02/27
+ - on Google Drive: https://drive.google.com/drive/u/0/folders/1TpFEtBGRnNaWaYnHiJEIrpBCuDwbYr68
+
+### Printed
+
+
+## Tavern-Born
+
+ - [Tavern Born: 3d Printable 28mm Terrain](https://www.kickstarter.com/projects/hobgoblin3d/tavern-borntm-raghaven-hamlet-3d-printable-28mm-te)
+ - not yet available
+ - last checked 2018/02/27
+
+## Castle Project
+
+ - [Castle Project](https://www.kickstarter.com/projects/1091743840/castle-project-3d-printable-castle-compatible-open)
+ - not yet available
+ - last checked 2018/02/27
+
+## War Layer
+
+ - [War Layer: Oribital Drop](https://www.kickstarter.com/projects/1989721065/warlayer-3d-printable-terrain-orbital-drop)
+ - (in library/War Layer)
+ - last checked 2018/02/27
+ - on Google Drive: various
+
+
+## Printable Tabletop Terrain for Japan/China
+
+ - [Printable Tabletop Terrain for Japan/China](https://www.kickstarter.com/projects/3d-print-terrain/printable-terrain-for-your-3d-printer-japan-china/description)
+ - not yet available
+ - last checked 2018/03/11
+ 
+## Printable Tabletop Terrain for Ancient Rome
+
+ - [Printable Tabletop Terrain for Ancient Rome](https://www.kickstarter.com/projects/3d-print-terrain/printable-tabletop-terrain-for-ancient-rome)
+ - (in library/ancient rome)
+ - download link: https://c.1und1.de/@518088257385267780/4aLgEbD4SLqj3JU6ox0uUQ
+ - download pass: rome20181
+ - last checked 2018/02/27
+ 
+Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
+  
+## Path of Osiris
+ 
+ - [Path of Osiris Extended: Egyptian Terrain](https://www.kickstarter.com/projects/1536984495/the-path-of-osiris-extended-egyptian-dungeon-game)
+ - not yet available
+ - last checked 2018/02/27
+ 
  
 # Transfer to sdcard
-  
+
+ 
 # To Finish
 
  - geometry bracelet
  - airship
   - vertical turbine
-  
+ - judgement class capital ship
+ - shipyard
+   
 # To Instagram
 
  - gits logo
@@ -91,6 +178,11 @@
  
 # Production Schedule
 
+ - modular container ship
+ - applejack mane
+ - smugglers ship
+ - bell
+
  - Hei's Blade (printed - finishing)
  - Chocobo Feet x2 (on sd) - one more set needed
  - Ignis Scientia Blade (printed - finishing)
@@ -105,6 +197,17 @@
  - Howl's Moving Castle - Top (printed - finishing)
  - Bestiary - Pegasus (printing)
  - Caged Arena (Undermountain 8) (slicing)
+ - Judgement Capital Ship (printed)
+ - SciFi structures - Shipyard (sliced)
+ - (here) shipyard
+ - civilian cargo ship
+ - civilian ship
+ - leviathan carrier
+ - scout ship
+ - mobile ship yard
+ - space station
+ - container ship
+ - mag tool mounts 
  - Voltron - Bayard
  - Bestiary - Roc
  - Cavern River (Undermountain 9)
@@ -160,10 +263,472 @@ Wait - we have gcode on the SDCard!
 **Test Date**: -
 
 
+# More Ships
+
+Frigate - https://www.thingiverse.com/thing:2480390
+Escort Ship - https://www.thingiverse.com/thing:2480377
+Ulysses - https://www.thingiverse.com/thing:1581465
+Transport - https://www.thingiverse.com/thing:550483
+
+Mechanius Cruiser - https://www.thingiverse.com/thing:2579519
+Star Citizen 300i - https://www.thingiverse.com/thing:335767
+SpaceX BFR - https://www.thingiverse.com/thing:2565361
+Wipeout Pod Racer - https://www.thingiverse.com/thing:2348633
+Star Wars / Toscan Fighter - https://www.thingiverse.com/thing:1582643
+Star Wars / Interdictor Cruiser - https://www.thingiverse.com/thing:812945
+Star Wars / First Order Dreadnought - https://www.thingiverse.com/thing:2742289
+
+Star Wars / Vader Pod Racer - https://www.thingiverse.com/thing:2448998
+Star Wars / Old Republic Imperial Destroyer - https://www.thingiverse.com/thing:1112088
+Star Wars / Millenium Falcon - https://www.thingiverse.com/thing:919475
+
+
+# Ships - Hiigarian Battlecruiser
+
+**Source**: [Hiigarian Battlecruiser](https://www.thingiverse.com/thing:2221712)
+**Maker**: [Verskon](https://www.thingiverse.com/Verskon)
+**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+
+
+
+# Ships - Star Wars - Smuggler's Ship
+
+**Source**: [Star Wars the Old Republic Smuggler Ship](https://www.thingiverse.com/thing:1112069)
+**Maker**: [Gargi](https://www.thingiverse.com/Gargi)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [All Files](https://www.thingiverse.com/thing:1112069/zip)
+**Scale**: 30%
+**Final Size**: 
+
+ - cut 1: 45.7mm x 14.7mm x 21.3mm
+ - cut 2: 47.8mm x 15.3mm x 33.6mm
+ 
+**Material**:
+**Print Date**:
+**Print Time**:
+
+ - cut 1:
+ - cut 2:
+ 
+**Estimated Print Time**:
+
+ - cut 1: 1 hour 52 minutes
+ - cut 2: 2 hours 20 minutes
+ 
+**Estimated Filament**:
+
+ - cut 1: 1.3 meters
+ - cut 2: 1.5 meters
+ 
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+  - 0.06mm layers
+  - 30% infill
+  - raft support
+  - supports touching build plate
+  - support pattern: lines
+
+
+# Ships - Star Wars - Mobquet Transport
+
+**Source**: [Mobquet Transport](https://www.thingiverse.com/thing:550483)
+**Maker**: [Avioza](https://www.thingiverse.com/Avioza)
+**License**: [Creative Commons - Attribution - Share-alike](http://creativecommons.org/licenses/by-sa/3.0/)
+**Model**: [Mobquet_Union__repaired_.stl](https://www.thingiverse.com/download:895470)
+**Scale**: 1250%
+**Final Size**: 27.2mm x 95.3mm x 33.5mm
+**Material**:
+**Print Date**: 2018/03/10
+**Print Time**:
+**Estimated Print Time**: 8 hours 6 minutes
+**Estimated Filament**: 7.9 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - Generate Supports
+ - Support pattern: lines
+ - Build plate adhesion: raft
+  - 1st print using a raft air gap 0f 0.3mm
+  - 2nd print using a raft air gap of 0.4mm
+ 
+# Magnetic Tool Mount
+
+Experiment with a wall mounted magnetic attachment point for hanging metal tools. Uses 3mm or larger
+magnetic balls, which float in the assembled mounting. Has a variable width screw/nail mounting hole
+on the back. Assmebled with glue.
+
+**Models**:
+
+ - mount: 
+ - back: 
+ - front: 
+
+**Material**: Hatchbox Yellow PLA 1.75mm
+**Print Date**: 2018/03/?
+**Print Time**: 
+
+ - mount: 
+ - back: 
+ - front: 
+
+**Estimated Print Time**:
+
+ - mount: 29 minutes
+ - back: 20 minutes
+ - front: 20 minutes
+
+**Estimated Filament**:
+
+ - mount: 1.2 meters
+ - back: 0.9 meters
+ - front: 0.9 meters
+
+**Slicer**: Cura 3
+**Slicer Settings**:
+
+ - 0.15mm layers
+ - 20% infill
+ - build plate adhesion
+ - no supports
+ 
+# Ships - Battlecruiser
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the **battlecruiser_repaired.stl**.
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: battlecruiser_repaired.stl
+**License**: []()
+**Material**: Gizmodorks Translucent Blue PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 21.5mm x 18.6mm x 71.6mm
+**Print Date**: 2018/02/28
+**Print Time**:
+**Estimated Print Time**: 3 hours 47 minutes
+**Estimated Filament**: 2.3 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - include supports
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers
+ 
+# Ships - Pegasus Class Carrier
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**pegasus_class_carrier argama.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: pegasus_class_carrier argama.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 46.4mm x 91.4mm x 14.8mm
+**Print Date**: 2018/03/01
+**Print Time**:
+**Estimated Print Time**: 7 hours 55 minutes
+**Estimated Filament**: 6.4 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - include supports
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers
+ 
+# Ships - Judgement Class Capital Ship
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**Judgement class - capital ship.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: Judgement class - capital ship.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 12.6mm x 85.0mm x 14.3mm
+**Print Date**: 2018/03/03
+**Print Time**:
+**Estimated Print Time**: 3 hours 21 minutes
+**Estimated Filament**: 2.5 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - 50% infill
+ - 0.06mm layers 
+ 
+# Ships - Civilian Cargo Ship
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**civilian_cargo_ship.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: civilian_cargo_ship.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 10.2mm x 46.9mm x 15.1mm
+**Print Date**: 2018/03/04
+**Print Time**:
+**Estimated Print Time**: 1 hour 53 minutes
+**Estimated Filament**: 1.5 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers  
+
+# Ships - Civilian Ship
+ 
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**civilian_space_craft.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: civilian_space_craft.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 12.5mm x 45.5mm x 10.0mm
+**Print Date**: 2018/03/04
+**Print Time**:
+**Estimated Print Time**: 51 minutes
+**Estimated Filament**: 0.6 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers  
+ 
+# Ships - Leviathan Class Carrier
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**Leviathan Class Space Carrier - The Duke.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: Leviathan Class Space Carrier - The Duke.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 23.0mm x 71.2mm x 7.9mm
+**Print Date**: 2018/03/?
+**Print Time**:
+**Estimated Print Time**: 4 hours 4 minutes
+**Estimated Filament**: 2.7 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers  
+  
+  
+# Ships - Scout Ship
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**raven class scout ship.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: raven class scout ship.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 8.8mm x 50.9mm x 12.6mm
+**Print Date**: 2018/03/?
+**Print Time**:
+**Estimated Print Time**: 1 hour 30 minutes
+**Estimated Filament**: 1.1 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers  
+
+# Ships - Mobile Shipyard
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**Pluto Class Mobile Shipyard - Albion_stretchgoal2.stl**
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: Pluto Class Mobile Shipyard - Albion_stretchgoal2.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 24.7mm x 96.4mm x 12.1mm
+**Print Date**: 2018/03/?
+**Print Time**:
+**Estimated Print Time**: 5 hours 41 minutes
+**Estimated Filament**: 5.3 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers  
+ 
+# Ships - Space Station
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**space_station_repaired.stl**
+
+The space station model is intricate, and standard supports could be very messy to clean up. We're going
+to try a smaller line thickness for the supports, so they are both easy to differentiate from the model
+portions, but also somewhat easier to remove in small or awkward spaces.
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: space_station_repaired.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 41.5mm x 58.9mm x 41.5mm
+**Print Date**: 2018/03/?
+**Print Time**:
+**Estimated Print Time**: 8 hours 6 minutes
+**Estimated Filament**: 4.4 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - Support line width: 0.2mm
+ - build plate adhesion
+ - 50% infill
+ - 0.06mm layers 
+
+# Ships - Cargo Ship
+
+This ship is from MyMiniFactory user Currahee; a modular cargo ship.
+
+**Source**: [Modular Container Ship 1](https://www.myminifactory.com/object/3d-print-spaceship-for-tabletop-games-modular-container-ship-1-merchant-27584?storeview=shop)
+**Maker**: [currahee](https://www.myminifactory.com/users/currahee)
+**Model**: [All Files]()
+**License**: [Download - Print - Share - Maintain](https://www.myminifactory.com/pages/object-licensing)
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 150%
+**Final Size**: 
+**Print Date**: 2018/03/11
+**Print Time**:
+**Estimated Print Time**: 2 hours 40 minutes
+**Estimated Filament**: 6 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - no support
+ - no adhesion
+ - 40% infill
+ - 0.15mm layers
  
 
+# SciFi Structures - Ship Yard
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**shiyard_stretch_goal_4.stl**
+
+First pass print, at 0.4mm layers, was a failure: that's the absolute uppper limit for the current
+nozzle on the Prusa, and layer adhesion and consistency was messy. Without plate adhesion in a brim,
+the messy layering for the base pulled up from the plate. Reslicing with slightly better quality, at
+a premium of greatly extended print time.
+
+**Source**: SciFi Structures - Printable Structures Pack
+**Maker**: []()
+**Model**: shipyard_stretch_goal_4_.stl
+**License**:
+**Material**: Inland Dandelion PLA 1.75mm
+**Scale**: 100%
+**Final Size**: 100.0mm x 60.3mm x 66.3mm
+**Print Date**: 2018/03/?
+**Print Time**:
+**Estimated Print Time**: 6 hours 33 minutes
+**Estimated Filament**: 19.0 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - plate adhesion
+ - 30% infill
+ - 0.2mm layers
+  
+ 
+# China Project
+
+china house icon.stl x5
+ - resized x axis to 15mm
+ - estimated print time: 16 minutes
+ - 0.4 meters
+ 
+china great wall piece.stl x10
+ - resized x axis to 2cm wide
+ - resized x axis to 4cm wide (2nd pass)
+ - estimated print time @ 2cm: 55 minutes
+ - esitmated print time @ 4cm: 3 hours 31 minutes
+ - estimated filament @ 2cm: 1.1 meters
+ - estimated filament @ 4cm: 5.0 meters
+  
+china great wall piece 2.stl x6
+ - resized y axis to 5mm
+ - no resizing (2nd pass)
+ - estimated print time: 30 minutes
+ - estimated print time (2nd pass): 2 hours 10 minutes
+ - estimated filament: 0.5 meters
+ - estimated filament (2nd pass): 2.5 meters
+
+open book.stl 
+ - material: Prusa White PLA 1.75mm
+ - scaled 150%
+ - print time: 35 minutes
+ - estimated print time: 35 minutes
+ - estimated filament: 1.1 meters
  
  
+crown.stl
+ - gold
+ - 150% scale
+ - 0.10mm layers
+ - 90% infill
+ - print time:
+ - estimated print time: 16 minutes
+ - estimated filament: 0.3 meters
+ 
+throne.stl
+ - material: Hatchbox Red PLA 1.75mm
+ - rotated 270° around x-axis
+ - scaled 300%
+ - 0.20mm layers
+ - print time: 
+ - estimated print time: 2 hours 4 minutes
+ - estimated filament: 8.2 meters
+
+bell.stl
+ - 0.20mm layers
+ - 20% infill
+ - generate support
+ - plate adhesion: brim
+ - material: Tianse Bronze PLA 1.75mm
+ - estimated print time: 5 hours 5 minutes
+ - estimated filament: 18.8 meters
+
+20% infill
+0.10mm layers
+
+
 
 # Bestiary - Pegasus
 
@@ -340,14 +905,14 @@ flipped the mane upside down.
 **Estimated Print Time**: 22 hours 31 minutes
 
  - Body: 12 hours 1 minute
- - Mane: 3 hours 56 minutes
+ - Mane: 4 hours 34 minutes
  - Tail: 3 hours 40 minutes
  - Eyes: 23 minutes
  
 **Estimated Filament**: 21.5 meters
 
  - Body: 11.7 meters
- - Mane: 2.63 meters
+ - Mane: 3.4 meters
  - Tail: 3.6 meters
  - Eyes: 0.2 meters
  
@@ -357,6 +922,12 @@ flipped the mane upside down.
  - 0.06mm layers
  - 20% infill
  - Supports
+ - Mane:
+  - supports from everywhere
+  - tree supports
+  - raft
+  - raft air gap 0.3mm
+  - experimental tree support
 
 ## Pinkie Pie
 
@@ -496,7 +1067,13 @@ Flipped mane upside down.
 
 ## Applejack
 
-Flipped mane upside down.
+For mane: 
+
+Attempt 1: scaled as is **fail**
+
+Attempt 2: Flipped mane upside down **fail**
+
+Attempt 3: Flipped mane upside down, raft, tree supports 
 
 **Source**: [Applejack - MLP:FIM](https://www.thingiverse.com/thing:630749)
 **Maker**: [plenet](https://www.thingiverse.com/plenet)
@@ -523,7 +1100,7 @@ Flipped mane upside down.
 **Estimated Print Time**: 25 hours 28 minutes
 
  - Body: 9 hours 44 minutes
- - Mane: 4 hours 40 minutes
+ - Mane: 5 hours 24 minutes
  - Hat: 4 hours 41 minutes
  - Tail: 3 hours 34 minutes
  - Eyes: 23 minutes
@@ -531,7 +1108,7 @@ Flipped mane upside down.
 **Estimated Filament**: 25.2 meters
 
  - Body: 10 meters
- - Mane: 3.5 meters
+ - Mane: 4.2 meters
  - Hat: 4 meters
  - Tail: 3.7 meters
  - Eyes: 0.2 meters
@@ -541,7 +1118,12 @@ Flipped mane upside down.
 
  - 0.06mm layers
  - 20% infill
- - Supports
+ - Mane:
+  - supports from everywhere
+  - tree supports
+  - raft
+  - raft air gap 0.3mm
+  - experimental tree support
     
 ## Rainbow Dash
 
