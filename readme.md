@@ -51,6 +51,7 @@
  
 # Kickstarters
 
+
 ## RPGTools
  
  - [RPG Tools](https://www.kickstarter.com/projects/1978496658/rpg-tools-rpg-wargame-3d-printable-items)
@@ -131,6 +132,20 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  - [Path of Osiris Extended: Egyptian Terrain](https://www.kickstarter.com/projects/1536984495/the-path-of-osiris-extended-egyptian-dungeon-game)
  - not yet available
  - last checked 2018/02/27
+
+## Lost Islands 
+
+ - [Lost Islands - 3D Printable Terrain](https://www.kickstarter.com/projects/printablescenery/the-lost-islands-3d-printable-terrain-for-rpg-and?ref=email)
+ - not yet available
+ - last checked 2018/03/14
+ 
+## Forest of Oakenspire
+
+ - Oakenspire Adventurer level
+ - [Forest of Oakenspire - 3D Printable Tabletop Models](https://www.kickstarter.com/projects/ecaroth/forest-of-oakenspire-3d-printable-tabletop-models?ref=email)
+ - not yet available
+ - last checked 2018/03/14
+ 
  
  
 # Transfer to sdcard
@@ -153,6 +168,23 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
 # To post to Thingiverse
  
  - paint rack
+ 
+ 
+# To Write
+
+ - Ships - Battlecruiser
+ - Ships - Pegasus Carrier
+ - Ships - Judgement Class Capital Ship
+ - China project
+ - Ships - Shipyard
+ - Ships - Scout Ship
+ - Ships - Mobile Ship Yard
+ - SHips - Civilian Ship
+ - Ships - Civilian Cargo Ship
+ - SHips - Modular Cargo Ship
+ - Ships - Space Station
+ - Ships - Leviathan
+ - Ships - Mobquet Transport
  
 # To Post
 
@@ -195,7 +227,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  - Mane 6 - Applejack (in progress)
  - Mane 6 - Rainbow Dash (in progress)
  - Howl's Moving Castle - Top (printed - finishing)
- - Bestiary - Pegasus (printing)
+
  - Caged Arena (Undermountain 8) (slicing)
  - Judgement Capital Ship (printed)
  - SciFi structures - Shipyard (sliced)
@@ -224,18 +256,9 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # Scheduled Posts
 
-02/26 - Bestiary - Goblins
-02/28 - Painted Chocobos
-03/02 - Charging Bull
-03/04 - Great Buddha at Kamakura
-03/06 - Mini Great Buddha
-03/08 - More Clips
-03/10 - Modding the Broken Airship
-03/12 - Park Bench
-03/14 - Sensor Enclosure
-03/16 - Doll House Dresser
 03/18 - Sylph
 03/20 - Paint Rack
+03/22 - Bestiary - Pegasus
 
 
 # Current
@@ -340,7 +363,7 @@ Star Wars / Millenium Falcon - https://www.thingiverse.com/thing:919475
 **Final Size**: 27.2mm x 95.3mm x 33.5mm
 **Material**:
 **Print Date**: 2018/03/10
-**Print Time**:
+**Print Time**: 7 hours 44 minutes
 **Estimated Print Time**: 8 hours 6 minutes
 **Estimated Filament**: 7.9 meters
 **Slicer**: Cura 3
@@ -407,7 +430,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 21.5mm x 18.6mm x 71.6mm
 **Print Date**: 2018/02/28
-**Print Time**:
+**Print Time**: 3 housr 27 minutes
 **Estimated Print Time**: 3 hours 47 minutes
 **Estimated Filament**: 2.3 meters
 **Slicer**: Cura 3
@@ -431,7 +454,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 46.4mm x 91.4mm x 14.8mm
 **Print Date**: 2018/03/01
-**Print Time**:
+**Print Time**: 7 hours 26 minutes
 **Estimated Print Time**: 7 hours 55 minutes
 **Estimated Filament**: 6.4 meters
 **Slicer**: Cura 3
@@ -455,7 +478,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 12.6mm x 85.0mm x 14.3mm
 **Print Date**: 2018/03/03
-**Print Time**:
+**Print Time**: 3 hours 5 minutes
 **Estimated Print Time**: 3 hours 21 minutes
 **Estimated Filament**: 2.5 meters
 **Slicer**: Cura 3
@@ -478,7 +501,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 10.2mm x 46.9mm x 15.1mm
 **Print Date**: 2018/03/04
-**Print Time**:
+**Print Time**: 1 hour 44 minutes
 **Estimated Print Time**: 1 hour 53 minutes
 **Estimated Filament**: 1.5 meters
 **Slicer**: Cura 3
@@ -502,7 +525,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 12.5mm x 45.5mm x 10.0mm
 **Print Date**: 2018/03/04
-**Print Time**:
+**Print Time**: 49 minutes
 **Estimated Print Time**: 51 minutes
 **Estimated Filament**: 0.6 meters
 **Slicer**: Cura 3
@@ -526,7 +549,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 23.0mm x 71.2mm x 7.9mm
 **Print Date**: 2018/03/?
-**Print Time**:
+**Print Time**: 3 hours 46 minutes
 **Estimated Print Time**: 4 hours 4 minutes
 **Estimated Filament**: 2.7 meters
 **Slicer**: Cura 3
@@ -551,7 +574,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 8.8mm x 50.9mm x 12.6mm
 **Print Date**: 2018/03/?
-**Print Time**:
+**Print Time**: 1 hour 23 minutes
 **Estimated Print Time**: 1 hour 30 minutes
 **Estimated Filament**: 1.1 meters
 **Slicer**: Cura 3
@@ -575,7 +598,7 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
 **Scale**: 100%
 **Final Size**: 24.7mm x 96.4mm x 12.1mm
 **Print Date**: 2018/03/?
-**Print Time**:
+**Print Time**: 5 hours 28 minutes
 **Estimated Print Time**: 5 hours 41 minutes
 **Estimated Filament**: 5.3 meters
 **Slicer**: Cura 3
@@ -603,7 +626,7 @@ portions, but also somewhat easier to remove in small or awkward spaces.
 **Scale**: 100%
 **Final Size**: 41.5mm x 58.9mm x 41.5mm
 **Print Date**: 2018/03/?
-**Print Time**:
+**Print Time**: 7 hours 26 minutes
 **Estimated Print Time**: 8 hours 6 minutes
 **Estimated Filament**: 4.4 meters
 **Slicer**: Cura 3
@@ -626,7 +649,7 @@ This ship is from MyMiniFactory user Currahee; a modular cargo ship.
 **Scale**: 150%
 **Final Size**: 
 **Print Date**: 2018/03/11
-**Print Time**:
+**Print Time**: 2 hours 30 minutes
 **Estimated Print Time**: 2 hours 40 minutes
 **Estimated Filament**: 6 meters
 **Slicer**: Cura 3
@@ -656,7 +679,7 @@ a premium of greatly extended print time.
 **Scale**: 100%
 **Final Size**: 100.0mm x 60.3mm x 66.3mm
 **Print Date**: 2018/03/?
-**Print Time**:
+**Print Time**: 6 hours 6 minutes
 **Estimated Print Time**: 6 hours 33 minutes
 **Estimated Filament**: 19.0 meters
 **Slicer**: Cura 3
@@ -669,14 +692,19 @@ a premium of greatly extended print time.
  
 # China Project
 
+2018/03/01 - 2018/03/11
+
 china house icon.stl x5
  - resized x axis to 15mm
+ - print time: 17 minutes
  - estimated print time: 16 minutes
  - 0.4 meters
  
 china great wall piece.stl x10
  - resized x axis to 2cm wide
  - resized x axis to 4cm wide (2nd pass)
+ - print time: 52 minutes
+ - print time: 3 hours 18 minutes
  - estimated print time @ 2cm: 55 minutes
  - esitmated print time @ 4cm: 3 hours 31 minutes
  - estimated filament @ 2cm: 1.1 meters
@@ -685,6 +713,8 @@ china great wall piece.stl x10
 china great wall piece 2.stl x6
  - resized y axis to 5mm
  - no resizing (2nd pass)
+ - print time: 29 minutes
+ - print time: 2 hours 2 minutes
  - estimated print time: 30 minutes
  - estimated print time (2nd pass): 2 hours 10 minutes
  - estimated filament: 0.5 meters
@@ -703,7 +733,7 @@ crown.stl
  - 150% scale
  - 0.10mm layers
  - 90% infill
- - print time:
+ - print time: 17 minutes
  - estimated print time: 16 minutes
  - estimated filament: 0.3 meters
  
@@ -712,7 +742,7 @@ throne.stl
  - rotated 270° around x-axis
  - scaled 300%
  - 0.20mm layers
- - print time: 
+ - print time: 2 hours 1 minute
  - estimated print time: 2 hours 4 minutes
  - estimated filament: 8.2 meters
 
@@ -722,6 +752,7 @@ bell.stl
  - generate support
  - plate adhesion: brim
  - material: Tianse Bronze PLA 1.75mm
+ - print time: 4 hours 49 minutes
  - estimated print time: 5 hours 5 minutes
  - estimated filament: 18.8 meters
 
@@ -730,69 +761,7 @@ bell.stl
 
 
 
-# Bestiary - Pegasus
 
-Testing out a few things on this print: the experimental branching tree supports, and 80% infill on a creature
-to better support delicate features. If this is successful we're printing two of these: one for our collection, 
-one for one of the 10 year old's friends at school.
-
-Seems like Cura 3.2 is a bit buggy when it comes to enabling Tree Support mode, or loading a model when Tree Support
-is already enabled - to trigger slicing it is sometimes necessary to toggle Tree Support off and then on again to
-start slicing.
-
-Printing the wings is a bit of a nightmare - I can't get them to print in their vertical orientation with tree
-supports, attempting with standard supports...
-
-**Source**: [Pegasus](https://www.youmagine.com/designs/pegasus)
-**Maker**: [Harrison Baere](https://www.youmagine.com/mz4250)
-**License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
-**Model**: [All Files]()
-**Material**: 
-
- - Prusa White PLA 1.75mm
- - Inland Gray PLA 1.75mm
- 
-**Print Date**: 2018/02/18 - 25
-**Print Time**:
-
- - Body: 
- - Head: 
- - Left Wing: 
- - Right Wing: 
- - stand: 
- 
-**Estimated Print Time**:
-
- - Body: 4 hours 57 minutes
- - Head: 45 minutes
- - Left Wing: 3 hours 34 minutes
- - Right Wing: 2 hours 45 minutes
- - stand: 3 hours 25 minutes
-
-**Estimated Filament**:
-
- - Body: 4.8 meters
- - Head: 0.6 meters
- - Left Wing: 3.1 meters
- - Right Wing: 1.8 meters
- - stand: 2.5 meters
-
-**Slicer**: Cura 3.2
-**Slicer Settings (Head, Body, Stand)**:
-
- - 0.06mm layers
- - 80% infill
- - 8mm brim
- - supports - experimental tree supports
- - supports from build plate only
-
-**Slicer Settings (Wings)**:
-
- - 0.06mm layers
- - 80% infill
- - 8mm brim
- - supports (standard, zig zag)
- - supports from everywhere
  
 # Tachikoma
 
@@ -956,14 +925,14 @@ Flipped mane upside down.
 **Estimated Print Time**: 18 hours 23 minutes
 
  - Body: 9 hours 46 minutes
- - Mane: 6 hours 36 minutes
+ - Mane: 9 hours 40 minutes
  - Tail: 5 hours 19 minutes
  - Eyes: 23 minutes
  
 **Estimated Filament**: 25 meters
 
  - Body: 10 meters
- - Mane: 6.3 meters
+ - Mane: 8.8 meters
  - Tail: 6 meters
  - Eyes: 0.2 meters
  
@@ -973,6 +942,12 @@ Flipped mane upside down.
  - 0.06mm layers
  - 20% infill
  - Supports
+ - Mane:
+  - supports from everywhere
+  - tree supports
+  - raft
+  - raft air gap 0.3mm
+  - experimental tree support
  
 ## Fluttershy
 
@@ -1001,14 +976,14 @@ Flipped mane upside down.
 **Estimated Print Time**: 
 
  - Body: 11 hours 51 minutes
- - Mane: 6 hours 43 minutes
+ - Mane: 9 hours 27 minutes
  - Tail: 4 hours 10 minutes
  - Eyes: 23 minutes
  
 **Estimated Filament**:  meters
 
  - Body: 11.6 meters
- - Mane: 5.6 meters
+ - Mane: 8.7 meters
  - Tail: 4.3 meters
  - Eyes: 0.2 meters
  
@@ -1018,6 +993,12 @@ Flipped mane upside down.
  - 0.06mm layers
  - 20% infill
  - Supports
+ - Mane:
+  - supports from everywhere
+  - tree supports
+  - raft
+  - raft air gap 0.3mm
+  - experimental tree support
  
 
 ## Rarity
@@ -1047,14 +1028,14 @@ Flipped mane upside down.
 **Estimated Print Time**: 23 hours 15 minutes
 
  - Body: 9 hours 54 minutes
- - Mane: 7 hours 5 minutes
+ - Mane: 9 hours 45 minutes
  - Tail: 4 hours 12 minutes
  - Eyes: 23 minutes
  
 **Estimated Filament**: 23.2 meters
 
  - Body: 10.1 meters
- - Mane: 5.6 meters
+ - Mane: 8.9 meters
  - Tail: 3.4 meters
  - Eyes: 0.2 meters
  
@@ -1064,6 +1045,12 @@ Flipped mane upside down.
  - 0.06mm layers
  - 20% infill
  - Supports
+ - Mane:
+  - supports from everywhere
+  - tree supports
+  - raft
+  - raft air gap 0.3mm
+  - experimental tree support
 
 ## Applejack
 
