@@ -172,7 +172,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # To Write
 
- - Ships - Judgement Class Capital Ship
+
  - China project
  - Ships - Shipyard
  - Ships - Scout Ship
@@ -227,7 +227,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  - Howl's Moving Castle - Top (printed - finishing)
 
  - Caged Arena (Undermountain 8) (slicing)
- - Judgement Capital Ship (printed)
+
  - SciFi structures - Shipyard (sliced)
  - (here) shipyard
  - civilian cargo ship
@@ -259,6 +259,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
 03/22 - Bestiary - Pegasus
 03/24 - Ships - Battlecruiser
 03/26 - Ships - Pegasus class Carrier
+03/28 - Ships - Judgement class Capital Ship
 
 # Current
 
@@ -420,29 +421,7 @@ on the back. Assmebled with glue.
  
 
  
-# Ships - Judgement Class Capital Ship
 
-Going through the various Kickstarter projects we've backed recently, picking some models from each
-to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
-**Judgement class - capital ship.stl**
-
-**Source**: SciFi Structures - All Spaceships Pack
-**Maker**: []()
-**Model**: Judgement class - capital ship.stl
-**License**:
-**Material**: Inland Silver PLA 1.75mm
-**Scale**: 100%
-**Final Size**: 12.6mm x 85.0mm x 14.3mm
-**Print Date**: 2018/03/03
-**Print Time**: 3 hours 5 minutes
-**Estimated Print Time**: 3 hours 21 minutes
-**Estimated Filament**: 2.5 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
- - generate support
- - 50% infill
- - 0.06mm layers 
- 
 # Ships - Civilian Cargo Ship
 
 Going through the various Kickstarter projects we've backed recently, picking some models from each
