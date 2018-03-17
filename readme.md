@@ -172,7 +172,6 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # To Write
 
- - Ships - Battlecruiser
  - Ships - Pegasus Carrier
  - Ships - Judgement Class Capital Ship
  - China project
@@ -259,7 +258,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
 03/18 - Sylph
 03/20 - Paint Rack
 03/22 - Bestiary - Pegasus
-
+03/24 - Ships - Battlecruiser
 
 # Current
 
@@ -417,28 +416,7 @@ on the back. Assmebled with glue.
  - build plate adhesion
  - no supports
  
-# Ships - Battlecruiser
 
-Going through the various Kickstarter projects we've backed recently, picking some models from each
-to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the **battlecruiser_repaired.stl**.
-
-**Source**: SciFi Structures - All Spaceships Pack
-**Maker**: []()
-**Model**: battlecruiser_repaired.stl
-**License**: []()
-**Material**: Gizmodorks Translucent Blue PLA 1.75mm
-**Scale**: 100%
-**Final Size**: 21.5mm x 18.6mm x 71.6mm
-**Print Date**: 2018/02/28
-**Print Time**: 3 housr 27 minutes
-**Estimated Print Time**: 3 hours 47 minutes
-**Estimated Filament**: 2.3 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
- - include supports
- - build plate adhesion
- - 50% infill
- - 0.06mm layers
  
 # Ships - Pegasus Class Carrier
 
