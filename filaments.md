@@ -56,6 +56,7 @@ Light Purple                    | .5kg | PLA        | AIO Robotics   | 2018/02/0
 Black                           | 1kg  | PLA        | Tianse         | 2018/02/07
 White                           | 1kg  | PLA        | Tianse         | 2018/02/26
 Green                           | 1kg  | PLA        | Tianse         | 2018/02/26
+Clear                           | 1kg  | PLA        | Pxmalion       | 2018/03/26
 
 ## Finished
 

@@ -68,12 +68,13 @@
 
  - [3D Printable Old West Buildings](https://www.kickstarter.com/projects/1656788771/old-west-buildings-for-ho-scale-train-layouts-and)
  - (in library/HO Scale Old West)
- - last checked 2018/02/27
+ - last checked 2018/03/21
  - on Google Drive: https://drive.google.com/drive/u/0/folders/1-ayS318NdqXHfJ5Exrg_l1fz9SlkQxp-
 
 ## Scatter Blocks
 
  - [Scatter Blocks](https://www.kickstarter.com/projects/292543184/scatterblocks)
+ - Thingiverse released items downloaded as of 2018/03/21
  - not yet available
 
 ## ShipWorks 3D
@@ -95,19 +96,22 @@
 
  - [Tavern Born: 3d Printable 28mm Terrain](https://www.kickstarter.com/projects/hobgoblin3d/tavern-borntm-raghaven-hamlet-3d-printable-28mm-te)
  - not yet available
+ - Pre-release Carriage downloaded 2018/03/21
  - last checked 2018/02/27
 
 ## Castle Project
 
  - [Castle Project](https://www.kickstarter.com/projects/1091743840/castle-project-3d-printable-castle-compatible-open)
- - not yet available
- - last checked 2018/02/27
+ - (in library/castle project)
+ - on NeFAST website: https://nefast-collection.com/
+ - Downloaded via coupon code on 2018/03/21
+
 
 ## War Layer
 
  - [War Layer: Oribital Drop](https://www.kickstarter.com/projects/1989721065/warlayer-3d-printable-terrain-orbital-drop)
  - (in library/War Layer)
- - last checked 2018/02/27
+ - last checked 2018/03/21
  - on Google Drive: various
 
 
@@ -150,7 +154,6 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # Transfer to sdcard
 
- 
 # To Finish
 
  - geometry bracelet
@@ -254,12 +257,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # Scheduled Posts
 
-03/18 - Sylph
-03/20 - Paint Rack
-03/22 - Bestiary - Pegasus
-03/24 - Ships - Battlecruiser
-03/26 - Ships - Pegasus class Carrier
-03/28 - Ships - Judgement class Capital Ship
+
 
 # Current
 
@@ -288,6 +286,16 @@ Wait - we have gcode on the SDCard!
 
 # More Ships
 
+Airship - Exploratis: https://www.thingiverse.com/thing:2817385/
+Airship - Simple Airship: https://www.thingiverse.com/thing:2809997/
+
+SW - YT-class Interceptor: https://www.thingiverse.com/thing:2792775/
+SW - Corellian Light Freighter: https://www.thingiverse.com/thing:2790751
+SW - YT-90 Heavy Freighter: https://www.thingiverse.com/thing:2788655
+SW - Nubian Pod Racer: https://www.thingiverse.com/thing:2823783
+
+Serenity: https://www.thingiverse.com/thing:2601098/
+
 Frigate - https://www.thingiverse.com/thing:2480390
 Escort Ship - https://www.thingiverse.com/thing:2480377
 Ulysses - https://www.thingiverse.com/thing:1581465
@@ -302,17 +310,213 @@ Star Wars / Interdictor Cruiser - https://www.thingiverse.com/thing:812945
 Star Wars / First Order Dreadnought - https://www.thingiverse.com/thing:2742289
 
 Star Wars / Vader Pod Racer - https://www.thingiverse.com/thing:2448998
-Star Wars / Old Republic Imperial Destroyer - https://www.thingiverse.com/thing:1112088
+SWTOR / Destroyer - https://www.thingiverse.com/thing:1112084
+SW / Assault Frigate - https://www.thingiverse.com/thing:1778455
+Republic Light Cruiser - https://www.thingiverse.com/thing:1955461
 Star Wars / Millenium Falcon - https://www.thingiverse.com/thing:919475
 
 
-# Ships - Hiigarian Battlecruiser
+# Wolf Head (GoT)
 
-**Source**: [Hiigarian Battlecruiser](https://www.thingiverse.com/thing:2221712)
-**Maker**: [Verskon](https://www.thingiverse.com/Verskon)
+The 10 year old wanted to print a pink wolf for a friend at school. What better than a
+Game of Thrones style wolf head?
+
+**Source**: [House Stark Game of Thrones](https://www.myminifactory.com/object/3d-print-house-stark-game-of-thrones-1154?storeview=shop)
+**Maker**: [Ricardo Alves](https://www.myminifactory.com/users/ricardoalves)
+**License**: [Download, Print, Share, Maintain](https://www.myminifactory.com/pages/object-licensing)
+**Model**: All Files
+**Scale**: 2000% (X,Y), 2500% (Z)
+**Final Size**: 96.1mm x 70.0mm x 7.0mm
+**Material**: Inland Pink PLA 1.75mm
+**Print Date**: 2018/03/20
+**Print Time**:
+**Estimated Print Time**: 6 hours 11 minutes
+**Estimated Filament**: 3.9 meters
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.05mm
+ - 40% infill
+ - Build plate adhesion
+
+# War Layer - Carrier Vehicle
+
+From `war layer/crate-transport/` a double transport vehicle.
+
+**Maker**: War Layer
+**License**:
+**Model**:
+ 
+ - carrier back: 
+ - carrier body: 
+ - normal wheel x10: 
+ - axel x5: 
+
+**Scale**: 50%
+**Material**:
+ 
+ - carrier back: 
+ - carrier body: 
+ - normal wheel x10: 
+ - axel x5: 
+
+**Print Date**:
+**Print Time**:
+ 
+ - carrier back: 
+ - carrier body: 
+ - normal wheel x10: 
+ - axel x5: 
+
+**Estimated Print Time**:
+ 
+ - carrier back: 4 hours 46 minutes
+ - carrier body: 8 hours 57 minutes
+ - normal wheel x10: 10 hours 46 minutes
+ - axel x5: 1 hour 25 minutes
+
+**Estimated Filament**:
+ 
+ - carrier back: 4.1 meters
+ - carrier body: 7.8 meters
+ - normal wheel x10: 7.6 meters
+ - axel x5: 0.9 meters
+
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - raft
+ - supports everywhere
+
+# Ships - Sci-Fi Cargo Truck
+
+**Source**: [Sci-Fi Cargo Truck](https://www.thingiverse.com/thing:2834972)
+**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
 **License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+**Model**: all files
+**Scale**: 25%
+**Final Size**: - 
+**Material**:
+
+ - base: 
+ - cockpit: 
+ - controls: 
+ - hull: 
+ - seat: 
+ - thruster strap: 
+ - thruster: 
+ 
+**Print Date**: 2018/03/30
+**Print Time**:
+
+ - base: 
+ - cockpit: 
+ - controls: 
+ - hull: 
+ - seat: 
+ - thruster strap: 
+ - thruster: 
+  
+**Estimated Print Time**:
+
+ - base: 18 minutes
+ - cockpit: 22 minutes
+ - controls: 4 minutes
+ - hull: 1 hour 41 minutes
+ - seat: 15 minutes
+ - thruster strap: 16 minutes
+ - thruster: 12 minutes
+ 
+**Estimated Filament**:
+
+ - base: 0.3 meters
+ - cockpit: 0.3 meters
+ - controls: 0.1 meters
+ - hull: 1.2 meters
+ - seat: 0.2 meters
+ - thruster strap: 0.3 meters
+ - thruster: 0.3 meters
+ 
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - rafting
+ - supports
+ - 20% infill
 
 
+# Ships - Star Wars - Destroyer
+
+https://www.thingiverse.com/thing:1112084
+
+Scaled down to 10%, rotated 90° around Z axis
+
+Fail - parts are too thin/delicate at 10% scale.
+
+
+**Source**: [Star Wars The Old Republic Destroyer](https://www.thingiverse.com/thing:1112084)
+**Maker**: [Gargi](https://www.thingiverse.com/Gargi)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**:
+  
+  - [SWTOR_Destroyer_Cut_1.stl](https://www.thingiverse.com/download:1749770)
+  - [SWTOR_Destroyer_Cut_2.stl](https://www.thingiverse.com/download:1749771)
+
+**Scale**: 10%
+**Final Size**: 80.8mm x 24.7mm x 26.4mm
+**Material**:
+**Print Date**: 2018/03/?
+**Print Time**:
+
+ - Cut 1: 
+ - Cut 2: 
+ 
+**Estimated Print Time**: 
+
+ - Cut 1: 2 hours 29 minutes
+ - Cut 2: 2 hours 29 minutes
+
+**Estimated Filament**:
+
+ - Cut 1: 2 meters
+ - Cut 2: 2 meters
+
+**Sclier**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 40% infill
+ - raft
+ - supports everywhere
+ - tree supports
+
+# Ships - Star Wars - Old Republic  Imperial Destroyer
+
+Rotate around X-axis 90° vertical
+
+https://www.instagram.com/p/Bge1ZqiFuN7/?taken-by=dwyerdevices
+
+**Source**: [Star Wars / Old Republic Imperial Destroyer](https://www.thingiverse.com/thing:1112088)
+**Maker**: [Gargi](https://www.thingiverse.com/Gargi)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Model**: [SWTOR_Imp_Destroyer.stl](https://www.thingiverse.com/download:1746996)
+**Scale**: 20%
+**Final Size**: 53.2mm x 18.5mm x 98.5mm
+**Material**: Inland Silver PLA 1.75mm
+**Print Date**: 2018/03/18
+**Print Time**:
+**Estimated Print Time**: 7 hours 9 minutes
+**Estimated Filament**: 5.1 meters
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+ 
+ - 0.06mm layers
+ - raft
+ - supports everywhere
+ - 40% infill
 
 # Ships - Star Wars - Smuggler's Ship
 
@@ -543,6 +747,37 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
  - 50% infill
  - 0.06mm layers  
  
+
+# Ships - Scaled Up Space Station
+
+Going through the various Kickstarter projects we've backed recently, picking some models from each
+to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
+**space_station_repaired.stl**
+
+This is a scaled up version of the previous Space Station - hopefully being a bit bigger, and
+a bit denser, will give it some longevity in the hands of active kids.
+
+Rotated 90° around the x-axis to a vertical orientation for printing.
+
+**Source**: SciFi Structures - All Spaceships Pack
+**Maker**: []()
+**Model**: space_station_repaired.stl
+**License**:
+**Material**: Inland Silver PLA 1.75mm
+**Scale**: 200%
+**Final Size**: 82.9mm x 82.9mm x 117.7mm
+**Print Date**: 2018/03/?
+**Print Time**: 
+**Estimated Print Time**: 22 hours 31 minutes
+**Estimated Filament**: 29.7 meters
+**Slicer**: Cura 3
+**Slicer Settings**:
+ - generate support
+ - Support line width: 0.2mm
+ - build plate adhesion: raft
+ - 80% infill
+ - 0.1mm layers 
+  
 # Ships - Space Station
 
 Going through the various Kickstarter projects we've backed recently, picking some models from each
@@ -553,11 +788,14 @@ The space station model is intricate, and standard supports could be very messy 
 to try a smaller line thickness for the supports, so they are both easy to differentiate from the model
 portions, but also somewhat easier to remove in small or awkward spaces.
 
+And, of course, being fairly delicate, this model broke rather quickly under regular use from the
+kids.
+
 **Source**: SciFi Structures - All Spaceships Pack
 **Maker**: []()
 **Model**: space_station_repaired.stl
 **License**:
-**Material**: Inland Silver PLA 1.75mm
+**Material**: Inland Dandelion PLA 1.75mm
 **Scale**: 100%
 **Final Size**: 41.5mm x 58.9mm x 41.5mm
 **Print Date**: 2018/03/?
@@ -861,14 +1099,14 @@ Flipped mane upside down.
 
  - Body: 9 hours 46 minutes
  - Mane: 9 hours 40 minutes
- - Tail: 5 hours 19 minutes
+ - Tail: 6 hours 3 minutes
  - Eyes: 23 minutes
  
 **Estimated Filament**: 25 meters
 
  - Body: 10 meters
  - Mane: 8.8 meters
- - Tail: 6 meters
+ - Tail: 6.9 meters
  - Eyes: 0.2 meters
  
 **Slicer**: Cura 3
@@ -877,7 +1115,7 @@ Flipped mane upside down.
  - 0.06mm layers
  - 20% infill
  - Supports
- - Mane:
+ - Mane and Tail:
   - supports from everywhere
   - tree supports
   - raft
@@ -997,6 +1235,9 @@ Attempt 2: Flipped mane upside down **fail**
 
 Attempt 3: Flipped mane upside down, raft, tree supports 
 
+Hat as is failed. Added brim and tree supports, and cranking down the layer size to save time, as I need to assemble
+the final versions in the next few hours.
+
 **Source**: [Applejack - MLP:FIM](https://www.thingiverse.com/thing:630749)
 **Maker**: [plenet](https://www.thingiverse.com/plenet)
 **License**: [Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)
@@ -1023,7 +1264,7 @@ Attempt 3: Flipped mane upside down, raft, tree supports
 
  - Body: 9 hours 44 minutes
  - Mane: 5 hours 24 minutes
- - Hat: 4 hours 41 minutes
+ - Hat: 2 hours 17 minutes
  - Tail: 3 hours 34 minutes
  - Eyes: 23 minutes
  
@@ -1031,16 +1272,17 @@ Attempt 3: Flipped mane upside down, raft, tree supports
 
  - Body: 10 meters
  - Mane: 4.2 meters
- - Hat: 4 meters
+ - Hat: 5.6 meters
  - Tail: 3.7 meters
  - Eyes: 0.2 meters
  
 **Slicer**: Cura 3
 **Slicer Settings**:
 
- - 0.06mm layers
+ - Hat: 0.15mm layers
+ - Others: 0.06mm layers
  - 20% infill
- - Mane:
+ - Mane and Hat:
   - supports from everywhere
   - tree supports
   - raft
@@ -1049,7 +1291,7 @@ Attempt 3: Flipped mane upside down, raft, tree supports
     
 ## Rainbow Dash
 
-Printing the mane pieces upside down.
+Printing the mane pieces upside down. Except for the pink mane, which was rotated 75° around the X axis
 
 **Source**: [Rainbow Dash - MLP:FIM](https://www.thingiverse.com/thing:630735)
 **Maker**: [plenet](https://www.thingiverse.com/plenet)
@@ -1088,38 +1330,41 @@ Printing the mane pieces upside down.
  - Tail Red: 
  - Tail Yellow: 
  - Eyes: 
+ - Eyes x6: 
  
 **Estimated Print Time**: 34 hours 39 minutes
 
  - Body: 20 hours 8 minutes
- - Mane Blue: 29 minutes
- - Mane Green: 21 minutes
- - Mane Orange: 1 hour 15 minutes
- - Mane Pink: 35 minutes
- - Mane Red: 1 hour 7 minutes
- - Mane Yellow: 48 minutes
- - Tail Blue: 1 hour 51 minutes
- - Tail Green: 2 hours 32 minutes
- - Tail Orange: 1 hour 2 minutes
- - Tail Red: 1 hour 26 minutes
- - Tail Yellow: 2 hours 37 minutes
+ - Mane Blue: 40 minutes
+ - Mane Green: 34 minutes
+ - Mane Orange: 1 hour 34 minutes
+ - Mane Pink: 45 minutes
+ - Mane Red: 1 hour 24 minutes
+ - Mane Yellow: 1 hour 3 minutes
+ - Tail Blue: 1 hour 17 minutes
+ - Tail Green: 1 hour 55 minutes
+ - Tail Orange: 54 minutes
+ - Tail Red: 56 minutes
+ - Tail Yellow: 2 hours
  - Eyes: 23 minutes
+ - Eyes x6: 2 hours 22 minutes
  
 **Estimated Filament**: 31.3 meters
 
  - Body: 19.6 meters
- - Mane Blue: 0.3 meters
- - Mane Green: 0.2 meters
- - Mane Orange: 0.9 meters
- - Mane Pink: 0.3 meters
- - Mane Red: 0.8 meters
- - Mane Yellow: 0.5 meters
- - Tail Blue: 1.7 meters
- - Tail Green: 2.4 meters
- - Tail Orange: 0.5 meters
- - Tail Red: 1 meter
- - Tail Yellow: 2.1 meters
+ - Mane Blue: 0.5 meters
+ - Mane Green: 0.5 meters
+ - Mane Orange: 1.3 meters
+ - Mane Pink: 0.7 meters
+ - Mane Red: 1.2 meters
+ - Mane Yellow: 0.9 meters
+ - Tail Blue: 0.9 meters
+ - Tail Green: 1.5 meters
+ - Tail Orange: 0.6 meters
+ - Tail Red: 0.7 meter
+ - Tail Yellow: 1.5 meters
  - Eyes: 0.2 meters
+ - Eyes x6: 2 meters
  
 **Slicer**: Cura 3
 **Slicer Settings**:
@@ -1127,6 +1372,12 @@ Printing the mane pieces upside down.
  - 0.06mm layers
  - 20% infill
  - Supports
+ - Mane, Tail, Eyes:
+  - supports from everywhere
+  - tree supports
+  - raft
+  - raft air gap 0.3mm
+  - experimental tree support
      
 
 # Howl's Moving Castle
