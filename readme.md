@@ -257,7 +257,7 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # Scheduled Posts
 
-
+04/02 - SWTOR - Imperial Destroyer
 
 # Current
 
@@ -493,30 +493,7 @@ Fail - parts are too thin/delicate at 10% scale.
  - supports everywhere
  - tree supports
 
-# Ships - Star Wars - Old Republic  Imperial Destroyer
 
-Rotate around X-axis 90° vertical
-
-https://www.instagram.com/p/Bge1ZqiFuN7/?taken-by=dwyerdevices
-
-**Source**: [Star Wars / Old Republic Imperial Destroyer](https://www.thingiverse.com/thing:1112088)
-**Maker**: [Gargi](https://www.thingiverse.com/Gargi)
-**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
-**Model**: [SWTOR_Imp_Destroyer.stl](https://www.thingiverse.com/download:1746996)
-**Scale**: 20%
-**Final Size**: 53.2mm x 18.5mm x 98.5mm
-**Material**: Inland Silver PLA 1.75mm
-**Print Date**: 2018/03/18
-**Print Time**:
-**Estimated Print Time**: 7 hours 9 minutes
-**Estimated Filament**: 5.1 meters
-**Slicer**: Cura 3.2
-**Slicer Settings**:
- 
- - 0.06mm layers
- - raft
- - supports everywhere
- - 40% infill
 
 # Ships - Star Wars - Smuggler's Ship
 
