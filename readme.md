@@ -257,7 +257,12 @@ Notes:  to get 28mm scale, print at 127% (Cura print scale 1.27)
  
 # Scheduled Posts
 
-04/02 - SWTOR - Imperial Destroyer
+04/08 - Space Cargo Truck
+04/10 - Space Station
+04/12 - Scaled Up Space Station
+04/14 - Space Station Repairs
+04/16 - Ships - Ulysses
+04/18 - Ships - Mobile shipyard
 
 # Current
 
@@ -298,7 +303,7 @@ Serenity: https://www.thingiverse.com/thing:2601098/
 
 Frigate - https://www.thingiverse.com/thing:2480390
 Escort Ship - https://www.thingiverse.com/thing:2480377
-Ulysses - https://www.thingiverse.com/thing:1581465
+
 Transport - https://www.thingiverse.com/thing:550483
 
 Mechanius Cruiser - https://www.thingiverse.com/thing:2579519
@@ -316,6 +321,8 @@ Republic Light Cruiser - https://www.thingiverse.com/thing:1955461
 Star Wars / Millenium Falcon - https://www.thingiverse.com/thing:919475
 
 
+
+ 
 # Wolf Head (GoT)
 
 The 10 year old wanted to print a pink wolf for a friend at school. What better than a
@@ -339,9 +346,147 @@ Game of Thrones style wolf head?
  - 40% infill
  - Build plate adhesion
 
+
+# Unikitty
+
+A school friend of the 10 year old likes the color pink and Unikitty. For a kindness project, we're tackling
+both by printing up a multi-color Unikitty!
+
+**Source**: [lego movie - Unikitty](https://www.thingiverse.com/thing:497766)
+**Maker**: [thereturnofthewill](https://www.thingiverse.com/thereturnofthewill)
+**Model**: All Files
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Scale**: 175%
+**Materials**:
+
+ - body: pink
+ - ear x2: light purple
+ - chin: white
+ - head: pink
+ - hoof blue: turquoise
+ - hoof top x2: white
+ - hoof yellow: dandelion yellow
+ - horn: turquoise
+ - neck: peak green
+ - tail: blue
+ - button: white
+  
+**Print Date**: 2018/04/05 - ?
+**Print Time**:
+
+ - body: 
+ - ear x2: 
+ - chin: 
+ - head: 
+ - hoof blue: 
+ - hoof top x2: 
+ - hoof yellow: 
+ - horn: 
+ - neck: 
+ - tail: 
+ - button: 
+  
+**Estimated Print Time**:
+
+ - body: 1 hour 42 minutes
+ - ear x2: 55 minutes
+ - chin: 57 minutes
+ - head: 1 hour 53 minutes
+ - hoof blue: 25 minutes
+ - hoof top x2: 43 minutes
+ - hoof yellow: 25 minutes
+ - horn: 13 minutes
+ - neck: 17 minutes
+ - tail: 1 hour 4 minutes
+ - button: 23 minutes
+  
+**Estimated Filament**:
+
+ - body: 1.6 meters
+ - ear x2: 0.7 meters
+ - chin: 0.8 meters
+ - head: 2.1 meters
+ - hoof blue: 0.3 meters
+ - hoof top x2: 0.6 meters
+ - hoof yellow: 0.3 meters
+ - horn: 0.1 meters
+ - neck: 0.2 meters
+ - tail: 1.1 meters
+ - button: 0.3 meters
+  
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.06mm layers
+ - 20% infill
+ - supports
+ - brim
+ 
+# Protractor
+
+Quick print of a protractor for a homework assignment to measure various angles.
+
+
+**Source**: [Protractor](https://www.thingiverse.com/thing:1753212)
+**Maker**: [mistertech](https://www.thingiverse.com/mistertech)
+**Model**: [Proctractor.stl](https://www.thingiverse.com/download:2731205)
+**License**: [Creative Commons - Attribution](http://creativecommons.org/licenses/by/3.0/)
+**Material**: Hatchbox Red PLA 1.75mm
+**Scale**: 50%
+**Print Date**: 2018/04/04
+**Print Time**:
+**Estimated Print Time**: 40 minutes
+**Estimated Filament**: 1.1 meters
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+ 
+ - 0.10mm layers
+ - 100% infill
+ - brim
+ 
+# Dice Box - d6
+
+**Source**: 
+**Maker**: [patricknevindwyer]()
+**Models**: [all models]()
+**License**: [Creative Commons - Attribution - Share-alike]()
+**Material**: 
+
+ - Top/Bottom: Pxmalion Clear PLA 1.75mm
+ - Pip: Inland Peak Green PLA 1.75mm
+ 
+**Print Date**: 2018/04/?
+**Print Time**:
+
+ - Top: 
+ - Bottom: 
+ - Pip x21: 
+
+**Estimated Print Time**:
+
+ - Top: 1 hour 35 minutes
+ - Bottom: 6 hours 55 minutes
+ - Pip x21: 45 minutes
+
+**Estimated Filament**: 
+
+ - Top: 3.0 meters
+ - Bottom: 9.9 meters
+ - Pip x21: 1.26 meters
+
+**Slicer**: Cura 3.2
+**Slicer Settings**:
+
+ - 0.10mm layers
+ - 20% infill
+ - supports
+ - raft
+ 
 # War Layer - Carrier Vehicle
 
-From `war layer/crate-transport/` a double transport vehicle.
+From `war layer/crate-transport/` a double transport vehicle. Wheel x10 and Axel x5 failed - one of the
+wheels kept coming loose while printing. Trying without raft, and two wheels at a time.
+
 
 **Maker**: War Layer
 **License**:
@@ -350,6 +495,7 @@ From `war layer/crate-transport/` a double transport vehicle.
  - carrier back: 
  - carrier body: 
  - normal wheel x10: 
+ - normal wheel x2:
  - axel x5: 
 
 **Scale**: 50%
@@ -358,6 +504,7 @@ From `war layer/crate-transport/` a double transport vehicle.
  - carrier back: 
  - carrier body: 
  - normal wheel x10: 
+ - normal wheel x2:
  - axel x5: 
 
 **Print Date**:
@@ -366,6 +513,7 @@ From `war layer/crate-transport/` a double transport vehicle.
  - carrier back: 
  - carrier body: 
  - normal wheel x10: 
+ - normal wheel x2:
  - axel x5: 
 
 **Estimated Print Time**:
@@ -373,6 +521,7 @@ From `war layer/crate-transport/` a double transport vehicle.
  - carrier back: 4 hours 46 minutes
  - carrier body: 8 hours 57 minutes
  - normal wheel x10: 10 hours 46 minutes
+ - normal wheel x2: 2 hours 2 minutes
  - axel x5: 1 hour 25 minutes
 
 **Estimated Filament**:
@@ -380,6 +529,7 @@ From `war layer/crate-transport/` a double transport vehicle.
  - carrier back: 4.1 meters
  - carrier body: 7.8 meters
  - normal wheel x10: 7.6 meters
+ - normal wheel x2: 1.34 meters
  - axel x5: 0.9 meters
 
 **Slicer**: Cura 3.2
@@ -387,65 +537,10 @@ From `war layer/crate-transport/` a double transport vehicle.
 
  - 0.06mm layers
  - 20% infill
- - raft
+ - raft (not wheels or axels)
+ - brim (wheels and axels)
  - supports everywhere
 
-# Ships - Sci-Fi Cargo Truck
-
-**Source**: [Sci-Fi Cargo Truck](https://www.thingiverse.com/thing:2834972)
-**Maker**: [Curufin](https://www.thingiverse.com/Curufin)
-**License**: [Creative Commons - Attribution - Non-commercial](http://creativecommons.org/licenses/by-nc/3.0/)
-**Model**: all files
-**Scale**: 25%
-**Final Size**: - 
-**Material**:
-
- - base: 
- - cockpit: 
- - controls: 
- - hull: 
- - seat: 
- - thruster strap: 
- - thruster: 
- 
-**Print Date**: 2018/03/30
-**Print Time**:
-
- - base: 
- - cockpit: 
- - controls: 
- - hull: 
- - seat: 
- - thruster strap: 
- - thruster: 
-  
-**Estimated Print Time**:
-
- - base: 18 minutes
- - cockpit: 22 minutes
- - controls: 4 minutes
- - hull: 1 hour 41 minutes
- - seat: 15 minutes
- - thruster strap: 16 minutes
- - thruster: 12 minutes
- 
-**Estimated Filament**:
-
- - base: 0.3 meters
- - cockpit: 0.3 meters
- - controls: 0.1 meters
- - hull: 1.2 meters
- - seat: 0.2 meters
- - thruster strap: 0.3 meters
- - thruster: 0.3 meters
- 
-**Slicer**: Cura 3.2
-**Slicer Settings**:
-
- - 0.06mm layers
- - rafting
- - supports
- - 20% infill
 
 
 # Ships - Star Wars - Destroyer
@@ -700,92 +795,13 @@ to print and test out. From the [SciFi Structures Kickstarter](https://www.kicks
  - 50% infill
  - 0.06mm layers  
 
-# Ships - Mobile Shipyard
 
-Going through the various Kickstarter projects we've backed recently, picking some models from each
-to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
-**Pluto Class Mobile Shipyard - Albion_stretchgoal2.stl**
-
-**Source**: SciFi Structures - All Spaceships Pack
-**Maker**: []()
-**Model**: Pluto Class Mobile Shipyard - Albion_stretchgoal2.stl
-**License**:
-**Material**: Inland Silver PLA 1.75mm
-**Scale**: 100%
-**Final Size**: 24.7mm x 96.4mm x 12.1mm
-**Print Date**: 2018/03/?
-**Print Time**: 5 hours 28 minutes
-**Estimated Print Time**: 5 hours 41 minutes
-**Estimated Filament**: 5.3 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
- - generate support
- - build plate adhesion
- - 50% infill
- - 0.06mm layers  
  
 
-# Ships - Scaled Up Space Station
 
-Going through the various Kickstarter projects we've backed recently, picking some models from each
-to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
-**space_station_repaired.stl**
-
-This is a scaled up version of the previous Space Station - hopefully being a bit bigger, and
-a bit denser, will give it some longevity in the hands of active kids.
-
-Rotated 90° around the x-axis to a vertical orientation for printing.
-
-**Source**: SciFi Structures - All Spaceships Pack
-**Maker**: []()
-**Model**: space_station_repaired.stl
-**License**:
-**Material**: Inland Silver PLA 1.75mm
-**Scale**: 200%
-**Final Size**: 82.9mm x 82.9mm x 117.7mm
-**Print Date**: 2018/03/?
-**Print Time**: 
-**Estimated Print Time**: 22 hours 31 minutes
-**Estimated Filament**: 29.7 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
- - generate support
- - Support line width: 0.2mm
- - build plate adhesion: raft
- - 80% infill
- - 0.1mm layers 
   
-# Ships - Space Station
 
-Going through the various Kickstarter projects we've backed recently, picking some models from each
-to print and test out. From the [SciFi Structures Kickstarter](https://www.kickstarter.com/projects/1419392625/printable-scifi-structures-stl-file-pack-for-table), the
-**space_station_repaired.stl**
-
-The space station model is intricate, and standard supports could be very messy to clean up. We're going
-to try a smaller line thickness for the supports, so they are both easy to differentiate from the model
-portions, but also somewhat easier to remove in small or awkward spaces.
-
-And, of course, being fairly delicate, this model broke rather quickly under regular use from the
-kids.
-
-**Source**: SciFi Structures - All Spaceships Pack
-**Maker**: []()
-**Model**: space_station_repaired.stl
-**License**:
-**Material**: Inland Dandelion PLA 1.75mm
-**Scale**: 100%
-**Final Size**: 41.5mm x 58.9mm x 41.5mm
-**Print Date**: 2018/03/?
-**Print Time**: 7 hours 26 minutes
-**Estimated Print Time**: 8 hours 6 minutes
-**Estimated Filament**: 4.4 meters
-**Slicer**: Cura 3
-**Slicer Settings**:
- - generate support
- - Support line width: 0.2mm
- - build plate adhesion
- - 50% infill
- - 0.06mm layers 
+ 
 
 # Ships - Cargo Ship
 

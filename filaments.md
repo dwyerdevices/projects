@@ -34,6 +34,8 @@ Magenta, translucent            | 1kg  | PETG       | Inland         | 2017/10/-
 Blue                            | .5kg | TPE        | Inland         | 2017/11/-    | 2017/11/-    | 80%
 Dandelion                       | 1kg  | PLA        | Inland         | 2017/12/30   | 2018/02/16   | 95%
 Pink                            | 1kg  | PLA        | Inland         | 2017/10/-    | 2018/02/17   | 95%
+Green                           | 1kg  | PLA        | Tianse         | 2018/02/26   | 2018/03/01   | 90%
+Clear                           | 1kg  | PLA        | Pxmalion       | 2018/03/26   | 2018/04/01   | 95%
 
 ## Unopened
 
@@ -55,8 +57,6 @@ Purple                          | 1kg  | PLA        | Tianse         | 2018/01/2
 Light Purple                    | .5kg | PLA        | AIO Robotics   | 2018/02/07
 Black                           | 1kg  | PLA        | Tianse         | 2018/02/07
 White                           | 1kg  | PLA        | Tianse         | 2018/02/26
-Green                           | 1kg  | PLA        | Tianse         | 2018/02/26
-Clear                           | 1kg  | PLA        | Pxmalion       | 2018/03/26
 
 ## Finished
 
